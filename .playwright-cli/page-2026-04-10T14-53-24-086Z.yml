@@ -1,0 +1,402 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img [ref=e5]
+    - list [ref=e7]:
+      - listitem [ref=e8]:
+        - link "Services" [ref=e9] [cursor=pointer]:
+          - /url: /services
+      - listitem [ref=e10]:
+        - link "Approach" [ref=e11] [cursor=pointer]:
+          - /url: /approach
+      - listitem [ref=e12]:
+        - link "Clients" [ref=e13] [cursor=pointer]:
+          - /url: /clients
+      - listitem [ref=e14]:
+        - link "Community" [ref=e15] [cursor=pointer]:
+          - /url: /community
+      - listitem [ref=e16]:
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e18]
+      - listitem [ref=e19]:
+        - link "Careers@Nu" [ref=e20] [cursor=pointer]:
+          - /url: https://nussknacker.io/careers
+      - listitem [ref=e21]:
+        - link "Talks" [ref=e22] [cursor=pointer]:
+          - /url: /talks
+      - listitem [ref=e23]:
+        - link "Portfolio" [ref=e24] [cursor=pointer]:
+          - /url: /portfolio
+      - listitem [ref=e25]:
+        - link "Blog" [ref=e26] [cursor=pointer]:
+          - /url: https://touk.pl/blog
+          - text: Blog
+  - generic [ref=e29]:
+    - generic [ref=e30]:
+      - paragraph [ref=e32]:
+        - text: Respect
+        - text: for
+        - strong [ref=e33]: the inimitable
+        - text: software engineers of
+        - img [ref=e34]
+        - text: who have joined
+        - link [ref=e35] [cursor=pointer]:
+          - /url: https://www.snowflake.com/
+          - img [ref=e36]
+        - link "learn more" [ref=e37] [cursor=pointer]:
+          - /url: https://www.snowflake.com/blog/snowflake-expands-engineering-team-in-poland/
+          - text: learn more
+          - img [ref=e38]
+      - paragraph [ref=e41]:
+        - text: ... or who
+        - text: will continue
+        - text: working with us on
+        - link [ref=e42] [cursor=pointer]:
+          - /url: https://nussknacker.io/
+          - img [ref=e43]
+        - link "explore" [ref=e44] [cursor=pointer]:
+          - /url: https://nussknacker.io/blog/nu-chapter-for-touk/
+          - text: explore
+          - img [ref=e45]
+    - paragraph [ref=e48]: Thank you for all these years together
+  - generic [ref=e52]:
+    - heading "Services" [level=2] [ref=e53]
+    - paragraph [ref=e54]: If you’re looking for the software house to implement a custom advanced technology for your business, you’re in the right place.
+    - paragraph [ref=e55]: We love the challenges of advanced IT projects and crafting robust systems. Customised open source components let us deliver what you need in the best time and budget possible.
+  - generic [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img [ref=e62]
+        - paragraph [ref=e63]: Digital decisioning
+        - paragraph [ref=e64]: We build custom systems on top of digital decisioning tool Nussknacker. Implementations include real-time marketing, fraud detection, revenue assurance systems.
+      - generic [ref=e65]:
+        - img [ref=e66]
+        - paragraph [ref=e67]: Systems integration
+        - paragraph [ref=e68]: TouK implements and upgrades system integration software of all levels of complexity. We take great care to ensure they guarantee both well-cooperating services and data integrity.
+      - generic [ref=e69]:
+        - img [ref=e70]
+        - paragraph [ref=e71]: Databases
+        - paragraph [ref=e72]: We have the necessary skills to tackle petabytes of data, enabling you to turn data into business insights. Whether you need a traditional relational database or want to use non-normalized data in a NoSQL repository, we’re here to help.
+      - generic [ref=e73]:
+        - img [ref=e74]
+        - paragraph [ref=e75]: Enterprise applications
+        - paragraph [ref=e76]: From SMBs to corporations, custom enterprise applications require a skilled software project team. We’ve got what you need – developers and UX designers with years of experience in developing applications that are both efficient and user-friendly.
+      - generic [ref=e77]:
+        - img [ref=e78]
+        - paragraph [ref=e79]: IT reorganisation
+        - paragraph [ref=e80]: Do you want to replace legacy software but business continuity disruptions restrain you from the big decision? We are experienced in agile re-engineering of key company systems, maintaining full continuity of business processes within your organization.
+      - generic [ref=e81]:
+        - img [ref=e82]
+        - paragraph [ref=e83]: Project rescue squad
+        - paragraph [ref=e84]: Faulty legacy systems, unhelpful software providers, fluctuating business concepts, changing legal regulations – crisis can happen when you least expect it. TouK teams are agile and provide technological versatility you will need when dealing with critical situations.
+    - link "See portfolio" [ref=e86] [cursor=pointer]:
+      - /url: /portfolio
+      - text: See portfolio
+      - img [ref=e87]
+  - generic [ref=e91]:
+    - generic [ref=e92]:
+      - heading "Approach" [level=2] [ref=e93]
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: Planning your project
+        - list [ref=e96]:
+          - listitem [ref=e97]:
+            - img [ref=e99]
+            - generic [ref=e100]:
+              - heading "Your idea, limits and budget" [level=5] [ref=e101]
+              - paragraph [ref=e102]: Would you like to solve a business problem with a custom software solution? Or maybe you have a product idea in mind? Let’s take a closer look!
+          - listitem [ref=e103]:
+            - img [ref=e105]
+            - generic [ref=e106]:
+              - heading "Research and proof of concept" [level=5] [ref=e107]
+              - paragraph [ref=e108]: Together, we will walk through your assumptions and present our solution as an outcome of the process. If needed, we will build a prototype to ensure that the final result will meet the expectations.
+          - listitem [ref=e109]:
+            - img [ref=e111]
+            - generic [ref=e112]:
+              - heading "Initial plan" [level=5] [ref=e113]
+              - paragraph [ref=e114]: It’s time to draw up an initial plan. Taking into account your time constraints, budget and technology preferences, we’ll find out the best possible option.
+          - listitem [ref=e115]:
+            - img [ref=e117]
+            - generic [ref=e118]:
+              - heading "Established team" [level=5] [ref=e119]
+              - paragraph [ref=e120]: When we’re on the same page and ready to start, it’s time to select a dedicated full-time team to deliver your project.
+      - generic [ref=e121]:
+        - paragraph [ref=e122]: Software development
+        - paragraph [ref=e123]: Business requirements change faster than most ISVs can withstand. We create software that anticipates future changes and provides ultra-lasting quality. Our teams use XP practices and organize their work using Scrum and Kanban methods.
+        - paragraph [ref=e124]: We are software experts, not just programmers. We provide a diverse skill set needed to succeed as an ISV. This includes writing software specifications, code, automated tests, and documentation. We’re also capable of solving tough algorithmic problems.
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - img [ref=e128]
+            - paragraph [ref=e129]: Plan
+          - generic [ref=e130]:
+            - img [ref=e132]
+            - paragraph [ref=e133]:
+              - text: Development
+              - text: and testing
+          - generic [ref=e134]:
+            - img [ref=e136]
+            - paragraph [ref=e137]:
+              - text: working
+              - text: software
+          - generic [ref=e138]:
+            - img [ref=e140]
+            - paragraph [ref=e141]:
+              - text: feedback and
+              - text: adaptation
+    - generic [ref=e142]:
+      - heading "Technology" [level=2] [ref=e143]
+      - paragraph [ref=e144]: We are Java, Scala and Kotlin fans but with each new project, we choose the most applicable technologies and leverage their strengths. We can do this because we know the tool stack inside out – our developers are recognised for their expertise in the IT community.
+      - generic [ref=e146]:
+        - list [ref=e147]:
+          - link "Languages" [ref=e148] [cursor=pointer]:
+            - /url: "#languages-tech"
+          - link "Fast Data" [ref=e149] [cursor=pointer]:
+            - /url: "#fastdata-tech"
+          - link "Backend" [ref=e150] [cursor=pointer]:
+            - /url: "#backend-tech"
+          - link "Frontend" [ref=e151] [cursor=pointer]:
+            - /url: "#frontend-tech"
+          - link "Database" [ref=e152] [cursor=pointer]:
+            - /url: "#database-tech"
+          - link "Devops" [ref=e153] [cursor=pointer]:
+            - /url: "#devops-tech"
+        - tabpanel [ref=e155]:
+          - link "Java" [ref=e157] [cursor=pointer]:
+            - /url: http://www.oracle.com/technetwork/java/index.html
+            - img "Java" [ref=e158]
+          - link "Scala" [ref=e160] [cursor=pointer]:
+            - /url: http://www.scala-lang.org/
+            - img "Scala" [ref=e161]
+          - link "Kotlin" [ref=e163] [cursor=pointer]:
+            - /url: http://kotlinlang.org/
+            - img "Kotlin" [ref=e164]
+          - link "Lua" [ref=e166] [cursor=pointer]:
+            - /url: https://www.lua.org/
+            - img "Lua" [ref=e167]
+          - link "Python" [ref=e169] [cursor=pointer]:
+            - /url: https://www.python.org/
+            - img "Python" [ref=e170]
+          - link "Golang" [ref=e172] [cursor=pointer]:
+            - /url: https://golang.org/
+            - img "Golang" [ref=e173]
+  - generic [ref=e177]:
+    - heading "Clients" [level=2] [ref=e178]
+    - paragraph [ref=e179]: We have cooperated with most of our clients for years. They are several large and medium enterprises from different businesses whose trust we have won through our expertise, hard work and initiative that creates value. We ensure that our clients enjoy top quality in their IT systems with low maintenance costs.
+    - paragraph [ref=e180]: "Since 2002 we have worked for: telecommunications, media & digital communications, financial services, banking, utility, logistics, publishing and security sector companies."
+    - paragraph [ref=e181]: Our clientele is spread around the globe, featuring companies from Poland, United Kingdom, Romania, Denmark, Ireland, United States and Nigeria.
+  - generic [ref=e186]:
+    - img [ref=e187]
+    - generic [ref=e189]:
+      - generic [ref=e191]:
+        - paragraph [ref=e194]: TouK experts demonstrated broad technical knowledge, professional attitude and excellent communication skills. They contributed to the success of the project. As we are satisfied with cooperation with TouK, we can recommend this software provider, especially for demanding IT projects.
+        - generic [ref=e196]:
+          - paragraph [ref=e197]: Adam Kołaczyk
+          - paragraph [ref=e198]: Partner, Deloitte Sp. z o.o.
+      - generic [ref=e200]:
+        - paragraph [ref=e203]: We wish to emphasize that TouK's experience, domain expertise and commitment enabled us to launch the system in such a short time and to prepare for the planned increase in the number of subscribers.
+        - generic [ref=e205]:
+          - paragraph [ref=e206]: Krzysztof Kołaczkowski
+          - paragraph [ref=e207]: IT Director of Virgin Mobile Polska Sp. z o.o.
+      - generic [ref=e209]:
+        - paragraph [ref=e212]: We recommend TouK as a reliable and trustworthy technology partner. We highly evaluate technical competence of TouK developers in terms of creating hi-tech and fully scalable platform solutions.
+        - generic [ref=e214]:
+          - paragraph [ref=e215]: Jakub Kaczmarski
+          - paragraph [ref=e216]: Developers Team Leader, Grupa Allegro Sp. z o.o.
+      - generic [ref=e218]:
+        - paragraph [ref=e221]: On behalf of P4 I would like to express our satisfaction with our cooperation with TouK and recommend this company as a professional and reliable partner in the area of high-quality software development.
+        - generic [ref=e223]:
+          - paragraph [ref=e224]: Piotr Łakomski
+          - paragraph [ref=e225]: IT Director, P4 sp. z.o.o. (Playmobile)
+      - generic [ref=e227]:
+        - paragraph [ref=e230]: (…) our cooperation was flexible and constructive. As representatives of a mobile operator we have no doubt that TouK is a partner worth-recommending for the process of IT resources integration in the telecoms sector.
+        - generic [ref=e232]:
+          - paragraph [ref=e233]: Tomasz Kieroński
+          - paragraph [ref=e234]: Product & Systems Development Director, PTC sp. z o.o. (T-Mobile)
+      - generic [ref=e236]:
+        - paragraph [ref=e239]: TouK in record time and despite changing requirements deployed a complete, custom solution for MVNO services in Virgin Mobile. The project was successful thanks to the exceptionally strong team of developers who created a well-functioning software.
+        - generic [ref=e241]:
+          - paragraph [ref=e242]: Maciej Grzeszczuk
+          - paragraph [ref=e243]: IT & Operations Director, Virgin Mobile Poland
+      - generic [ref=e245]:
+        - paragraph [ref=e248]: The aptness of our choice of a technological partner was confirmed during several months of cooperation on the project. TouK has once again demonstrated professionalism and flexibility while responding to WiP's needs. During the implementation of the project TouK provided competent support, and presently they ensure the further development and maintenance of the system.
+        - generic [ref=e250]:
+          - paragraph [ref=e251]: Bartłomiej Kahn
+          - paragraph [ref=e252]: IT Manager, Wydawnictwo Wiedza i Praktyka
+      - generic [ref=e254]:
+        - paragraph [ref=e257]: As part of service delivery, TouK presented a high technological standard, creativity and innovation in regard to the technologies used. Their huge dedication and commitment, often necessary in long-term and complex projects, is also noteworthy.
+        - generic [ref=e259]:
+          - paragraph [ref=e260]: Andrzej Paszyński
+          - paragraph [ref=e261]: C&I Director, Hewlett-Packard Polska
+      - generic [ref=e263]:
+        - paragraph [ref=e266]: The software delivered by TouK programmers met our stringent requirements and expectations.
+        - generic [ref=e268]:
+          - paragraph [ref=e269]: Michał Plechawski
+          - paragraph [ref=e270]: IT Director, PayU S.A.
+      - generic [ref=e272]:
+        - paragraph [ref=e275]: Touk's team stayed active and open-minded throughout the implementation process which had a positive effect on the final product. The results of our cooperation with TouK reassured us that we had chosen a supplier and a partner, with whom we can create solid solutions.
+        - generic [ref=e277]:
+          - paragraph [ref=e278]: Piotr Wilczyński
+          - paragraph [ref=e279]: IT Manager, ROHLIG SUUS Logistics S.A.
+      - generic [ref=e281]:
+        - paragraph [ref=e284]: TouK experts demonstrated broad technical knowledge, professional attitude and excellent communication skills. They contributed to the success of the project. As we are satisfied with cooperation with TouK, we can recommend this software provider, especially for demanding IT projects.
+        - generic [ref=e286]:
+          - paragraph [ref=e287]: Adam Kołaczyk
+          - paragraph [ref=e288]: Partner, Deloitte Sp. z o.o.
+      - generic [ref=e290]:
+        - paragraph [ref=e293]: We wish to emphasize that TouK's experience, domain expertise and commitment enabled us to launch the system in such a short time and to prepare for the planned increase in the number of subscribers.
+        - generic [ref=e295]:
+          - paragraph [ref=e296]: Krzysztof Kołaczkowski
+          - paragraph [ref=e297]: IT Director of Virgin Mobile Polska Sp. z o.o.
+    - generic [ref=e298]:
+      - button "Go to slide 1" [ref=e299] [cursor=pointer]
+      - button "Go to slide 2" [ref=e300] [cursor=pointer]
+      - button "Go to slide 3" [ref=e301] [cursor=pointer]
+      - button "Go to slide 4" [ref=e302] [cursor=pointer]
+      - button "Go to slide 5" [ref=e303] [cursor=pointer]
+      - button "Go to slide 6" [ref=e304] [cursor=pointer]
+      - button "Go to slide 7" [ref=e305] [cursor=pointer]
+      - button "Go to slide 8" [ref=e306] [cursor=pointer]
+      - button "Go to slide 9" [ref=e307] [cursor=pointer]
+      - button "Go to slide 10" [ref=e308] [cursor=pointer]
+  - generic [ref=e312]:
+    - generic [ref=e314]:
+      - img "Workshops" [ref=e316]
+      - generic [ref=e317]:
+        - paragraph [ref=e318]: Workshops
+        - paragraph [ref=e319]: We promote self-development and knowledge sharing by organizing internal workshops. Instead of hiring external trainers, we encourage our employees to teach one another, with high standards and a broad scope of topics – from new technologies and improving code quality to public speaking and presenting. On top of that, we stimulate our creativity and problem-solving skills during internal hackatons.
+    - generic [ref=e321]:
+      - generic [ref=e322]:
+        - paragraph [ref=e323]: Culture
+        - paragraph [ref=e324]: TouK is a place for hungry minds who are excited about learning new things. We are not afraid to walk an extra mile in our development as technology masters and team players. While we set the bar high, we also help everyone reach it by mutual education and cooperation. We are also proud to have a bunch of recognised industry experts and speakers on board.
+      - img "Culture" [ref=e326]
+  - generic [ref=e330]:
+    - heading "Community" [level=2] [ref=e331]
+    - paragraph [ref=e332]: Knowledge sharing
+    - paragraph [ref=e333]: At TouK, we learn how to speak in public and give presentations. We share our knowledge at many conferences in Poland and abroad, where we share what we've learned during our work.
+    - generic [ref=e334]:
+      - generic [ref=e347]:
+        - generic [ref=e348]:
+          - heading "Check out our talks page!" [level=4] [ref=e349]
+          - paragraph [ref=e350]: Our speakers visited 20 countries, see which ones.
+          - link "Go to Talks" [ref=e351] [cursor=pointer]:
+            - /url: /talks
+            - text: Go to Talks
+            - img [ref=e352]
+        - img [ref=e355]
+      - generic [ref=e356]:
+        - button "Go to slide 1" [ref=e357] [cursor=pointer]
+        - button "Go to slide 2" [ref=e358] [cursor=pointer]
+        - button "Go to slide 3" [ref=e359] [cursor=pointer]
+      - button "Next slide" [ref=e360] [cursor=pointer]
+      - button "Previous slide" [disabled]
+    - generic [ref=e361]:
+      - paragraph [ref=e362]: Nurturing the developer community
+      - paragraph [ref=e363]: We frequently take part in conferences as attendees, sponsors, and co-organizers. Additionally, we are eager contributors to many open source projects.
+      - list [ref=e365]:
+        - link "Supported by TouK" [ref=e366] [cursor=pointer]:
+          - /url: "#supported"
+        - link "Co-organized by our people" [ref=e367] [cursor=pointer]:
+          - /url: "#co-organized"
+      - tabpanel [ref=e369]:
+        - link "Confitura" [ref=e371] [cursor=pointer]:
+          - /url: http://confitura.pl/
+          - img "Confitura" [ref=e372]
+        - img "Mobile Central Europe" [ref=e375]
+        - link "Mobile Warsaw" [ref=e377] [cursor=pointer]:
+          - /url: http://mobile-warsaw.pl/
+          - img "Mobile Warsaw" [ref=e378]
+        - link "Warsaw Java Users Group" [ref=e380] [cursor=pointer]:
+          - /url: http://warszawa.jug.pl/
+          - img "Warsaw Java Users Group" [ref=e381]
+        - img "Codepot" [ref=e384]
+        - link "Devoxx" [ref=e386] [cursor=pointer]:
+          - /url: http://devoxx.pl/
+          - img "Devoxx" [ref=e387]
+        - img "Jinkubator" [ref=e390]
+        - link "33rd Degree" [ref=e392] [cursor=pointer]:
+          - /url: http://2014.33degree.org/
+          - img "33rd Degree" [ref=e393]
+        - link "Geekon" [ref=e395] [cursor=pointer]:
+          - /url: http://geecon.org/
+          - img "Geekon" [ref=e396]
+        - img "Jday" [ref=e399]
+        - link "Scalar" [ref=e401] [cursor=pointer]:
+          - /url: http://scalar-conf.com/
+          - img "Scalar" [ref=e402]
+        - link "Topconf" [ref=e404] [cursor=pointer]:
+          - /url: http://topconf.com/
+          - img "Topconf" [ref=e405]
+        - img "Warsjava" [ref=e408]
+        - img "WGK" [ref=e411]
+        - link "Vavr" [ref=e413] [cursor=pointer]:
+          - /url: http://www.vavr.io/
+          - img "Vavr" [ref=e414]
+        - link "Java Day Minsk 2016" [ref=e416] [cursor=pointer]:
+          - /url: http://javaday.by/
+          - img "Java Day Minsk 2016" [ref=e417]
+  - generic [ref=e423]:
+    - generic [ref=e424]:
+      - heading "Would you like to discuss your new project? Drop us a line and we’ll get back to you." [level=4] [ref=e425]:
+        - text: Would you like to discuss your new project?
+        - text: Drop us a line and we’ll get back to you.
+      - list [ref=e427]:
+        - listitem [ref=e428]:
+          - link "info@touk.pl" [ref=e429] [cursor=pointer]:
+            - /url: mailto:info@touk.pl
+        - listitem [ref=e430]:
+          - generic [ref=e431]: TouK sp. z o.o. s.k.a.
+          - generic [ref=e432]:
+            - generic [ref=e433]: Bohaterów Września 9 St.
+            - generic [ref=e434]: 02-389 Warsaw
+            - generic [ref=e435]: Poland
+          - generic [ref=e436]: "Tax ID: PL1132383725"
+    - generic [ref=e437]:
+      - heading "Interested in working at TouK?" [level=4] [ref=e438]
+      - link "Contact us!" [ref=e439] [cursor=pointer]:
+        - /url: mailto:praca@touk.pl
+        - text: Contact us!
+        - img [ref=e440]
+    - list [ref=e442]:
+      - listitem [ref=e443]:
+        - link [ref=e444] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/touk
+          - img [ref=e445]
+      - listitem [ref=e447]:
+        - link [ref=e448] [cursor=pointer]:
+          - /url: https://github.com/touk
+          - img [ref=e449]
+      - listitem [ref=e451]:
+        - link [ref=e452] [cursor=pointer]:
+          - /url: https://twitter.com/touk_pl
+          - img [ref=e453]
+      - listitem [ref=e455]:
+        - link [ref=e456] [cursor=pointer]:
+          - /url: https://clutch.co/profile/touk
+          - img [ref=e457]
+  - contentinfo [ref=e459]:
+    - generic [ref=e460]:
+      - paragraph [ref=e461]: © TouK sp. z o.o. s.k.a. 2016-2025
+      - paragraph [ref=e463]:
+        - text: All trademarks and registered trademarks on this website are the property of their respective owners.
+        - link "Site and recruitment privacy policy." [ref=e465] [cursor=pointer]:
+          - /url: /privacy
+        - link "Investors relations." [ref=e467] [cursor=pointer]:
+          - /url: /shareholders
+  - generic [ref=e468]:
+    - paragraph [ref=e469]:
+      - text: We use cookies to improve user experience and for analytics.
+      - text: You can read more in our
+      - link "privacy policy" [ref=e470] [cursor=pointer]:
+        - /url: /privacy
+      - text: .
+    - generic [ref=e471] [cursor=pointer]:
+      - text: necessary cookies
+      - checkbox "necessary cookies" [checked] [disabled] [ref=e472]
+    - generic [ref=e473] [cursor=pointer]:
+      - text: analytic cookies
+      - checkbox "analytic cookies" [checked] [ref=e474]
+    - generic [ref=e476] [cursor=pointer]:
+      - text: marketing cookies
+      - checkbox "marketing cookies" [checked] [ref=e477]
+    - generic [ref=e479] [cursor=pointer]: Accept

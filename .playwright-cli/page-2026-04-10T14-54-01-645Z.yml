@@ -1,0 +1,592 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#wp--skip-link--target"
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - text:                                       
+        - banner [ref=e8]:
+          - generic [ref=e9]:
+            - navigation "nawigacja" [ref=e11]:
+              - list [ref=e12]:
+                - listitem [ref=e13]:
+                  - link "Skontaktuj się z nami" [ref=e14] [cursor=pointer]:
+                    - /url: /pl-pl/contact-us
+                - listitem [ref=e15]:
+                  - link "Inwestorzy" [ref=e16] [cursor=pointer]:
+                    - /url: https://investors.capgemini.com/
+                    - generic [ref=e18]: Inwestorzy
+                    - generic [ref=e19]: 
+                - listitem [ref=e20]:
+                  - button "Wybierz stronę internetową kraju" [ref=e21] [cursor=pointer]:
+                    - generic [ref=e23]: Polska | PL
+                    - img "Polska" [ref=e25]
+            - navigation "LocationSearch":
+              - generic [ref=e26]:
+                - generic [ref=e27]:
+                  - generic [ref=e28]: Twoja lokalizacja
+                  - button "Close site selection menu" [ref=e29] [cursor=pointer]:
+                    - generic [ref=e30]: 
+                - generic [ref=e31]:
+                  - generic [ref=e32]:
+                    - generic [ref=e33]:
+                      - img "Polska" [ref=e34]
+                      - text: Polska | PL
+                    - generic [ref=e35]: 
+                  - generic [ref=e36]:
+                    - textbox "lokalizacja" [ref=e37]:
+                      - /placeholder: Znajdź lokalizację…
+                    - text: 
+                - list [ref=e39]:
+                  - listitem [ref=e40]:
+                    - text: Worldwide
+                    - list [ref=e41]:
+                      - listitem [ref=e42]:
+                        - link " Global | EN" [ref=e43] [cursor=pointer]:
+                          - /url: https://www.capgemini.com/
+                          - generic [ref=e44]:
+                            - generic [ref=e45]: 
+                            - generic [ref=e46]: Global | EN
+                  - listitem [ref=e47]:
+                    - text: Americas
+                    - list [ref=e48]:
+                      - listitem [ref=e49]:
+                        - link "Argentina | ES" [ref=e50] [cursor=pointer]:
+                          - /url: /ar-es/
+                          - generic [ref=e51]:
+                            - img [ref=e52]
+                            - generic [ref=e53]: Argentina | ES
+                      - listitem [ref=e54]:
+                        - link "Brazil | PT" [ref=e55] [cursor=pointer]:
+                          - /url: /br-pt/
+                          - generic [ref=e56]:
+                            - img [ref=e57]
+                            - generic [ref=e58]: Brazil | PT
+                      - listitem [ref=e59]:
+                        - link "Canada | EN" [ref=e60] [cursor=pointer]:
+                          - /url: /ca-en/
+                          - generic [ref=e61]:
+                            - img [ref=e62]
+                            - generic [ref=e63]: Canada | EN
+                      - listitem [ref=e64]:
+                        - link "Canada | FR" [ref=e65] [cursor=pointer]:
+                          - /url: /ca-fr/
+                          - generic [ref=e66]:
+                            - img [ref=e67]
+                            - generic [ref=e68]: Canada | FR
+                      - listitem [ref=e69]:
+                        - link "Colombia | ES" [ref=e70] [cursor=pointer]:
+                          - /url: /co-es/
+                          - generic [ref=e71]:
+                            - img [ref=e72]
+                            - generic [ref=e73]: Colombia | ES
+                      - listitem [ref=e74]:
+                        - link "Guatemala | EN" [ref=e75] [cursor=pointer]:
+                          - /url: /gu-en/
+                          - generic [ref=e76]:
+                            - img [ref=e77]
+                            - generic [ref=e78]: Guatemala | EN
+                      - listitem [ref=e79]:
+                        - link "Mexico | ES" [ref=e80] [cursor=pointer]:
+                          - /url: /mx-es/
+                          - generic [ref=e81]:
+                            - img [ref=e82]
+                            - generic [ref=e83]: Mexico | ES
+                      - listitem [ref=e84]:
+                        - link "United States | EN" [ref=e85] [cursor=pointer]:
+                          - /url: /us-en/
+                          - generic [ref=e86]:
+                            - img [ref=e87]
+                            - generic [ref=e88]: United States | EN
+                  - listitem [ref=e89]:
+                    - text: Asia Pacific
+                    - list [ref=e90]:
+                      - listitem [ref=e91]:
+                        - link "Australia | EN" [ref=e92] [cursor=pointer]:
+                          - /url: /au-en/
+                          - generic [ref=e93]:
+                            - img [ref=e94]
+                            - generic [ref=e95]: Australia | EN
+                      - listitem [ref=e96]:
+                        - link "China | ZH" [ref=e97] [cursor=pointer]:
+                          - /url: /cn-zh/
+                          - generic [ref=e98]:
+                            - img [ref=e99]
+                            - generic [ref=e100]: China | ZH
+                      - listitem [ref=e101]:
+                        - link "India | EN" [ref=e102] [cursor=pointer]:
+                          - /url: /in-en/
+                          - generic [ref=e103]:
+                            - img [ref=e104]
+                            - generic [ref=e105]: India | EN
+                      - listitem [ref=e106]:
+                        - link "Japan | JP" [ref=e107] [cursor=pointer]:
+                          - /url: /jp-jp/
+                          - generic [ref=e108]:
+                            - img [ref=e109]
+                            - generic [ref=e110]: Japan | JP
+                      - listitem [ref=e111]:
+                        - link "New Zealand | EN" [ref=e112] [cursor=pointer]:
+                          - /url: /nz-en/
+                          - generic [ref=e113]:
+                            - img [ref=e114]
+                            - generic [ref=e115]: New Zealand | EN
+                      - listitem [ref=e116]:
+                        - link "Singapore | EN" [ref=e117] [cursor=pointer]:
+                          - /url: /sg-en/
+                          - generic [ref=e118]:
+                            - img [ref=e119]
+                            - generic [ref=e120]: Singapore | EN
+                  - listitem [ref=e121]:
+                    - text: Europe, Middle East & Africa
+                    - list [ref=e122]:
+                      - listitem [ref=e123]:
+                        - link "Austria | EN" [ref=e124] [cursor=pointer]:
+                          - /url: /at-de/
+                          - generic [ref=e125]:
+                            - img [ref=e126]
+                            - generic [ref=e127]: Austria | EN
+                      - listitem [ref=e128]:
+                        - link "Belgium | EN" [ref=e129] [cursor=pointer]:
+                          - /url: /be-en/
+                          - generic [ref=e130]:
+                            - img [ref=e131]
+                            - generic [ref=e132]: Belgium | EN
+                      - listitem [ref=e133]:
+                        - link "Czech Republic | EN" [ref=e134] [cursor=pointer]:
+                          - /url: /cz-en/
+                          - generic [ref=e135]:
+                            - img [ref=e136]
+                            - generic [ref=e137]: Czech Republic | EN
+                      - listitem [ref=e138]:
+                        - link "Denmark | EN" [ref=e139] [cursor=pointer]:
+                          - /url: /dk-en/
+                          - generic [ref=e140]:
+                            - img [ref=e141]
+                            - generic [ref=e142]: Denmark | EN
+                      - listitem [ref=e143]:
+                        - link "Egypt | EN" [ref=e144] [cursor=pointer]:
+                          - /url: /eg-en/
+                          - generic [ref=e145]:
+                            - img [ref=e146]
+                            - generic [ref=e147]: Egypt | EN
+                      - listitem [ref=e148]:
+                        - link "Finland | EN" [ref=e149] [cursor=pointer]:
+                          - /url: /fi-en/
+                          - generic [ref=e150]:
+                            - img [ref=e151]
+                            - generic [ref=e152]: Finland | EN
+                      - listitem [ref=e153]:
+                        - link "France | FR" [ref=e154] [cursor=pointer]:
+                          - /url: /fr-fr/
+                          - generic [ref=e155]:
+                            - img [ref=e156]
+                            - generic [ref=e157]: France | FR
+                      - listitem [ref=e158]:
+                        - link "Germany | DE" [ref=e159] [cursor=pointer]:
+                          - /url: /de-de/
+                          - generic [ref=e160]:
+                            - img [ref=e161]
+                            - generic [ref=e162]: Germany | DE
+                      - listitem [ref=e163]:
+                        - link "Hungary | EN" [ref=e164] [cursor=pointer]:
+                          - /url: /hu-en/
+                          - generic [ref=e165]:
+                            - img [ref=e166]
+                            - generic [ref=e167]: Hungary | EN
+                      - listitem [ref=e168]:
+                        - link "Italy | IT" [ref=e169] [cursor=pointer]:
+                          - /url: /it-it/
+                          - generic [ref=e170]:
+                            - img [ref=e171]
+                            - generic [ref=e172]: Italy | IT
+                      - listitem [ref=e173]:
+                        - link "Morocco | EN" [ref=e174] [cursor=pointer]:
+                          - /url: /ma-en/
+                          - generic [ref=e175]:
+                            - img [ref=e176]
+                            - generic [ref=e177]: Morocco | EN
+                      - listitem [ref=e178]:
+                        - link "Netherlands | NL" [ref=e179] [cursor=pointer]:
+                          - /url: /nl-nl/
+                          - generic [ref=e180]:
+                            - img [ref=e181]
+                            - generic [ref=e182]: Netherlands | NL
+                      - listitem [ref=e183]:
+                        - link "Norway | NO" [ref=e184] [cursor=pointer]:
+                          - /url: /no-no/
+                          - generic [ref=e185]:
+                            - img [ref=e186]
+                            - generic [ref=e187]: Norway | NO
+                      - listitem [ref=e188]:
+                        - link "Poland | PL" [ref=e189] [cursor=pointer]:
+                          - /url: /pl-pl/
+                          - generic [ref=e190]:
+                            - img [ref=e191]
+                            - generic [ref=e192]: Poland | PL
+                      - listitem [ref=e193]:
+                        - link "Portugal | EN" [ref=e194] [cursor=pointer]:
+                          - /url: /pt-en/
+                          - generic [ref=e195]:
+                            - img [ref=e196]
+                            - generic [ref=e197]: Portugal | EN
+                      - listitem [ref=e198]:
+                        - link "Romania | EN" [ref=e199] [cursor=pointer]:
+                          - /url: /ro-en/
+                          - generic [ref=e200]:
+                            - img [ref=e201]
+                            - generic [ref=e202]: Romania | EN
+                      - listitem [ref=e203]:
+                        - link "KSA | EN" [ref=e204] [cursor=pointer]:
+                          - /url: /sa-en/
+                          - generic [ref=e205]:
+                            - img [ref=e206]
+                            - generic [ref=e207]: KSA | EN
+                      - listitem [ref=e208]:
+                        - link "Spain | ES" [ref=e209] [cursor=pointer]:
+                          - /url: /es-es/
+                          - generic [ref=e210]:
+                            - img [ref=e211]
+                            - generic [ref=e212]: Spain | ES
+                      - listitem [ref=e213]:
+                        - link "Sweden | EN" [ref=e214] [cursor=pointer]:
+                          - /url: /se-en/
+                          - generic [ref=e215]:
+                            - img [ref=e216]
+                            - generic [ref=e217]: Sweden | EN
+                      - listitem [ref=e218]:
+                        - link "Switzerland | EN" [ref=e219] [cursor=pointer]:
+                          - /url: /ch-en/
+                          - generic [ref=e220]:
+                            - img [ref=e221]
+                            - generic [ref=e222]: Switzerland | EN
+                      - listitem [ref=e223]:
+                        - link "UAE | EN" [ref=e224] [cursor=pointer]:
+                          - /url: /ae-en/
+                          - generic [ref=e225]:
+                            - img [ref=e226]
+                            - generic [ref=e227]: UAE | EN
+                      - listitem [ref=e228]:
+                        - link "UK | EN" [ref=e229] [cursor=pointer]:
+                          - /url: /gb-en/
+                          - generic [ref=e230]:
+                            - img [ref=e231]
+                            - generic [ref=e232]: UK | EN
+            - generic [ref=e233]:
+              - link "Capgemini" [ref=e234] [cursor=pointer]:
+                - /url: https://www.capgemini.com/pl-pl
+                - img "Capgemini" [ref=e235]
+              - navigation "Menu" [ref=e236]:
+                - list [ref=e237]:
+                  - listitem "Insights Submenu" [ref=e238]:
+                    - link "Insights menu" [ref=e239] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/insights/
+                      - generic [ref=e240]: Insights
+                    - button "submenu" [ref=e241] [cursor=pointer]: 
+                  - listitem "Branże Submenu" [ref=e242]:
+                    - link "Branże menu" [ref=e243] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/branze/
+                      - generic [ref=e244]: Branże
+                    - button "submenu" [ref=e245] [cursor=pointer]: 
+                  - listitem "Usługi Submenu" [ref=e246]:
+                    - link "Usługi menu" [ref=e247] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/uslugi/
+                      - generic [ref=e248]: Usługi
+                    - button "submenu" [ref=e249] [cursor=pointer]: 
+                  - listitem "Kariera Submenu" [ref=e250]:
+                    - link "Kariera menu" [ref=e251] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/kariera/
+                      - generic [ref=e252]: Kariera
+                    - button "submenu" [ref=e253] [cursor=pointer]: 
+                  - listitem "Aktualności Submenu" [ref=e254]:
+                    - link "Aktualności menu" [ref=e255] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/aktualnosci/
+                      - generic [ref=e256]: Aktualności
+                    - button "submenu" [ref=e257] [cursor=pointer]: 
+                  - listitem "O nas Submenu" [ref=e258]:
+                    - link "O nas menu" [ref=e259] [cursor=pointer]:
+                      - /url: https://www.capgemini.com/pl-pl/o-nas/
+                      - generic [ref=e260]: O nas
+                    - button "submenu" [ref=e261] [cursor=pointer]: 
+              - button " Wyszukaj" [ref=e262] [cursor=pointer]
+              - generic [ref=e263]:
+                - switch "Dark and light mode toggle, currently light mode" [ref=e265] [cursor=pointer]:
+                  - generic [ref=e266]: Dark and light mode toggle, currently light mode
+                  - generic [ref=e268]: 
+                  - generic [ref=e270]: 
+                - generic [ref=e272]: Currently in light mode
+        - text:     
+        - navigation [ref=e273]:
+          - list [ref=e275]:
+            - listitem [ref=e276]:
+              - link "Strona główna" [ref=e277] [cursor=pointer]:
+                - /url: https://www.capgemini.com/pl-pl
+            - listitem [ref=e278]:
+              - text: /
+              - link "Kariera " [ref=e279] [cursor=pointer]:
+                - /url: https://www.capgemini.com/pl-pl/kariera/
+                - generic [ref=e280]: Kariera
+                - text: 
+              - list [ref=e281]:
+                - listitem [ref=e282]:
+                  - link "Dlaczego Capgemini" [ref=e283] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/dlaczego-capgemini/
+                    - generic [ref=e284]: Dlaczego Capgemini
+                - listitem [ref=e285]:
+                  - link "Życie w Capgemini" [ref=e286] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/zycie-w-capgemini/
+                    - generic [ref=e287]: Życie w Capgemini
+                - listitem [ref=e288]:
+                  - link "Poznaj nasz zespół" [ref=e289] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/poznaj-nasz-zespol/
+                    - generic [ref=e290]: Poznaj nasz zespół
+                - listitem [ref=e291]:
+                  - link "Twoja kariera" [ref=e292] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/twoja-kariera/
+                    - generic [ref=e293]: Twoja kariera
+                - listitem [ref=e294]:
+                  - link "Spotkajmy się" [ref=e295] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/spotkaj-sie-z-nami/
+                    - generic [ref=e296]: Spotkajmy się
+                - listitem [ref=e297]:
+                  - link "Oferty pracy" [ref=e298] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/oferty-pracy/
+                    - generic [ref=e299]: Oferty pracy
+            - text: 
+    - main [ref=e300]:
+      - generic [ref=e301]:
+        - generic [ref=e307]:
+          - heading "Wait for change Rewrite your future" [level=1] [ref=e308]:
+            - generic [ref=e309]:
+              - generic [ref=e310]: Wait for change
+              - img [ref=e311]
+              - generic [ref=e313]: Rewrite your future
+          - link "Explore all jobs " [ref=e314] [cursor=pointer]:
+            - /url: https://www.capgemini.com/pl-pl/kariera/oferty-pracy/
+          - generic [ref=e315]:
+            - text: 
+            - generic [ref=e316]:
+              - textbox "Search jobs by location, profession or keywords" [ref=e317]
+              - button "Search " [ref=e318] [cursor=pointer]
+        - generic [ref=e322]:
+          - navigation [ref=e324]:
+            - list [ref=e325]:
+              - listitem [ref=e326]:
+                - link "Linkedin" [ref=e327] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/shareArticle?url=https://www.capgemini.com/pl-pl/kariera/
+                  - generic [ref=e328]: 
+                  - generic [ref=e329]: Linkedin
+              - listitem [ref=e330]:
+                - link "Facebook" [ref=e331] [cursor=pointer]:
+                  - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.capgemini.com/pl-pl/kariera/
+                  - generic [ref=e332]: 
+                  - generic [ref=e333]: Facebook
+          - generic [ref=e334]:
+            - heading "Podejmij wyzwanie!" [level=2] [ref=e335]
+            - paragraph [ref=e336]:
+              - text: Wspieramy naszych klientów w rozwoju, jednocześnie pamiętając o budowaniu bardziej zrównoważonej i inkluzywnej przyszłości. Dołączając do Capgemini, dołączasz do prężnie rozwijającej się firmy i stajesz się częścią zróżnicowanego globalnego zespołu pełnego pasji i zaangażowania, w którym spotykają się najlepsi eksperci i ekspertki w branży.
+              - text: Wykorzystujemy technologię do tego, by na nowo napisać przyszłość. Wspólnie pracujemy nad projektami transformacji dla wiodących firm z całego świata, budujemy lepszą przyszłość i każdego dnia staramy się robić to jeszcze lepiej. Tworzymy wspaniałe historie, dzięki czemu innowacje, jakie wprowadzamy zyskują ludzki wymiar.
+              - strong [ref=e337]: Capgemini. Make it real.
+        - generic [ref=e343]:
+          - link "Please allow advertising cookies to see this Youtube embed" [ref=e348] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e349]:
+            - heading "Make it real" [level=3] [ref=e350]
+            - paragraph [ref=e352]: with AI, technology and people.
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - heading "Ostrzegamy przed fałszywymi ofertami pracy podszywającymi się pod naszą firmę." [level=3] [ref=e357]
+            - paragraph [ref=e358]: Dla własnego bezpieczeństwa sprawdzaj, czy e-maile pochodzą z adresów kończących się na @capgemini.com, @sogeti.com lub @frog.co. Bądź czujny – nigdy nie prosimy o przesyłanie pieniędzy.
+          - link "Dowiedz się więcej o Ostrzegamy przed fałszywymi ofertami pracy podszywającymi się pod naszą firmę." [ref=e360] [cursor=pointer]:
+            - /url: https://www.capgemini.com/pl-pl/fraud-alert/
+            - text: Dowiedz się więcej 
+        - generic [ref=e362]:
+          - heading "Rozwijaj swoją karierę z Capgemini" [level=2] [ref=e364]
+          - generic [ref=e365]:
+            - generic [ref=e366]:
+              - generic [ref=e368]:
+                - link "Dlaczego Capgemini?" [ref=e369] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/dlaczego-capgemini/
+                - generic [ref=e372]:
+                  - link "Dlaczego Capgemini?" [ref=e373] [cursor=pointer]:
+                    - /url: /pl-pl/kariera/dlaczego-capgemini/
+                    - heading "Dlaczego Capgemini?" [level=3] [ref=e374]
+                  - generic [ref=e375]: 
+              - generic [ref=e376]:
+                - link "Spotkajmy się" [ref=e377] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/spotkaj-sie-z-nami/
+                  - heading "Spotkajmy się" [level=3] [ref=e378]
+                - generic [ref=e379]: 
+            - generic [ref=e380]:
+              - generic [ref=e381]:
+                - link "Życie w Capgemini" [ref=e382] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/zycie-w-capgemini/
+                  - heading "Życie w Capgemini" [level=3] [ref=e383]
+                - generic [ref=e384]: 
+              - generic [ref=e386]:
+                - link "Poznaj nasz zespół" [ref=e387] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/poznaj-nasz-zespol/
+                - generic [ref=e390]:
+                  - link "Poznaj nasz zespół" [ref=e391] [cursor=pointer]:
+                    - /url: /pl-pl/kariera/poznaj-nasz-zespol/
+                    - heading "Poznaj nasz zespół" [level=3] [ref=e392]
+                  - generic [ref=e393]: 
+            - generic [ref=e394]:
+              - generic [ref=e396]:
+                - link "Twoja kariera" [ref=e397] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/twoja-kariera/
+                - generic [ref=e400]:
+                  - link "Twoja kariera" [ref=e401] [cursor=pointer]:
+                    - /url: /pl-pl/kariera/twoja-kariera/
+                    - heading "Twoja kariera" [level=3] [ref=e402]
+                  - generic [ref=e403]: 
+              - generic [ref=e404]:
+                - link "Wyszukiwarka ofert pracy" [ref=e405] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/join-us/#country_code=pl-pl&size=15
+                  - heading "Wyszukiwarka ofert pracy" [level=3] [ref=e406]
+                - generic [ref=e407]: 
+        - generic [ref=e409]:
+          - text:  
+          - generic [ref=e412]:
+            - tabpanel [ref=e413]:
+              - generic [ref=e420]:
+                - heading "Kariera w Capgemini Invent" [level=3] [ref=e422]
+                - heading "Witaj w Capgemini Invent, gdzie nie tylko jesteśmy na bieżąco z innowacjami, ale też sami je kreujemy." [level=4] [ref=e424]
+                - generic:
+                  - img "Capgemini Invent"
+                - link "Do Capgemini Invent o Kariera w Capgemini Invent" [ref=e425] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/twoja-kariera/kariera-w-capgemini-invent/
+                  - text: Do Capgemini Invent 
+            - tabpanel [ref=e428]:
+              - generic [ref=e435]:
+                - heading [level=3] [ref=e437]: Kariera w Capgemini Engineering
+                - heading [level=4] [ref=e439]: Dołącz zespołu pracującego nad projektami badawczo-rozwojowymi, które kształtują przyszłość przemysłu.
+                - link [ref=e440] [cursor=pointer]:
+                  - /url: /pl-pl/kariera/twoja-kariera/kariera-w-capgemini-engineering/
+                  - text: Do Capgemini Engineering 
+          - generic [ref=e446]:
+            - button "poprzedni banner" [disabled]: 
+            - list
+            - button "następny banner" [ref=e447] [cursor=pointer]: 
+            - tablist [ref=e448]:
+              - tab "1 of 2" [selected] [ref=e449] [cursor=pointer]: • 1
+              - tab "2 of 2" [ref=e450] [cursor=pointer]: • 2
+    - contentinfo [ref=e452]:
+      - generic [ref=e456]:
+        - generic [ref=e457]:
+          - generic [ref=e458]:
+            - link "Capgemini" [ref=e459] [cursor=pointer]:
+              - /url: "#"
+              - img "Capgemini" [ref=e460]
+            - generic [ref=e461]:
+              - paragraph [ref=e462]: "Nasze marki:"
+              - list [ref=e463]:
+                - listitem [ref=e464]:
+                  - link "Capgemini Engineering" [ref=e465] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/o-nas/kim-jestesmy/nasze-submarki/capgemini-engineering/
+                    - img "Capgemini Engineering" [ref=e466]
+                - listitem [ref=e467]:
+                  - link "Capgemini Invent" [ref=e468] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/o-nas/kim-jestesmy/nasze-submarki/capgemini-invent/
+                    - img "Capgemini Invent" [ref=e469]
+                - listitem [ref=e470]:
+                  - link "Sogeti" [ref=e471] [cursor=pointer]:
+                    - /url: "https://www.capgemini.com/about-us/who-we-are/our-brands/sogeti/ "
+                    - img "Sogeti" [ref=e472]
+                    - generic [ref=e473]: 
+                - listitem
+          - list [ref=e476]:
+            - listitem [ref=e477]:
+              - list [ref=e478]:
+                - listitem [ref=e479]:
+                  - link "Insights" [ref=e480] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/insights/
+                - listitem [ref=e481]:
+                  - link "Branże" [ref=e482] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/branze/
+                - listitem [ref=e483]:
+                  - link "Usługi" [ref=e484] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/uslugi/
+                - listitem [ref=e485]:
+                  - link "Kariera" [ref=e486] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kariera/
+                - listitem [ref=e487]:
+                  - link "Aktualności" [ref=e488] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/aktualnosci/
+                - listitem [ref=e489]:
+                  - link "O nas" [ref=e490] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/o-nas/
+                - listitem [ref=e491]:
+                  - link "Kontakt Capgemini" [ref=e492] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/kontakt-capgemini/
+            - listitem [ref=e493]:
+              - list [ref=e494]:
+                - listitem [ref=e495]:
+                  - link "Inwestorzy" [ref=e496] [cursor=pointer]:
+                    - /url: https://investors.capgemini.com/en/
+                - listitem [ref=e497]:
+                  - link "Warunki korzystania ze strony" [ref=e498] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/warunki-korzystania-ze-strony/
+                - listitem [ref=e499]:
+                  - link "Polityka prywatności HR" [ref=e500] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/hr-polityka-prywatnosci/
+                - listitem [ref=e501]:
+                  - link "Informacja o ochronie danych osobowych" [ref=e502] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/ochronie-danych-osobowych/
+                - listitem [ref=e503]:
+                  - link "Dostępność" [ref=e504] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/accessibility/
+                - listitem [ref=e505]:
+                  - link "Zgłaszanie luki w zabezpieczeniach" [ref=e506] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/security-vulnerability-notification/
+                - listitem [ref=e507]:
+                  - link "Ustawienia cookies" [ref=e508] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e509]:
+                  - link "Polityka cookies" [ref=e510] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/cookie-policy/
+                - listitem [ref=e511]:
+                  - link "Informacja prawna" [ref=e512] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/informacja-prawna/
+                - listitem [ref=e513]:
+                  - link "SpeakUp" [ref=e514] [cursor=pointer]:
+                    - /url: https://capgemini.integrityline.com/
+                - listitem [ref=e515]:
+                  - link "Przewodnik social media" [ref=e516] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/przewodnik-social-media/
+                - listitem [ref=e517]:
+                  - link "Fraud alert" [ref=e518] [cursor=pointer]:
+                    - /url: https://www.capgemini.com/pl-pl/fraud-alert/
+        - generic [ref=e519]:
+          - generic [ref=e520]: © Capgemini, 2026. All rights reserved.
+          - list [ref=e522]:
+            - listitem [ref=e523]:
+              - link "LinkedIn — opens in a new window" [ref=e524] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/capgemini/life/capgeminipolska
+                - img "LinkedIn" [ref=e525]:
+                  - img [ref=e526]
+                - generic [ref=e528]: LinkedIn
+            - listitem [ref=e529]:
+              - link "Facebook — opens in a new window" [ref=e530] [cursor=pointer]:
+                - /url: https://www.facebook.com/CapgeminiPl/
+                - img "Facebook" [ref=e531]:
+                  - img [ref=e532]
+                - generic [ref=e534]: Facebook
+            - listitem [ref=e535]:
+              - link "Instagram — opens in a new window" [ref=e536] [cursor=pointer]:
+                - /url: https://www.instagram.com/capgeminipl/
+                - img "Instagram" [ref=e537]:
+                  - img [ref=e538]
+                - generic [ref=e540]: Instagram
+  - generic [ref=e543]:
+    - generic [ref=e544]:
+      - text: Szanujemy Twoją prywatność. Dzięki informacjom zawartym w plikach cookies, zapewniamy użytkownikom komfort korzystania z naszej strony internetowej, poprawiając jej wydajność, oraz prezentując odpowiednie treści na stronie i w mediach społecznościowych.
+      - text: Możesz zaakceptować wszystkie pliki cookies lub zdecydować się na indywidualne zarządzanie nimi. W dowolnym momencie możesz zmienić swoje preferencje, klikając Ustawienia cookies dostępne w stopce każdej strony.
+      - text: Odwiedź stronę
+      - link "Polityka cookies" [ref=e545] [cursor=pointer]:
+        - /url: https://www.capgemini.com/pl-pl/cookie-policy
+      - text: ", aby uzyskać więcej informacji na temat plików cookies."
+    - generic [ref=e546]:
+      - button "Akceptuj" [ref=e547] [cursor=pointer]
+      - button "Zarządzaj ustawieniami" [ref=e548] [cursor=pointer]
+      - button "Odrzuć wszystkie" [ref=e549] [cursor=pointer]

@@ -1,0 +1,241 @@
+- generic [active] [ref=e1]:
+  - dialog "This website uses cookies" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - img "logo" [ref=e7]
+        - link "Cookiebot by Usercentrics - opens in a new window" [ref=e8] [cursor=pointer]:
+          - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+          - img [ref=e9]
+      - tablist [ref=e36]:
+        - tab "Consent" [selected] [ref=e37] [cursor=pointer]
+        - tab "Details" [ref=e38] [cursor=pointer]
+        - tab "About" [ref=e39] [cursor=pointer]
+      - tabpanel "Consent" [ref=e41]:
+        - generic [ref=e43]:
+          - heading "This website uses cookies" [level=2] [ref=e44]
+          - generic [ref=e45]:
+            - text: Netcompany uses its own cookies as well as cookies from third parties. The cookies are used to remember your settings, traffic metrics, to present you with targeted ads, personalised content, social media features and to track your use of our website for statistical purposes. You can accept or refuse our cookies by clicking on the buttons below. You can always withdraw your consent by changing your settings in our cookie manager, which can be accessed by clicking on "Cookies" at the bottom of our website. You may read more on our use of cookies by clicking on “Show details” below and in our
+            - link "cookie policy" [ref=e46] [cursor=pointer]:
+              - /url: https://netcompany.com/cookie-policy/
+            - text: . Further, you can read more on our processing of your personal data in our
+            - link "privacy policy" [ref=e47] [cursor=pointer]:
+              - /url: https://netcompany.com/privacy-policy/
+            - text: .
+        - group "Consent Selection" [ref=e54]:
+          - generic [ref=e55]: Consent Selection
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - strong [ref=e59]: Necessary
+              - generic [ref=e60]:
+                - checkbox "Necessary" [checked] [disabled]
+            - generic [ref=e61]:
+              - strong [ref=e63] [cursor=pointer]: Preferences
+              - switch "Preferences" [ref=e65] [cursor=pointer]
+            - generic [ref=e66]:
+              - strong [ref=e68] [cursor=pointer]: Statistics
+              - switch "Statistics" [ref=e70] [cursor=pointer]
+            - generic [ref=e71]:
+              - strong [ref=e73] [cursor=pointer]: Marketing
+              - switch "Marketing" [ref=e75] [cursor=pointer]
+      - generic [ref=e79]:
+        - button "Use necessary cookies only" [ref=e80] [cursor=pointer]
+        - button "Allow selection" [ref=e81] [cursor=pointer]
+        - button "Allow all cookies" [ref=e82] [cursor=pointer]
+  - generic [ref=e154]:
+    - banner:
+      - generic [ref=e155]:
+        - link "Skip to main content" [ref=e156] [cursor=pointer]:
+          - /url: "#main-content"
+        - navigation [ref=e157]:
+          - generic [ref=e158]:
+            - link "Netcompany logo" [ref=e160] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e161]: Netcompany logo
+              - img [ref=e162]
+            - generic [ref=e173]:
+              - list [ref=e174]:
+                - listitem [ref=e175] [cursor=pointer]:
+                  - button "Open Offerings submenu" [ref=e176]:
+                    - generic [ref=e177]: Offerings
+                    - img [ref=e180]
+                - listitem [ref=e181] [cursor=pointer]:
+                  - link "Cases" [ref=e182]:
+                    - /url: /cases/
+                - listitem [ref=e183] [cursor=pointer]:
+                  - button "Open Careers submenu" [ref=e184]:
+                    - generic [ref=e185]: Careers
+                    - img [ref=e188]
+                - listitem [ref=e189] [cursor=pointer]:
+                  - link "Stories" [ref=e190]:
+                    - /url: /stories/
+                - listitem [ref=e191] [cursor=pointer]:
+                  - link "Investor" [ref=e192]:
+                    - /url: /investor/
+              - button "Toggle searchbar" [ref=e194] [cursor=pointer]:
+                - img [ref=e196]
+    - button [ref=e199] [cursor=pointer]:
+      - img [ref=e200]
+    - main [ref=e204]:
+      - generic [ref=e205]:
+        - generic [ref=e210]:
+          - figure [ref=e215]:
+            - region "Video Player" [ref=e216] [cursor=pointer]:
+              - button "Play Video" [ref=e220]:
+                - text: 
+                - generic [ref=e221]: Play Video
+              - text:            
+          - generic [ref=e224]:
+            - generic [ref=e226]:
+              - heading "Every project starts with our people" [level=1] [ref=e227]
+              - paragraph [ref=e228]
+              - paragraph [ref=e229]: "Across our offices, colleagues contribute to a shared ambition: driving responsible digitalisation. Every day, we take on challenges, share knowledge, and use technology to create solutions that safeguard data, strengthen society, and improve lives."
+              - paragraph [ref=e230]: From bold initiatives to everyday teamwork, our work is meaningful, innovative, and always guided by the responsibility we carry in shaping the digital future.
+              - paragraph [ref=e231]
+            - link "Vacancies" [ref=e234] [cursor=pointer]:
+              - /url: /careers/vacancies/
+        - generic [ref=e240]:
+          - heading "We'll help you excel" [level=3] [ref=e244]
+          - generic [ref=e246]:
+            - heading "Are you just finding a foothold? Or perhaps you are ready to take on greater responsibility. Let's find the right path for you." [level=6] [ref=e247]
+            - generic [ref=e249]:
+              - link "Early Careers" [ref=e251] [cursor=pointer]:
+                - /url: /careers/early-careers/
+              - link "Experienced Professionals" [ref=e253] [cursor=pointer]:
+                - /url: /careers/experienced/
+        - generic [ref=e261]:
+          - heading "Meet our People" [level=3] [ref=e266]
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - link [ref=e271] [cursor=pointer]:
+                - /url: /its-not-just-coding-its-creating-an-impact/
+              - link "David Kliment on combining technical curiosity with people skills to deliver smarter digital solutions »It’s not just coding. It’s creating an impact«" [ref=e277] [cursor=pointer]:
+                - /url: /its-not-just-coding-its-creating-an-impact/
+                - paragraph [ref=e278]: David Kliment on combining technical curiosity with people skills to deliver smarter digital solutions
+                - heading "»It’s not just coding. It’s creating an impact«" [level=5] [ref=e279]
+            - generic [ref=e280]:
+              - link [ref=e281] [cursor=pointer]:
+                - /url: /from-payphones-to-platforms/
+              - link "How Zaira Shabir is shaping her own path From payphones to platforms" [ref=e287] [cursor=pointer]:
+                - /url: /from-payphones-to-platforms/
+                - paragraph [ref=e288]: How Zaira Shabir is shaping her own path
+                - heading "From payphones to platforms" [level=5] [ref=e289]
+        - generic [ref=e301]:
+          - heading "»What really won me over was the trust the team placed in me from day one. They invested time in my onboarding, gave me the space to learn, and encouraged me to work independently and take ownership of tasks early on.«" [level=5] [ref=e304]
+          - generic [ref=e305]:
+            - heading "Elpida Syka-Lerioti" [level=6] [ref=e306]
+            - paragraph [ref=e307]: Associate Engineer
+            - link "Meet Elpida" [ref=e310] [cursor=pointer]:
+              - /url: /i-bring-that-same-show-up-every-day-mentality-to-the-office-just-without-the-cap-and-goggles/
+        - generic [ref=e324]:
+          - heading "Stories worth sharing" [level=3] [ref=e325]
+          - paragraph [ref=e328]: We created a magazine that showcases the personal stories of our employees and the experiences that shape their journey at Netcompany. It offers a glimpse into our culture, the challenges we face, and the growth we achieve together.
+          - link "Read more" [ref=e331] [cursor=pointer]:
+            - /url: /careers/stories-magazine/
+        - generic [ref=e338]:
+          - heading "Diverse talent and inclusive culture" [level=3] [ref=e342]
+          - generic [ref=e346]:
+            - link [ref=e347] [cursor=pointer]:
+              - /url: /diverse-talent-and-inclusive-culture/
+            - link "We actively encourage qualified candidates of any background, social identity, and experience level to apply for a career with us Through our culture, values, and policies, we actively work to ensure that all employees, regardless of background, are met with empathy, respect, and equal opportunities for growth and well-being. Read more" [ref=e354] [cursor=pointer]:
+              - /url: /diverse-talent-and-inclusive-culture/
+              - heading "We actively encourage qualified candidates of any background, social identity, and experience level to apply for a career with us" [level=5] [ref=e356]
+              - generic [ref=e357]:
+                - paragraph [ref=e358]: Through our culture, values, and policies, we actively work to ensure that all employees, regardless of background, are met with empathy, respect, and equal opportunities for growth and well-being.
+                - button "Read more" [ref=e359]
+        - generic [ref=e366]:
+          - heading "Featured articles" [level=3] [ref=e371]
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - link [ref=e376] [cursor=pointer]:
+                - /url: /a-story-from-one-of-our-operations-teams/
+              - link "A story from one of our Operations Teams »We’re all able to bring different perspectives to the table«" [ref=e382] [cursor=pointer]:
+                - /url: /a-story-from-one-of-our-operations-teams/
+                - paragraph [ref=e383]: A story from one of our Operations Teams
+                - heading "»We’re all able to bring different perspectives to the table«" [level=5] [ref=e384]
+            - generic [ref=e385]:
+              - link [ref=e386] [cursor=pointer]:
+                - /url: /introducing-the-it-industry-experience-to-young-minds/
+              - link "A taste of life in the IT industry Introducing the IT Industry Experience to Young Minds" [ref=e392] [cursor=pointer]:
+                - /url: /introducing-the-it-industry-experience-to-young-minds/
+                - paragraph [ref=e393]: A taste of life in the IT industry
+                - heading "Introducing the IT Industry Experience to Young Minds" [level=5] [ref=e394]
+        - generic [ref=e406]:
+          - heading "Netcompany Academy" [level=3] [ref=e410]
+          - heading "A unique learning environment and the industry’s best career development opportunities" [level=6] [ref=e413]
+        - heading "Annually, our Netcompany Academy offers" [level=3] [ref=e422]
+        - generic [ref=e427]:
+          - generic [ref=e429]:
+            - generic:
+              - heading [level=3]
+          - generic [ref=e430]:
+            - heading "200" [level=3] [ref=e432]
+            - paragraph [ref=e434]: Seminars
+          - generic [ref=e435]:
+            - heading "500" [level=3] [ref=e437]
+            - paragraph [ref=e439]: Pop-up sessions
+          - generic [ref=e440]:
+            - heading "100,000+" [level=3] [ref=e442]
+            - paragraph [ref=e444]: Hours of training
+        - generic [ref=e451]:
+          - link "Early Careers Academy" [ref=e453] [cursor=pointer]:
+            - /url: /careers/early-careers/academy-for-early-profiles/
+          - link "Experienced Professionals Academy" [ref=e455] [cursor=pointer]:
+            - /url: /careers/experienced/academy/
+        - heading "We enable you to play a crucial role in accelerating digital transformation in public and private enterprises, making a difference to societies, businesses, and the environment." [level=3] [ref=e466]
+    - contentinfo [ref=e472]:
+      - generic [ref=e474]:
+        - link "Netcompany logo" [ref=e478] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e479]: Netcompany logo
+          - img [ref=e480]
+        - heading "Pages" [level=5] [ref=e492]
+        - heading "Other sites" [level=5] [ref=e494]
+        - list [ref=e497]:
+          - listitem
+          - listitem
+        - navigation [ref=e500]:
+          - list [ref=e501]:
+            - listitem [ref=e502]:
+              - link "About us" [ref=e503] [cursor=pointer]:
+                - /url: /about-us/
+            - listitem [ref=e504]:
+              - link "Management" [ref=e505] [cursor=pointer]:
+                - /url: /about-us/management/
+            - listitem [ref=e506]:
+              - link "Contact" [ref=e507] [cursor=pointer]:
+                - /url: /contact/
+            - listitem [ref=e508]:
+              - link "Newsroom" [ref=e509] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e510]:
+              - link "Press" [ref=e511] [cursor=pointer]:
+                - /url: /contact/press/
+            - listitem [ref=e512]:
+              - link "Sustainability" [ref=e513] [cursor=pointer]:
+                - /url: /sustainability/
+            - listitem [ref=e514]:
+              - link "Services" [ref=e515] [cursor=pointer]:
+                - /url: /services/
+        - navigation [ref=e518]:
+          - list [ref=e519]:
+            - listitem [ref=e520]:
+              - link "Smarter Airports" [ref=e521] [cursor=pointer]:
+                - /url: https://www.smarterairports.com/
+      - generic [ref=e522]:
+        - generic [ref=e523]:
+          - generic [ref=e524]: © Netcompany Group A/S and/or its subsidiaries
+          - generic [ref=e525]: All rights reserved
+          - generic [ref=e526]: CVR 39488914
+        - navigation [ref=e527]:
+          - list [ref=e528]:
+            - listitem [ref=e529]:
+              - link "Privacy policy" [ref=e530] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=e531]:
+              - link "Cookie policy" [ref=e532] [cursor=pointer]:
+                - /url: /cookie-policy/
+            - listitem [ref=e533]:
+              - link "Whistleblower" [ref=e534] [cursor=pointer]:
+                - /url: /whistleblower/
+  - iframe [ref=e535]:
+    

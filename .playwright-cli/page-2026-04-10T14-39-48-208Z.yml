@@ -1,0 +1,149 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e23]:
+    - navigation [ref=e25]:
+      - generic [ref=e26]:
+        - link "GeeCON" [ref=e28] [cursor=pointer]:
+          - /url: /
+          - img "GeeCON" [ref=e29]
+        - list [ref=e31]:
+          - listitem [ref=e32]:
+            - link "schedule" [ref=e33] [cursor=pointer]:
+              - /url: "#"
+              - text: schedule
+          - listitem [ref=e35]:
+            - link "speakers" [ref=e36] [cursor=pointer]:
+              - /url: /speakers
+          - listitem [ref=e37]:
+            - link "partners" [ref=e38] [cursor=pointer]:
+              - /url: /partners
+          - listitem [ref=e39]:
+            - link "practical" [ref=e40] [cursor=pointer]:
+              - /url: "#"
+              - text: practical
+  - generic [ref=e5]:
+    - generic [ref=e42]:
+      - heading "sponsors" [level=2] [ref=e43]
+      - generic [ref=e44]:
+        - heading "Gold" [level=4] [ref=e45]
+        - generic [ref=e46]:
+          - link "Allegro" [ref=e47] [cursor=pointer]:
+            - /url: /partners/allegro
+            - img "Allegro" [ref=e48]
+          - link "Capgemini" [ref=e49] [cursor=pointer]:
+            - /url: /partners/capgemini
+            - img "Capgemini" [ref=e50]
+        - generic [ref=e51]:
+          - link "Clari" [ref=e52] [cursor=pointer]:
+            - /url: /partners/clari
+            - img "Clari" [ref=e53]
+          - link "XTB" [ref=e54] [cursor=pointer]:
+            - /url: /partners/xtb/
+            - img "XTB" [ref=e55]
+      - generic [ref=e56]:
+        - heading "Silver" [level=4] [ref=e57]
+        - generic [ref=e58]:
+          - link "Ericsson" [ref=e59] [cursor=pointer]:
+            - /url: /partners/ericsson
+            - img "Ericsson" [ref=e60]
+          - link "Luxoft" [ref=e61] [cursor=pointer]:
+            - /url: /partners/luxoft
+            - img "Luxoft" [ref=e62]
+        - generic [ref=e63]:
+          - link "mailtrap" [ref=e64] [cursor=pointer]:
+            - /url: /partners/mailtrap/
+            - img "mailtrap" [ref=e65]
+          - link "Revolut" [ref=e66] [cursor=pointer]:
+            - /url: /partners/revolut/
+            - img "Revolut" [ref=e67]
+        - generic [ref=e68]:
+          - link "Sabre" [ref=e69] [cursor=pointer]:
+            - /url: /partners/sabre/
+            - img "Sabre" [ref=e70]
+          - link "Samsung" [ref=e71] [cursor=pointer]:
+            - /url: /partners/samsung/
+            - img "Samsung" [ref=e72]
+    - generic [ref=e6]:
+      - heading "Basic" [level=4] [ref=e7]
+      - link [ref=e8] [cursor=pointer]:
+        - /url: https://www.j-labs.pl/
+    - generic [ref=e74]:
+      - heading "Media Partners" [level=2] [ref=e75]
+      - generic [ref=e76]:
+        - link [ref=e77] [cursor=pointer]:
+          - /url: https://www.crossweb.pl/
+        - link "DevIT" [ref=e78] [cursor=pointer]:
+          - /url: https://devitjobs.uk//
+          - img "DevIT" [ref=e79]
+        - link "HS" [ref=e80] [cursor=pointer]:
+          - /url: https://hackerspace-krk.pl/
+          - img "HS" [ref=e81]
+        - link "Helion" [ref=e82] [cursor=pointer]:
+          - /url: http://www.helion.pl/
+          - img "Helion" [ref=e83]
+      - generic [ref=e84]:
+        - link "JUG Kielce" [ref=e85] [cursor=pointer]:
+          - /url: https://www.meetup.com/pl-PL/Kielce-Java-User-Group/
+          - img "JUG Kielce" [ref=e86]
+        - link "JUG Lublin" [ref=e87] [cursor=pointer]:
+          - /url: https://www.meetup.com/pl-PL/Lublin-Java-User-Group/
+          - img "JUG Lublin" [ref=e88]
+        - link "JUG Lódz" [ref=e89] [cursor=pointer]:
+          - /url: http://www.juglodz.pl/
+          - img "JUG Lódz" [ref=e90]
+        - link "Rzeszow JUG" [ref=e91] [cursor=pointer]:
+          - /url: https://www.meetup.com/pl-PL/Rzeszow-Java-User-Group/
+          - img "Rzeszow JUG" [ref=e92]
+        - link "Techies" [ref=e93] [cursor=pointer]:
+          - /url: https://techiesspace.pl/
+          - img "Techies" [ref=e94]
+      - generic [ref=e95]:
+        - link "Torun JUG" [ref=e96] [cursor=pointer]:
+          - /url: http://torun.jug.pl
+          - img "Torun JUG" [ref=e97]
+        - link [ref=e98] [cursor=pointer]:
+          - /url: http://trojmiasto.jug.pl/
+        - link [ref=e99] [cursor=pointer]:
+          - /url: http://warszawa.jug.pl
+        - link [ref=e100] [cursor=pointer]:
+          - /url: https://wroclaw.jug.pl/
+        - link [ref=e101] [cursor=pointer]:
+          - /url: http://jug.zgora.pl/
+    - generic [ref=e9]:
+      - heading "Key Partners" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - link [ref=e12] [cursor=pointer]:
+          - /url: http://www.java.pl/
+        - link [ref=e13] [cursor=pointer]:
+          - /url: http://www.jug.poznan.pl/
+  - generic [ref=e17]:
+    - paragraph [ref=e18]:
+      - strong [ref=e19]: GeeCON 2024
+      - text: will be an excellent and unique opportunity for interaction with developers, leads and architects from the Java community. We are looking forward to cooperating with companies, there is a plenty of possibilities available!
+    - paragraph [ref=e20]:
+      - text: Please contact us at
+      - link "sponsors@geecon.org" [ref=e21] [cursor=pointer]:
+        - /url: mailto:sponsors@geecon.org
+      - text: to receive our full offer. We believe the event will be the greatest in our region, let's make it happen together!
+  - contentinfo [ref=e102]:
+    - generic [ref=e104]:
+      - paragraph [ref=e106]:
+        - link "info@geecon.org" [ref=e107] [cursor=pointer]:
+          - /url: mailto:info@geecon.org
+        - text: all rights reserved
+        - strong [ref=e108]: gee
+        - text: con ©2009-2024
+      - generic [ref=e110]:
+        - link "" [ref=e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/geecon.conference
+          - generic [ref=e112]: 
+        - link [ref=e113] [cursor=pointer]:
+          - /url: https://x.com/geecon
+          - img [ref=e114]
+        - link "" [ref=e116] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/geecon-conference/
+          - generic [ref=e117]: 
+        - link "" [ref=e118] [cursor=pointer]:
+          - /url: https://www.instagram.com/geecon.conference/
+          - generic [ref=e119]: 
+        - link [ref=e120] [cursor=pointer]:
+          - /url: https://www.youtube.com/@geeconconference

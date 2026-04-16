@@ -1,0 +1,35 @@
+- iframe [ref=e2]: "Request unsuccessful. Incapsula incident ID: 686000590116114332-297966289667624656":
+  - generic [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - generic [ref=f1e7]:
+        - heading "www.sabre.com -" [level=1] [ref=f1e8]
+        - paragraph [ref=f1e9]: Additional security check is required
+      - generic [ref=f1e10]:
+        - iframe [ref=f1e14]:
+          - generic [ref=f4e2] [cursor=pointer]:
+            - checkbox "'I am human', Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie" [ref=f4e7]
+            - generic [ref=f4e11]: I am human
+            - generic [ref=f4e12]:
+              - generic "hCaptcha" [ref=f4e13]:
+                - button "hCaptcha logo, opens new window with more information" [ref=f4e14]:
+                  - img [ref=f4e16]
+              - generic [ref=f4e78]:
+                - link "hCaptcha Privacy Policy, opens in a new tab" [ref=f4e79]:
+                  - /url: https://hcaptcha.com/privacy?ref=www.sabre.com&utm_campaign=dd6e16a7-972e-47d2-93d0-96642fb6d8de&utm_medium=checkbox&hl=en
+                  - text: Privacy
+                - text: "-"
+                - link "hCaptcha Terms of Service, opens in a new tab" [ref=f4e80]:
+                  - /url: https://hcaptcha.com/terms?ref=www.sabre.com&utm_campaign=dd6e16a7-972e-47d2-93d0-96642fb6d8de&utm_medium=checkbox&hl=en
+                  - text: Terms
+        - generic [ref=f1e15]:
+          - heading "Why am I seeing this page?" [level=2] [ref=f1e16]
+          - paragraph [ref=f1e17]: The website you are visiting is protected and accelerated by Imperva. Your computer may have been infected by malware and therefore flagged by the Imperva network. Imperva displays this page for you to verify that an actual human is the source of the traffic to this site, and not malicious software.
+          - heading "What should I do?" [level=2] [ref=f1e18]
+          - paragraph [ref=f1e19]: Just click the checkbox above to pass the security check. Imperva will remember you and will not show this page again. We recommend you run a virus and malware scan on your computer to remove any infection.
+          - generic [ref=f1e20]:
+            - strong [ref=f1e21]: "Note:"
+            - text: Ad blocker extensions can interfere with the CAPTCHA challenge.
+    - generic [ref=f1e22]:
+      - text: Powered by
+      - link "Imperva":
+        - /url: https://www.imperva.com/why-am-i-seeing-this-page/?src=23&utm_source=blockingpages

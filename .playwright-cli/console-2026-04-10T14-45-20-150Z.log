@@ -1,0 +1,4 @@
+[     303ms] [ERROR] Access to fetch at 'https://plausible.confitura.pl//api/event' from origin 'https://2025.confitura.pl' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://2025.confitura.pl/partners:0
+[     303ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://plausible.confitura.pl//api/event:0
+[     474ms] [ERROR] Access to fetch at 'https://umami.confitura.pl/api/send' from origin 'https://2025.confitura.pl' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://2025.confitura.pl/partners:0
+[     474ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://umami.confitura.pl/api/send:0

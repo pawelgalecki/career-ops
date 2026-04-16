@@ -1,0 +1,166 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e8]:
+        - link "home" [ref=e10] [cursor=pointer]:
+          - /url: /
+        - link "venue" [ref=e12] [cursor=pointer]:
+          - /url: /venue
+        - link "partners" [ref=e14] [cursor=pointer]:
+          - /url: /partners
+        - link "news" [ref=e16] [cursor=pointer]:
+          - /url: /news
+        - link "schedule" [ref=e18] [cursor=pointer]:
+          - /url: /schedule
+        - link "speakers" [ref=e20] [cursor=pointer]:
+          - /url: /speakers
+        - link "presentations" [ref=e22] [cursor=pointer]:
+          - /url: /presentations
+        - link "workshops" [ref=e24] [cursor=pointer]:
+          - /url: /workshops
+        - link "about us" [ref=e26] [cursor=pointer]:
+          - /url: /about
+        - link "2023" [ref=e28] [cursor=pointer]:
+          - /url: http://2023.confitura.pl/
+        - link "FAQ" [ref=e30] [cursor=pointer]:
+          - /url: /faq
+        - link "login" [ref=e32] [cursor=pointer]:
+          - /url: https://app.confitura.pl/
+  - generic [ref=e34]:
+    - link "x" [ref=e35] [cursor=pointer]:
+      - /url: https://x.com/confiturapl
+      - generic [ref=e36]: 
+      - generic [ref=e37]: x
+    - link "facebook" [ref=e38] [cursor=pointer]:
+      - /url: https://www.facebook.com/Confitura
+      - generic [ref=e39]: 
+      - generic [ref=e40]: facebook
+    - link "linkedin" [ref=e41] [cursor=pointer]:
+      - /url: https://www.linkedin.com/company/confitura
+      - generic [ref=e42]: 
+      - generic [ref=e43]: linkedin
+    - link "youtube" [ref=e44] [cursor=pointer]:
+      - /url: https://www.youtube.com/confiturapl
+      - generic [ref=e45]: 
+      - generic [ref=e46]: youtube
+    - link "newsletter" [ref=e47] [cursor=pointer]:
+      - /url: https://newsletter.confitura.pl/subscription/form
+      - generic [ref=e48]: 
+      - generic [ref=e49]: newsletter
+  - generic [ref=e50]:
+    - banner [ref=e51]:
+      - heading "Partners" [level=1] [ref=e53]
+    - generic [ref=e55]:
+      - article [ref=e56]:
+        - heading "path partners" [level=2] [ref=e57]
+        - generic [ref=e58]:
+          - link "Instytut Podstaw Informatyki PAN" [ref=e59] [cursor=pointer]:
+            - /url: /partners/ipipan
+            - img "Instytut Podstaw Informatyki PAN" [ref=e60]
+          - link "Sages" [ref=e61] [cursor=pointer]:
+            - /url: /partners/sages
+            - img "Sages" [ref=e62]
+      - article [ref=e63]:
+        - heading "gold partners" [level=2] [ref=e64]
+        - generic [ref=e65]:
+          - link "InPost" [ref=e66] [cursor=pointer]:
+            - /url: /partners/inpost
+            - img "InPost" [ref=e67]
+          - link "Revolut" [ref=e68] [cursor=pointer]:
+            - /url: /partners/revolut
+            - img "Revolut" [ref=e69]
+          - link "Netcompany" [ref=e70] [cursor=pointer]:
+            - /url: /partners/netcompany
+            - img "Netcompany" [ref=e71]
+          - link "DataLinks" [ref=e72] [cursor=pointer]:
+            - /url: /partners/datalinks
+            - img "DataLinks" [ref=e73]
+          - link "Decerto" [ref=e74] [cursor=pointer]:
+            - /url: /partners/decerto
+            - img "Decerto" [ref=e75]
+      - article [ref=e76]:
+        - heading "silver partners" [level=2] [ref=e77]
+        - generic [ref=e78]:
+          - link "Match-Trade Technologies" [ref=e79] [cursor=pointer]:
+            - /url: /partners/match-trade-technologies
+            - img "Match-Trade Technologies" [ref=e80]
+          - link "xtb" [ref=e81] [cursor=pointer]:
+            - /url: /partners/xtb
+            - img "xtb" [ref=e82]
+          - link "TPConnects" [ref=e83] [cursor=pointer]:
+            - /url: /partners/TPConnects
+            - img "TPConnects" [ref=e84]
+      - article [ref=e85]:
+        - heading "bronze partners" [level=2] [ref=e86]
+        - generic [ref=e87]:
+          - link "Bottega" [ref=e88] [cursor=pointer]:
+            - /url: /partners/bottega
+            - img "Bottega" [ref=e89]
+          - link "Starburst" [ref=e90] [cursor=pointer]:
+            - /url: /partners/starburst
+            - img "Starburst" [ref=e91]
+      - article [ref=e92]:
+        - heading "media partners" [level=2] [ref=e93]
+        - generic [ref=e94]:
+          - link "Digital Poland" [ref=e95] [cursor=pointer]:
+            - /url: /partners/digitalpoland
+            - img "Digital Poland" [ref=e96]
+          - link "AI Poland" [ref=e97] [cursor=pointer]:
+            - /url: /partners/ai-poland
+            - img "AI Poland" [ref=e98]
+          - link "BEST Warsaw" [ref=e99] [cursor=pointer]:
+            - /url: /partners/best-warsaw
+            - img "BEST Warsaw" [ref=e100]
+          - link "Kodołamacz" [ref=e101] [cursor=pointer]:
+            - /url: /partners/kodolamacz
+            - img "Kodołamacz" [ref=e102]
+          - link "Stacja IT" [ref=e103] [cursor=pointer]:
+            - /url: /partners/stacja-it
+            - img "Stacja IT" [ref=e104]
+          - link "ITwiz" [ref=e105] [cursor=pointer]:
+            - /url: /partners/it-wiz
+            - img "ITwiz" [ref=e106]
+      - article [ref=e107]:
+        - heading "tech partners" [level=2] [ref=e108]
+        - generic [ref=e109]:
+          - link "PRObrand" [ref=e110] [cursor=pointer]:
+            - /url: /partners/probrand
+            - img "PRObrand" [ref=e111]
+          - link "filmcloud" [ref=e112] [cursor=pointer]:
+            - /url: /partners/filmcloud
+            - img "filmcloud" [ref=e113]
+          - link "ChilliVision" [ref=e114] [cursor=pointer]:
+            - /url: /partners/chillivision
+            - img "ChilliVision" [ref=e115]
+    - generic [ref=e117]:
+      - heading "stay connected" [level=1] [ref=e118]
+      - generic [ref=e120]:
+        - link "confitura@confitura.pl" [ref=e121] [cursor=pointer]:
+          - /url: mailto:confitura@confitura.pl
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - text: "newsletter:"
+            - link "newsletter" [ref=e124] [cursor=pointer]:
+              - /url: https://newsletter.confitura.pl/subscription/form
+              - generic [ref=e125]: 
+          - generic [ref=e126]:
+            - text: "socials:"
+            - link "x" [ref=e127] [cursor=pointer]:
+              - /url: https://x.com/confiturapl
+              - generic [ref=e128]: 
+            - link "facebook" [ref=e129] [cursor=pointer]:
+              - /url: https://www.facebook.com/Confitura
+              - generic [ref=e130]: 
+            - link "linkedin" [ref=e131] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/confitura
+              - generic [ref=e132]: 
+            - link "youtube" [ref=e133] [cursor=pointer]:
+              - /url: https://www.youtube.com/confiturapl
+              - generic [ref=e134]: 
+        - link "Privacy policy" [ref=e135] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Regulamin wydarzenia" [ref=e136] [cursor=pointer]:
+          - /url: https://api.confitura.pl/api/resources/edition-2025/docs/Regulamin%20Confitura%2025.pdf
+        - text:     

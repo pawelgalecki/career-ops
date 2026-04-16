@@ -1,0 +1,2 @@
+[    4029ms] [ERROR] Access to XMLHttpRequest at 'https://devoxx.pl/wp-admin/admin-ajax.php' from origin 'http://2025.devoxx.pl' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://2025.devoxx.pl/:0
+[    4029ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://devoxx.pl/wp-admin/admin-ajax.php:0

@@ -1,0 +1,399 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e2]
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - region "Cookies" [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e9]:
+            - heading "Your privacy is important to us" [level=2] [ref=e10]
+            - paragraph [ref=e11]: By clicking “Accept all”, you consent to the storing and usage of cookies on your device to enhance site navigation and analyse site usage.
+          - generic [ref=e12]:
+            - button "Accept all" [ref=e13] [cursor=pointer]:
+              - generic [ref=e14]: Accept all
+            - button "Reject all" [ref=e15] [cursor=pointer]:
+              - generic [ref=e16]: Reject all
+            - button "Show purposes" [ref=e17] [cursor=pointer]:
+              - generic [ref=e18]: Show purposes
+      - generic [ref=e19]:
+        - link "Skip to content" [ref=e20] [cursor=pointer]:
+          - /url: "#main"
+        - navigation "Toolkit navigation menu" [ref=e21]:
+          - menubar [ref=e22]:
+            - menuitem "home" [ref=e23]:
+              - link "home" [ref=e24] [cursor=pointer]:
+                - /url: /careers/en-PL
+                - img "home" [ref=e25]
+            - menuitem "Accessibility Buddy My Buddy" [ref=e26]:
+              - link "Accessibility Buddy My Buddy" [ref=e27] [cursor=pointer]:
+                - /url: /careers/en-PL
+                - img "Accessibility Buddy" [ref=e28]
+                - generic [ref=e29]: My Buddy
+            - menuitem "Search Search jobs" [ref=e30]:
+              - link "Search Search jobs" [ref=e31] [cursor=pointer]:
+                - /url: https://careers.tesco.com/en_GB/careersmarketplace/SearchJobs
+                - img "Search" [ref=e32]
+                - generic [ref=e33]: Search jobs
+            - menuitem "EN" [ref=e34]:
+              - img [ref=e36]
+              - button "EN" [ref=e38] [cursor=pointer]:
+                - generic [ref=e39]: EN
+            - menuitem "My profile" [ref=e40]:
+              - link "My profile" [ref=e41] [cursor=pointer]:
+                - /url: https://careers.tesco.com/en_GB/careersmarketplace/Login
+                - img [ref=e42]
+                - generic [ref=e44]: My profile
+        - link "Tesco careers" [ref=e45] [cursor=pointer]:
+          - /url: /careers/en-PL
+          - img "Tesco Home" [ref=e46]
+          - generic [ref=e59]: Careers
+        - navigation "Main" [ref=e60]:
+          - menubar [ref=e64]:
+            - menuitem "Come and join us" [ref=e65]:
+              - button "Come and join us" [ref=e66] [cursor=pointer]
+            - menuitem "Everyone's welcome" [ref=e67]:
+              - button "Everyone's welcome" [ref=e68] [cursor=pointer]
+            - menuitem "Our teams" [ref=e69]:
+              - button "Our teams" [ref=e70] [cursor=pointer]
+            - menuitem "Our businesses" [ref=e71]:
+              - button "Our businesses" [ref=e72] [cursor=pointer]
+            - menuitem "Our locations" [ref=e73]:
+              - button "Our locations" [ref=e74] [cursor=pointer]
+            - menuitem "Search & apply" [ref=e75]:
+              - button "Search & apply" [ref=e76] [cursor=pointer]
+            - menuitem "Interview & application support" [ref=e77]:
+              - button "Interview & application support" [ref=e78] [cursor=pointer]
+    - main [ref=e79]:
+      - alert [ref=e80]:
+        - img "info" [ref=e82]
+        - generic [ref=e88]:
+          - heading "Important Recruitment Fraud Disclaimer" [level=5] [ref=e90]
+          - paragraph [ref=e91]:
+            - text: Tesco does not charge any fees at any stage of the recruitment or onboarding process. If you receive any request for payment or come across individuals claiming to represent us in exchange for money, please consider it fraudulent. Report such incidents immediately to
+            - link "candidatecare@tesco.com" [ref=e92] [cursor=pointer]:
+              - /url: mailto:candidatecare@tesco.com
+      - generic [ref=e93]:
+        - generic [ref=e96]:
+          - generic [ref=e98]:
+            - heading "Poland. ." [level=1] [ref=e99]
+            - paragraph [ref=e100]: Looking for Tesco jobs in Poland? Our tech hub in Kraków is all about making Tesco’s tomorrow.
+            - link "Search Poland jobs" [ref=e102] [cursor=pointer]:
+              - /url: https://careers.tesco.com/en_GB/careersmarketplace/SearchJobs/?12328=%5B587050%5D&12328_format=7246&listFilterMode=1&jobRecordsPerPage=10&
+              - generic [ref=e103]: Search Poland jobs
+          - img "Colleague smiling in the office" [ref=e105]
+        - generic [ref=e106]:
+          - heading "Get to know us. ." [level=3] [ref=e107]
+          - generic [ref=e108]:
+            - list [ref=e111]:
+              - listitem "item 1" [ref=e112]:
+                - generic [ref=e113]:
+                  - img "Male colleague with glasses smiling with hands in his pocket" [ref=e114]
+                  - generic [ref=e115]:
+                    - heading "Working in Poland" [level=3] [ref=e116]
+                    - paragraph [ref=e117]: From our head office building to our fun and friendly culture, there’s lots to enjoy
+                    - link "Working in Poland" [ref=e118] [cursor=pointer]:
+                      - /url: poland/working-in-poland
+                      - generic [ref=e119]: Working in Poland
+                      - img [ref=e121]
+              - listitem "item 2" [ref=e123]:
+                - generic [ref=e124]:
+                  - img "Women working on laptop" [ref=e125]
+                  - generic [ref=e126]:
+                    - heading "Early Careers" [level=3] [ref=e127]
+                    - paragraph [ref=e128]: If you’re just starting out in tech, we’re here to help you develop both your technical and interpersonal skills
+                    - link "Find out more" [ref=e129] [cursor=pointer]:
+                      - /url: https://www.tesco.com/careers/en-PL/poland/early-careers
+                      - generic [ref=e130]: Find out more
+                      - img [ref=e132]
+              - listitem "item 3" [ref=e134]:
+                - generic [ref=e135]:
+                  - img "Male colleague smiling holding his hands" [ref=e136]
+                  - generic [ref=e137]:
+                    - heading "Tesco Technology" [level=3] [ref=e138]
+                    - paragraph [ref=e139]: Forget generic solutions, we’re always innovating and creating. Discover why making Tesco’s tomorrow is so exciting.
+                    - link "Tesco Technology" [ref=e140] [cursor=pointer]:
+                      - /url: our-teams/technology-jobs
+                      - generic [ref=e141]: Tesco Technology
+                      - img [ref=e143]
+              - listitem "item 4" [ref=e145]:
+                - generic [ref=e146]:
+                  - img "01_IMG_4260_tesco_1080x1920.jpg" [ref=e147]
+                  - generic [ref=e148]:
+                    - heading "Why Tesco?" [level=3] [ref=e149]
+                    - paragraph [ref=e150]: We care about making every day a little better for our colleagues. Find out about why you could enjoy working for Tesco.
+                    - link "Why work here" [ref=e151] [cursor=pointer]:
+                      - /url: /careers/en-PL/our-culture/why-work-here
+                      - generic [ref=e152]: Why work here
+                      - img [ref=e154]
+            - generic [ref=e157]:
+              - button [disabled] [ref=e158]:
+                - img [ref=e160]
+              - button [ref=e162] [cursor=pointer]:
+                - img [ref=e164]
+        - generic [ref=e168]:
+          - region [ref=e169]:
+            - list [ref=e170]:
+              - listitem "1 / 4" [ref=e171]:
+                - generic [ref=e173]:
+                  - img "9.png" [ref=e175]
+                  - generic [ref=e176]:
+                    - paragraph [ref=e177]: How we bring our values to life
+                    - heading "Diversity and Inclusion Report. ." [level=2] [ref=e178]
+                    - paragraph [ref=e180]: Learn more about how we’re making Tesco a welcoming place for all. Check out our 2025 Diversity and Inclusion Report.
+                    - link "Check out report" [ref=e182] [cursor=pointer]:
+                      - /url: https://digitalcontent.api.tesco.com/v2/media/ourtesco/456a055d-933c-4a42-b432-a2a45cb66322/DEI_Report2025_Tesco_Technology_Krakow_1d3353a06b.pdf
+                      - generic [ref=e183]: Check out report
+                      - img [ref=e185]
+              - listitem [ref=e188]:
+                - generic [ref=e190]:
+                  - img [ref=e192]
+                  - generic [ref=e193]:
+                    - paragraph [ref=e194]: How we bring our values to life
+                    - heading [level=2] [ref=e195]: Early Careers. .
+                    - paragraph [ref=e197]: Through our Early Careers Programme, we invest in the next generation of tech professionals. The programme, designed for graduates and junior engineers, combines hands-on experience in various tech stacks and business domains with structured learning, mentoring and workshops.
+                    - link [ref=e199] [cursor=pointer]:
+                      - /url: https://www.tesco.com/careers/en-PL/poland/early-careers
+                      - generic [ref=e200]: Find out more
+                      - img [ref=e202]
+              - listitem [ref=e205]:
+                - generic [ref=e207]:
+                  - img [ref=e209]
+                  - generic [ref=e210]:
+                    - paragraph [ref=e211]: How we bring our values to life
+                    - heading [level=2] [ref=e212]: Fairness at Work. .
+                    - paragraph [ref=e214]: "Our Site Lead, Roland Płaszowski, shared how we promote a culture of fairness at Tesco Technology in an episode of the “Szczerze o HR-ze” podcast. We’re also proud to partner with the No Fluff Jobs report: “Fairness at Work: On Integrity in Action and Pay Equality”."
+                    - link [ref=e216] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=Ml0cXY-gz3U&list=PLZmMLJ6Fj9cpVhWcoyMf1aprehGrD_luX&index=8
+                      - generic [ref=e217]: Listen to the podcast
+                      - img [ref=e219]
+              - listitem [ref=e222]:
+                - generic [ref=e224]:
+                  - img [ref=e226]
+                  - generic [ref=e227]:
+                    - paragraph [ref=e228]: How we bring our values to life
+                    - heading [level=2] [ref=e229]: Women go tech. .
+                    - paragraph [ref=e231]: We’ve teamed up with Women Go Tech x DareIT to make sure women feel supported and included in our industry. As part of their mentorship programme, we help women fast-track their tech careers.
+                    - link [ref=e233] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/tesco-technology_womengotech-partnership-techcommunity-activity-7392498954934034433-NuhE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXTcxwBtG837CvA-9pofIn2Isncp7XD7cg
+                      - generic [ref=e234]: Find out more
+                      - img [ref=e236]
+          - navigation "carousel controls" [ref=e239]:
+            - generic [ref=e240]:
+              - button "Previous" [ref=e241] [cursor=pointer]:
+                - img [ref=e243]
+              - list [ref=e245]:
+                - listitem [ref=e246]:
+                  - button "1 of 4" [ref=e247] [cursor=pointer]
+                - listitem [ref=e248]:
+                  - button "2 of 4" [ref=e249] [cursor=pointer]
+                - listitem [ref=e250]:
+                  - button "3 of 4" [ref=e251] [cursor=pointer]
+                - listitem [ref=e252]:
+                  - button "4 of 4" [ref=e253] [cursor=pointer]
+              - button "Next" [ref=e254] [cursor=pointer]:
+                - img [ref=e256]
+        - generic [ref=e259]:
+          - heading "Why join the team?" [level=3] [ref=e261]
+          - generic [ref=e265]:
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - img [ref=e269]
+                - heading "A place to get on" [level=4] [ref=e271]
+                - paragraph [ref=e272]: Find out how we’ll help you grow
+              - link "Find out more" [ref=e274] [cursor=pointer]:
+                - /url: /careers/en-PL/our-culture/why-work-here/career-development-opportunities
+                - generic [ref=e275]: Find out more
+                - img [ref=e277]
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - img [ref=e282]
+                - heading "Bags of benefits" [level=4] [ref=e285]
+                - paragraph [ref=e286]: Discover the benefits of working at Tesco
+              - link "Find out more" [ref=e288] [cursor=pointer]:
+                - /url: https://www.tesco.com/careers/en-PL/our-culture/why-work-here/colleague-benefits
+                - generic [ref=e289]: Find out more
+                - img [ref=e291]
+            - generic [ref=e294]:
+              - generic [ref=e295]:
+                - img [ref=e296]
+                - heading "Wellbeing first" [level=4] [ref=e298]
+                - paragraph [ref=e299]: Learn how we put wellbeing first
+              - link "Find out more" [ref=e301] [cursor=pointer]:
+                - /url: https://www.tesco.com/careers/en-PL/our-culture/why-work-here/colleague-wellbeing
+                - generic [ref=e302]: Find out more
+                - img [ref=e304]
+            - generic [ref=e307]:
+              - generic [ref=e308]:
+                - img [ref=e309]
+                - heading "Everyone's welcome" [level=4] [ref=e311]
+                - paragraph [ref=e312]: Explore how we make sure everyone’s welcome at Tesco
+              - link "Find out more" [ref=e314] [cursor=pointer]:
+                - /url: /careers/en-PL/everyones-welcome/diversity-equity-and-inclusion
+                - generic [ref=e315]: Find out more
+                - img [ref=e317]
+        - generic [ref=e322]:
+          - region [ref=e323]:
+            - list [ref=e324]:
+              - listitem "1 / 3" [ref=e325]:
+                - generic [ref=e326]:
+                  - heading "Hear from Dominika" [level=3] [ref=e328]:
+                    - text: Hear from
+                    - generic [ref=e329]: Dominika
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: “
+                    - paragraph [ref=e333]: With the massive amount of data we work with, there’s no telling what insights you’ll discover and the powerful conclusions you’ll reach.
+                    - paragraph [ref=e334]: Dominika, Data Analyst
+              - listitem [ref=e335]:
+                - generic [ref=e336]:
+                  - heading [level=3] [ref=e338]:
+                    - text: Hear from
+                    - generic [ref=e339]: Marcin
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: “
+                    - paragraph [ref=e343]: It’s super important to feel welcome and supported in the workplace – I’ve found that here. And my days are packed full of interesting, challenging work, too.
+                    - paragraph [ref=e344]: Marcin, Software Development Manager
+              - listitem [ref=e345]:
+                - generic [ref=e346]:
+                  - heading [level=3] [ref=e348]:
+                    - text: Hear from
+                    - generic [ref=e349]: Patrycja
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: “
+                    - paragraph [ref=e353]: Tesco is a truly agile company. Nothing’s unchangeable. If something’s not right, or someone has an idea, we speak up. We change, experiment and improve.
+                    - paragraph [ref=e354]: Patrycja, Product Manager
+          - navigation "carousel controls" [ref=e355]:
+            - generic [ref=e356]:
+              - button "Previous" [ref=e357] [cursor=pointer]:
+                - img [ref=e359]
+              - list [ref=e361]:
+                - listitem [ref=e362]:
+                  - button "1 of 3" [ref=e363] [cursor=pointer]
+                - listitem [ref=e364]:
+                  - button "2 of 3" [ref=e365] [cursor=pointer]
+                - listitem [ref=e366]:
+                  - button "3 of 3" [ref=e367] [cursor=pointer]
+              - button "Next" [ref=e368] [cursor=pointer]:
+                - img [ref=e370]
+        - generic [ref=e372]:
+          - heading "Our Proud Moments. ." [level=3] [ref=e373]
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - img "Great Place to Work logotype" [ref=e379]
+              - generic [ref=e380]:
+                - heading "Great Place to Work" [level=4] [ref=e381]
+                - paragraph [ref=e382]: Recognised in 2025 for our commitment to inclusivity, innovation, creativity and collaboration.
+            - generic [ref=e383]:
+              - img "Friendly Worplace Logotype" [ref=e386]
+              - generic [ref=e387]:
+                - heading "Winner of the Friendly Workplace Award" [level=4] [ref=e388]
+                - paragraph [ref=e389]: Awarded in 2025 for creating a supportive and inclusive work culture.
+            - generic [ref=e390]:
+              - img "karta_roznorodnosci.png" [ref=e393]
+              - generic [ref=e394]:
+                - heading "Signatory to the Diversity Charter" [level=4] [ref=e395]
+                - paragraph [ref=e396]: Coordinated by the Responsible Business Forum
+            - generic [ref=e397]:
+              - img "square black text.png" [ref=e400]
+              - generic [ref=e401]:
+                - heading "Proud member of Aspire" [level=4] [ref=e402]
+                - paragraph [ref=e403]: Community of companies that have chosen Kraków as their growth hub
+        - generic [ref=e405]:
+          - heading "More from us. ." [level=3] [ref=e406]
+          - generic [ref=e407]:
+            - img "Colleagues in Poland office looking at their laptops" [ref=e410]
+            - text: . . .
+            - generic [ref=e411]:
+              - generic [ref=e412]:
+                - heading "2018. ." [level=4] [ref=e413]
+                - paragraph [ref=e414]: Since our launch in 2018, our team at the technology hub in Kraków have been developing our own products and making a significant impact through large-scale operations
+              - generic [ref=e415]:
+                - heading "320. ." [level=4] [ref=e416]
+                - paragraph [ref=e417]: We have over 320 team members, including tech experts, engineers, product and programme managers, UX designers and business support specialists. Only last year we've welcomed 86 new team members
+              - generic [ref=e418]:
+                - heading "4. ." [level=4] [ref=e419]
+                - paragraph [ref=e420]: We are proud of our diverse team. Our colleagues come from four different continents and reflect diversity in terms of gender, nationality and ability
+        - generic [ref=e423]:
+          - heading "Ready for a fresh start?" [level=2] [ref=e424]
+          - generic [ref=e425]:
+            - link "Search open jobs" [ref=e426] [cursor=pointer]:
+              - /url: https://careers.tesco.com/en_GB/careersmarketplace/SearchJobs/?12328=%5B587050%5D&12328_format=7246&listFilterMode=1&jobRecordsPerPage=10&
+              - generic [ref=e427]: Search open jobs
+            - link "Set up a job alert" [ref=e428] [cursor=pointer]:
+              - /url: https://careers.tesco.com/en_GB/careersmarketplace/RegisterJobAlerts
+              - generic [ref=e429]: Set up a job alert
+    - contentinfo [ref=e430]:
+      - heading "Footer" [level=2] [ref=e431]
+      - generic [ref=e433]:
+        - generic [ref=e434]:
+          - generic [ref=e436]:
+            - heading "Our other websites" [level=3] [ref=e437]
+            - list [ref=e438]:
+              - listitem [ref=e439]:
+                - link "Tesco PLC" [ref=e440] [cursor=pointer]:
+                  - /url: https://www.tescoplc.com
+              - listitem [ref=e441]:
+                - link "Tesco.com" [ref=e442] [cursor=pointer]:
+                  - /url: https://www.tesco.com
+              - listitem [ref=e443]:
+                - link "Tesco Mobile" [ref=e444] [cursor=pointer]:
+                  - /url: https://www.tescomobile.com
+              - listitem [ref=e445]:
+                - link "Tesco Insurance and Money Services" [ref=e446] [cursor=pointer]:
+                  - /url: https://www.tescoinsurance.com/
+          - generic [ref=e448]:
+            - heading "Legal" [level=3] [ref=e449]
+            - list [ref=e450]:
+              - listitem [ref=e451]:
+                - link "Terms and conditions" [ref=e452] [cursor=pointer]:
+                  - /url: /careers/en-PL/terms-and-conditions
+              - listitem [ref=e453]:
+                - link "Cookies" [ref=e454] [cursor=pointer]:
+                  - /url: /careers/en-PL/cookies
+              - listitem [ref=e455]:
+                - link "Privacy policy" [ref=e456] [cursor=pointer]:
+                  - /url: /careers/en-PL/privacy-policy
+              - listitem [ref=e457]:
+                - link "Sitemap" [ref=e458] [cursor=pointer]:
+                  - /url: https://www.tesco.com/careers/en-PL/sitemap
+          - generic [ref=e460]:
+            - heading "Help and support" [level=3] [ref=e461]
+            - list [ref=e462]:
+              - listitem [ref=e463]:
+                - link "Accessibility information" [ref=e464] [cursor=pointer]:
+                  - /url: /careers/en-PL/accessibility
+              - listitem [ref=e465]:
+                - link "FAQs" [ref=e466] [cursor=pointer]:
+                  - /url: /careers/en-PL/faqs-about-working-at-tesco
+          - generic [ref=e468]:
+            - heading "Search and apply" [level=3] [ref=e469]
+            - list [ref=e470]:
+              - listitem [ref=e471]:
+                - link "Job search" [ref=e472] [cursor=pointer]:
+                  - /url: https://careers.tesco.com/en_GB/careers/SearchJobs
+        - list [ref=e476]:
+          - listitem [ref=e477]:
+            - link "Facebook" [ref=e478] [cursor=pointer]:
+              - /url: https://facebook.com/tesco
+              - img [ref=e479]
+          - listitem [ref=e483]:
+            - link "LinkedIn" [ref=e484] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/company/-tesco
+              - img [ref=e485]
+          - listitem [ref=e490]:
+            - link "Glassdoor" [ref=e491] [cursor=pointer]:
+              - /url: https://www.glassdoor.co.uk/Overview/Working-at-Tesco-EI_IE10250.11,16.htm
+              - img [ref=e492]
+          - listitem [ref=e495]:
+            - link "Indeed" [ref=e496] [cursor=pointer]:
+              - /url: "https://uk.indeed.com/cmp/Tesco/about "
+              - img [ref=e497]
+          - listitem [ref=e500]:
+            - link "Instagram" [ref=e501] [cursor=pointer]:
+              - /url: https://www.instagram.com/tesco
+              - img [ref=e502]
+          - listitem [ref=e508]:
+            - link "YouTube" [ref=e509] [cursor=pointer]:
+              - /url: https://www.youtube.com/@TescoMedia
+              - img [ref=e510]
+      - paragraph [ref=e517]: © Tesco Careers 2026. All rights reserved.
+  - button "Press space or enter to open My Buddy, long press to drag the element" [ref=e518] [cursor=pointer]:
+    - img "accessibility-icon" [ref=e519]

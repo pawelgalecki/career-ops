@@ -1,0 +1,423 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e4]:
+      - navigation "Main" [ref=e5]:
+        - link "Sanofi Careers" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Sanofi Careers" [ref=e9]
+        - generic [ref=e10]:
+          - list [ref=e11]:
+            - listitem [ref=e12]:
+              - button "Why Join Us" [ref=e13] [cursor=pointer]
+            - listitem [ref=e14]:
+              - link "Early Talent" [ref=e15] [cursor=pointer]:
+                - /url: /early-talent
+            - listitem [ref=e16]:
+              - button "Career Areas" [ref=e17] [cursor=pointer]
+            - listitem [ref=e18]:
+              - link "Locations" [ref=e19] [cursor=pointer]:
+                - /url: /locations
+            - listitem [ref=e20]:
+              - button "Sanofi Experience" [ref=e21] [cursor=pointer]
+          - generic [ref=e22]:
+            - link "Join Our Talent Community opens in a new tab (opens in new window)" [ref=e23] [cursor=pointer]:
+              - /url: https://talentcareers.sanofi.com/flows/candidateportal
+              - text: Join Our Talent Community
+              - generic [ref=e24]: opens in a new tab
+              - generic [ref=e25]: (opens in new window)
+            - link "Your Saved Jobs" [ref=e26] [cursor=pointer]:
+              - /url: /saved-jobs
+            - generic [ref=e28]:
+              - link "Search Jobs" [ref=e29] [cursor=pointer]:
+                - /url: /en/search-jobs
+                - text: Search Jobs 
+              - generic:
+                - search:
+                  - generic:
+                    - generic: Keyword Search
+                - button "Close Job Search " [expanded]:
+                  - generic:
+                    - text: Close
+                    - strong: Job Search
+                  - text: 
+            - button "English" [ref=e31] [cursor=pointer]
+        - text:  
+    - main [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - button "Pause Animation" [ref=e36] [cursor=pointer]
+          - generic "Background Animation" [ref=e37]
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - img [ref=e41]:
+              - img [ref=e43]
+            - heading "Pursue Progress. Discover Extraordinary." [level=1] [ref=e53]
+            - paragraph [ref=e54]:
+              - strong [ref=e55]: Start something
+              - emphasis [ref=e56]: incredible.
+            - search [ref=e57]:
+              - group "Search Jobs" [ref=e58]:
+                - paragraph [ref=e59]:
+                  - generic [ref=e60]: Job title, category, or keyword
+                  - searchbox "Job title, category, or keyword" [ref=e61]
+                - paragraph [ref=e62]:
+                  - generic [ref=e63]: City, region, or country
+                  - combobox "City, region, or country" [ref=e64]
+                - button "Search Job" [ref=e65] [cursor=pointer]: Search Jobs
+                - paragraph [ref=e66]
+          - generic [ref=e67]:
+            - paragraph [ref=e68]: "Better is out there. Better medications, better outcomes, better science. It’s all down to people like you, from different backgrounds, in different locations, doing different roles. Take the most important step in your career: help us change the lives of people, families, and communities for the better."
+            - paragraph [ref=e69]:
+              - link "Why Sanofi?" [ref=e70] [cursor=pointer]:
+                - /url: /en/why-join-sanofi
+          - generic [ref=e72]:
+            - heading "Discover new opportunities to grow, find your perfect role." [level=2] [ref=e73]:
+              - text: Discover new opportunities to grow,
+              - generic [ref=e74]: find your perfect role.
+            - list [ref=e75]:
+              - listitem [ref=e76]:
+                - link "Technicien de laboratoire R&D (culture cellulaire) " [ref=e77] [cursor=pointer]:
+                  - /url: /en/job/vitry-sur-seine/technicien-de-laboratoire-r-and-d-culture-cellulaire/2649/36849658560
+                - generic [ref=e78]: Vitry-sur-Seine, France
+              - listitem [ref=e79]:
+                - link "Senior Scientist Bio-Analytical Development & Quality Control " [ref=e80] [cursor=pointer]:
+                  - /url: /en/job/vitry-sur-seine/senior-scientist-bio-analytical-development-and-quality-control/2649/37118442240
+                - generic [ref=e81]: Vitry-sur-Seine, France
+        - button "Watch the film" [ref=e83] [cursor=pointer]
+        - link "Next" [ref=e84] [cursor=pointer]:
+          - /url: "#second-section"
+          - generic [ref=e85]: Next
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - heading "Workplaces that redefine the way we work" [level=2] [ref=e89]:
+            - strong [ref=e90]: Workplaces that redefine
+            - emphasis [ref=e91]: the way we work
+          - paragraph [ref=e92]: At Sanofi, workplace design isn’t just about aesthetics, it’s backed by science, built for connection, and centered on wellbeing.
+          - paragraph [ref=e93]: From spaces that spark collaboration to environments that support balance and tools that unlock innovation, every detail is crafted to help you thrive.
+        - link "Experience the Sanofi feeling" [ref=e96] [cursor=pointer]:
+          - /url: /en/sanofi-feeling
+          - text: Experience the Sanofi feeling
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - generic [ref=e101]: 1 of 6
+          - region "carousel" [ref=e102]:
+            - generic [ref=e104]:
+              - group [ref=e105]:
+                - generic [ref=e107]:
+                  - heading [level=2] [ref=e108]: Joyce embraces agility and smart tools to fuel everyday growth.
+                  - link [ref=e109] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-china
+                    - text: See more China stories
+                - button [ref=e110] [cursor=pointer]: Hear her story
+              - group "slide 1" [ref=e111]:
+                - generic:
+                  - generic:
+                    - generic [ref=e113]:
+                      - heading "Stephanie sparks collaboration through connection." [level=2] [ref=e114]
+                      - link "See more France stories" [ref=e115] [cursor=pointer]:
+                        - /url: /en/sanofi-feeling#experience-france
+                    - button "Hear her story" [ref=e116] [cursor=pointer]
+              - group [ref=e117]:
+                - generic [ref=e119]:
+                  - heading [level=2] [ref=e120]: Bharath finds belonging in everyday moments.
+                  - link [ref=e121] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-india
+                    - text: See more India stories
+                - button [ref=e122] [cursor=pointer]: Hear his story
+              - group [ref=e123]:
+                - generic [ref=e125]:
+                  - heading [level=2] [ref=e126]: Maic finds balance through mindfulness and focus.
+                  - link [ref=e127] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-germany
+                    - text: See more Germany stories
+                - button [ref=e128] [cursor=pointer]: Hear his story
+              - group [ref=e129]:
+                - generic [ref=e131]:
+                  - heading [level=2] [ref=e132]: Dinesh fuels innovation with responsiveness and synergy.
+                  - link [ref=e133] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-usa
+                    - text: See more USA stories
+                - button [ref=e134] [cursor=pointer]: Hear his story
+              - group [ref=e135]:
+                - generic [ref=e137]:
+                  - heading [level=2] [ref=e138]: Lidia blends focus and teamwork to inspire innovation.
+                  - link [ref=e139] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-spain
+                    - text: See more Spain stories
+                - button [ref=e140] [cursor=pointer]: Hear her story
+              - group [ref=e141]:
+                - generic [ref=e143]:
+                  - heading [level=2] [ref=e144]: Joyce embraces agility and smart tools to fuel everyday growth.
+                  - link [ref=e145] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-china
+                    - text: See more China stories
+                - button [ref=e146] [cursor=pointer]: Hear her story
+              - group [ref=e147]:
+                - generic [ref=e149]:
+                  - heading [level=2] [ref=e150]: Stephanie sparks collaboration through connection.
+                  - link [ref=e151] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-france
+                    - text: See more France stories
+                - button [ref=e152] [cursor=pointer]: Hear her story
+              - group [ref=e153]:
+                - generic [ref=e155]:
+                  - heading [level=2] [ref=e156]: Bharath finds belonging in everyday moments.
+                  - link [ref=e157] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-india
+                    - text: See more India stories
+                - button [ref=e158] [cursor=pointer]: Hear his story
+              - group [ref=e159]:
+                - generic [ref=e161]:
+                  - heading [level=2] [ref=e162]: Maic finds balance through mindfulness and focus.
+                  - link [ref=e163] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-germany
+                    - text: See more Germany stories
+                - button [ref=e164] [cursor=pointer]: Hear his story
+              - group [ref=e165]:
+                - generic [ref=e167]:
+                  - heading [level=2] [ref=e168]: Dinesh fuels innovation with responsiveness and synergy.
+                  - link [ref=e169] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-usa
+                    - text: See more USA stories
+                - button [ref=e170] [cursor=pointer]: Hear his story
+              - group [ref=e171]:
+                - generic [ref=e173]:
+                  - heading [level=2] [ref=e174]: Lidia blends focus and teamwork to inspire innovation.
+                  - link [ref=e175] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-spain
+                    - text: See more Spain stories
+                - button [ref=e176] [cursor=pointer]: Hear her story
+              - group [ref=e177]:
+                - generic [ref=e179]:
+                  - heading [level=2] [ref=e180]: Joyce embraces agility and smart tools to fuel everyday growth.
+                  - link [ref=e181] [cursor=pointer]:
+                    - /url: /en/sanofi-feeling#experience-china
+                    - text: See more China stories
+                - button [ref=e182] [cursor=pointer]: Hear her story
+            - button "Previous" [ref=e183] [cursor=pointer]:
+              - text: ←
+              - generic [ref=e184]: Previous
+            - button "Next" [ref=e185] [cursor=pointer]:
+              - text: →
+              - generic [ref=e186]: Next
+            - list [ref=e187]:
+              - listitem [ref=e188]:
+                - button "Go to slide 1" [ref=e189] [cursor=pointer]:
+                  - generic [ref=e191]: Go to slide 1
+              - listitem [ref=e192]:
+                - button "Go to slide 2" [ref=e193] [cursor=pointer]:
+                  - generic [ref=e195]: Go to slide 2
+              - listitem [ref=e196]:
+                - button "Go to slide 3" [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199]: Go to slide 3
+              - listitem [ref=e200]:
+                - button "Go to slide 4" [ref=e201] [cursor=pointer]:
+                  - generic [ref=e203]: Go to slide 4
+              - listitem [ref=e204]:
+                - button "Go to slide 5" [ref=e205] [cursor=pointer]:
+                  - generic [ref=e207]: Go to slide 5
+              - listitem [ref=e208]:
+                - button "Go to slide 6" [ref=e209] [cursor=pointer]:
+                  - generic [ref=e211]: Go to slide 6
+        - generic [ref=e214]:
+          - generic [ref=e216]: 01 of 06
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - heading "Stephanie sparks collaboration through connection." [level=2] [ref=e220]:
+                - text: Stephanie sparks collaboration
+                - generic [ref=e221]: through connection.
+              - link "See more France stories " [ref=e223] [cursor=pointer]:
+                - /url: https://jobs.sanofi.com/en/sanofi-feeling#experience-france
+              - generic [ref=e224]:
+                - button "Previous " [ref=e225] [cursor=pointer]:
+                  - generic [ref=e226]: Previous
+                  - text: 
+                - button "Next " [ref=e227] [cursor=pointer]:
+                  - generic [ref=e228]: Next
+                  - text: 
+            - generic [ref=e229]:
+              - generic:
+                - img
+              - img "<p>*<br>Stephanie Lacroix<br>Digital Business Analysis Lead Omnichannel<br>Mood Curator.</p> photo" [ref=e230]
+              - text: 
+            - generic [ref=e231]:
+              - paragraph [ref=e232]:
+                - text: "*"
+                - text: Stephanie Lacroix
+                - text: Digital Business Analysis Lead Omnichannel
+                - text: Mood Curator.
+              - button "Hear her story " [ref=e233] [cursor=pointer]
+      - img [ref=e238]:
+        - img [ref=e240]
+      - generic [ref=e247]:
+        - img [ref=e249]:
+          - img [ref=e251]
+        - generic [ref=e252]:
+          - heading "Where are you headed?" [level=2] [ref=e253]
+          - paragraph [ref=e254]: Explore the Sanofi world to find out.
+          - link "Find Sanofi near you" [ref=e255] [cursor=pointer]:
+            - /url: /locations
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - heading "Experience possibility" [level=2] [ref=e259]
+          - generic [ref=e260]:
+            - button "Previous " [ref=e261] [cursor=pointer]
+            - button "Next " [ref=e262] [cursor=pointer]
+        - region "carousel" [ref=e263]:
+          - generic [ref=e265]:
+            - group [ref=e266]:
+              - generic [ref=e269]:
+                - heading [level=3] [ref=e271]: Our culture & values
+                - paragraph [ref=e272]: Our people make change boldly, proudly and unapologetically. We're taking tangible measures to ensure each Sanofian has what they need to succeed. Diversity is our strength. And you can shape how we move forward.
+                - link [ref=e273] [cursor=pointer]:
+                  - /url: /culture-and-values
+                  - text: Discover how we’re all in 
+            - group "slide 1" [ref=e274]:
+              - generic [ref=e277]:
+                - heading "Sanofi stories" [level=3] [ref=e279]
+                - paragraph [ref=e280]: Meet some of our team members. They're using their talents to chase the miracles of science that improve people's lives. Whatever the role, you can make an impact in your career.
+                - link "Meet our Sanofians " [ref=e281] [cursor=pointer]:
+                  - /url: /sanofi-stories
+            - group [ref=e282]:
+              - generic [ref=e285]:
+                - heading [level=3] [ref=e287]: Our locations
+                - paragraph [ref=e288]: We're in 60+ countries, all pulling together to define the future of healthcare. Wherever you work, you'll develop your career alongside experts, using technology to chase bigger breakthroughs.
+                - link [ref=e289] [cursor=pointer]:
+                  - /url: /locations
+                  - text: Where could your work take you? 
+            - group [ref=e290]:
+              - generic [ref=e293]:
+                - heading [level=3] [ref=e295]: Kickstart your career
+                - paragraph [ref=e296]: Discover opportunities to thrive, from apprenticeships and internships to graduate roles and global relocation. You'll get the support you need to have an incredible impact.
+                - link [ref=e297] [cursor=pointer]:
+                  - /url: /early-talent
+                  - text: Unlock extraordinary 
+            - group [ref=e298]:
+              - generic [ref=e301]:
+                - heading [level=3] [ref=e303]: Why Sanofi
+                - paragraph [ref=e304]: Harness AI to accelerate your impact. Explore your talents in different teams. Help to shape our inclusive culture, and do it all while being supported to be your best.
+                - link [ref=e305] [cursor=pointer]:
+                  - /url: /why-join-sanofi
+                  - text: Reach your potential 
+            - group [ref=e306]:
+              - generic [ref=e309]:
+                - heading [level=3] [ref=e311]: Our culture & values
+                - paragraph [ref=e312]: Our people make change boldly, proudly and unapologetically. We're taking tangible measures to ensure each Sanofian has what they need to succeed. Diversity is our strength. And you can shape how we move forward.
+                - link [ref=e313] [cursor=pointer]:
+                  - /url: /culture-and-values
+                  - text: Discover how we’re all in 
+            - group [ref=e314]:
+              - generic [ref=e317]:
+                - heading [level=3] [ref=e319]: Sanofi stories
+                - paragraph [ref=e320]: Meet some of our team members. They're using their talents to chase the miracles of science that improve people's lives. Whatever the role, you can make an impact in your career.
+                - link [ref=e321] [cursor=pointer]:
+                  - /url: /sanofi-stories
+                  - text: Meet our Sanofians 
+            - group [ref=e322]:
+              - generic [ref=e325]:
+                - heading [level=3] [ref=e327]: Our locations
+                - paragraph [ref=e328]: We're in 60+ countries, all pulling together to define the future of healthcare. Wherever you work, you'll develop your career alongside experts, using technology to chase bigger breakthroughs.
+                - link [ref=e329] [cursor=pointer]:
+                  - /url: /locations
+                  - text: Where could your work take you? 
+            - group [ref=e330]:
+              - generic [ref=e333]:
+                - heading [level=3] [ref=e335]: Kickstart your career
+                - paragraph [ref=e336]: Discover opportunities to thrive, from apprenticeships and internships to graduate roles and global relocation. You'll get the support you need to have an incredible impact.
+                - link [ref=e337] [cursor=pointer]:
+                  - /url: /early-talent
+                  - text: Unlock extraordinary 
+            - group [ref=e338]:
+              - generic [ref=e341]:
+                - heading [level=3] [ref=e343]: Why Sanofi
+                - paragraph [ref=e344]: Harness AI to accelerate your impact. Explore your talents in different teams. Help to shape our inclusive culture, and do it all while being supported to be your best.
+                - link [ref=e345] [cursor=pointer]:
+                  - /url: /why-join-sanofi
+                  - text: Reach your potential 
+            - group [ref=e346]:
+              - generic [ref=e349]:
+                - heading [level=3] [ref=e351]: Our culture & values
+                - paragraph [ref=e352]: Our people make change boldly, proudly and unapologetically. We're taking tangible measures to ensure each Sanofian has what they need to succeed. Diversity is our strength. And you can shape how we move forward.
+                - link [ref=e353] [cursor=pointer]:
+                  - /url: /culture-and-values
+                  - text: Discover how we’re all in 
+      - generic [ref=e358]:
+        - generic [ref=e359]:
+          - heading "Join our talent community" [level=2] [ref=e360]:
+            - strong [ref=e361]: Join our
+            - emphasis [ref=e362]: talent community
+          - paragraph [ref=e363]: What could we achieve together? Every Sanofian works on projects that truly make a difference to people’s lives.
+          - paragraph [ref=e364]: Sign up today and discover our latest opportunities as soon as they’re available.
+        - link "Register for job alerts today " [ref=e366] [cursor=pointer]:
+          - /url: "https://talentcareers.sanofi.com/flows/candidateportal "
+          - generic [ref=e367]: Register for job alerts today
+          - text: 
+    - contentinfo [ref=e368]:
+      - generic [ref=e370]:
+        - link "Sanofi (Home)" [ref=e372] [cursor=pointer]:
+          - /url: https://www.sanofi.com/
+          - img [ref=e373]
+        - generic [ref=e382]:
+          - generic [ref=e384]:
+            - heading "Follow us" [level=2] [ref=e385]
+            - list [ref=e386]:
+              - listitem [ref=e387]:
+                - link "LinkedIn " [ref=e388] [cursor=pointer]:
+                  - /url: //www.linkedin.com/company/sanofi/
+              - listitem [ref=e389]:
+                - link "Twitter " [ref=e390] [cursor=pointer]:
+                  - /url: //www.twitter.com/Sanofi
+              - listitem [ref=e391]:
+                - link "Instagram " [ref=e392] [cursor=pointer]:
+                  - /url: //www.instagram.com/sanofi
+              - listitem [ref=e393]:
+                - link "Facebook " [ref=e394] [cursor=pointer]:
+                  - /url: //www.facebook.com/Sanofi
+              - listitem [ref=e395]:
+                - link "YouTube " [ref=e396] [cursor=pointer]:
+                  - /url: //www.youtube.com/user/sanofiaventisTVen
+              - listitem [ref=e397]:
+                - link "RSS " [ref=e398] [cursor=pointer]:
+                  - /url: //www.sanofi.com/en/rss
+          - paragraph [ref=e401]:
+            - link "Back to top " [ref=e402] [cursor=pointer]:
+              - /url: "#page"
+              - text: Back to top
+              - generic [ref=e403]: 
+      - generic [ref=e406]:
+        - list [ref=e407]:
+          - listitem [ref=e408]:
+            - link "Contact" [ref=e409] [cursor=pointer]:
+              - /url: https://www.sanofi.com/en/contact
+          - listitem [ref=e410]:
+            - link "Legal notice" [ref=e411] [cursor=pointer]:
+              - /url: https://www.sanofi.com/en/legal-notice
+          - listitem [ref=e412]:
+            - link "Privacy & data protection" [ref=e413] [cursor=pointer]:
+              - /url: /en/privacy
+          - listitem [ref=e414]:
+            - link "Cookies policy" [ref=e415] [cursor=pointer]:
+              - /url: /en/cookies
+          - listitem [ref=e416]:
+            - link "Global T&C" [ref=e417] [cursor=pointer]:
+              - /url: /en/global-terms-and-conditions
+          - listitem [ref=e418]:
+            - link "Sitemap" [ref=e419] [cursor=pointer]:
+              - /url: /en/sitemap
+        - paragraph [ref=e420]: © Sanofi 2004-2026 - All rights reserved
+  - status
+  - generic:
+    - region "Cookie banner" [ref=e422]:
+      - dialog "Your privacy is important to us" [ref=e423]:
+        - generic [ref=e424]:
+          - generic [ref=e425]:
+            - generic:
+              - heading "Your privacy is important to us" [level=2] [ref=e426]
+              - generic [ref=e427]: By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance your website user experience, help us measure site performance and provide you a more personalised experience. Cookies will also track your browsing habits across other sites, presenting you with relevant advertising and messaging. You can personalise or withdraw your consent at any time by clicking on this link "Cookies Settings". Withdrawing consent will impact your website viewing experience. For more information on how we use cookies, including the total lifespan of cookies and the identity of third-parties intervening on our website, please consult the cookies policy, in the site footer.
+          - generic [ref=e429]:
+            - button "Cookies Settings, Opens the preference center dialog" [ref=e430] [cursor=pointer]: Cookies Settings
+            - button "Accept All Cookies" [ref=e432] [cursor=pointer]
+          - button "Continue without Accepting" [ref=e434] [cursor=pointer]
+    - text:  

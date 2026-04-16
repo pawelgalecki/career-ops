@@ -1,0 +1,222 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e8]:
+        - link "home" [ref=e10] [cursor=pointer]:
+          - /url: /
+        - link "venue" [ref=e12] [cursor=pointer]:
+          - /url: /venue
+        - link "partners" [ref=e14] [cursor=pointer]:
+          - /url: /partners
+        - link "news" [ref=e16] [cursor=pointer]:
+          - /url: /news
+        - link "schedule" [ref=e18] [cursor=pointer]:
+          - /url: /schedule
+        - link "speakers" [ref=e20] [cursor=pointer]:
+          - /url: /speakers
+        - link "presentations" [ref=e22] [cursor=pointer]:
+          - /url: /presentations
+        - link "workshops" [ref=e24] [cursor=pointer]:
+          - /url: /workshops
+        - link "about us" [ref=e26] [cursor=pointer]:
+          - /url: /about
+        - link "2023" [ref=e28] [cursor=pointer]:
+          - /url: http://2023.confitura.pl/
+        - link "FAQ" [ref=e30] [cursor=pointer]:
+          - /url: /faq
+        - link "login" [ref=e32] [cursor=pointer]:
+          - /url: https://app.confitura.pl/
+  - generic [ref=e34]:
+    - link "x" [ref=e35] [cursor=pointer]:
+      - /url: https://x.com/confiturapl
+      - generic [ref=e36]: 
+      - generic [ref=e37]: x
+    - link "facebook" [ref=e38] [cursor=pointer]:
+      - /url: https://www.facebook.com/Confitura
+      - generic [ref=e39]: 
+      - generic [ref=e40]: facebook
+    - link "linkedin" [ref=e41] [cursor=pointer]:
+      - /url: https://www.linkedin.com/company/confitura
+      - generic [ref=e42]: 
+      - generic [ref=e43]: linkedin
+    - link "youtube" [ref=e44] [cursor=pointer]:
+      - /url: https://www.youtube.com/confiturapl
+      - generic [ref=e45]: 
+      - generic [ref=e46]: youtube
+    - link "newsletter" [ref=e47] [cursor=pointer]:
+      - /url: https://newsletter.confitura.pl/subscription/form
+      - generic [ref=e48]: 
+      - generic [ref=e49]: newsletter
+  - generic [ref=e50]:
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e55]: Thank you, and see you next time!
+          - generic [ref=e56]:
+            - text: don't want to miss next edition?
+            - paragraph [ref=e57]:
+              - text: subscribe to our
+              - link "newsletter" [ref=e58] [cursor=pointer]:
+                - /url: https://newsletter.confitura.pl/subscription/form
+              - text: or follow as on socials
+          - generic [ref=e60]:
+            - text: "Want to sponsor Confitura? Drop us a line:"
+            - link "confitura[at]confitura[dot]pl" [ref=e61] [cursor=pointer]:
+              - /url: mailto:confitura[at]confitura[dot]pl
+            - text: "- let’s team up!"
+        - iframe [ref=e63]:
+          - generic [active] [ref=f6e1]:
+            - generic "YouTube Video Player" [ref=f6e3]
+            - generic [ref=f6e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f6e10] [cursor=pointer]:
+                    - generic [ref=f6e13]:
+                      - img
+                  - button "Hide player controls" [ref=f6e14] [cursor=pointer]
+                  - generic [ref=f6e16]:
+                    - generic [ref=f6e21]:
+                      - generic [ref=f6e22]:
+                        - link "Confitura 2025 Aftermovie" [ref=f6e23] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=Rm6xegwhmuM
+                        - link "confiturapl" [ref=f6e24] [cursor=pointer]:
+                          - /url: /channel/UCkVjQGf_e0JmlonPMS4VNXQ
+                          - generic [ref=f6e25]: confiturapl
+                      - generic [ref=f6e26]:
+                        - button "thumbnail-image" [ref=f6e27] [cursor=pointer]:
+                          - img "thumbnail-image" [ref=f6e28]
+                        - generic [ref=f6e30]:
+                          - generic: confiturapl
+                          - generic: 7.47K subscribers
+                    - generic [ref=f6e31]:
+                      - button "Share" [ref=f6e34] [cursor=pointer]:
+                        - generic [ref=f6e38]:
+                          - img
+                      - link "Watch on YouTube" [ref=f6e45] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=Rm6xegwhmuM
+                        - generic [ref=f6e48]:
+                          - text: Watch on
+                          - img [ref=f6e50]:
+                            - generic [ref=f6e52]:
+                              - img
+      - generic [ref=e65]: 
+    - generic [ref=e68]:
+      - heading "Confitura 2025 wrap up" [level=2] [ref=e69]
+      - generic [ref=e71]:
+        - paragraph [ref=e72]:
+          - text: Confitura 2025 has gone down in history! 🎉 We welcomed over
+          - strong [ref=e73]: 450 attendees
+          - text: and
+          - strong [ref=e74]: 60 speakers
+          - text: for two inspiring days filled with knowledge, ideas, talks, and workshops. Thank you for being part of this very special
+          - strong [ref=e75]: 15th edition
+          - text: of Confitura.
+        - paragraph [ref=e76]:
+          - text: Preparations for
+          - strong [ref=e77]: Confitura 2026
+          - text: are already underway - official dates will be announced soon. Stay tuned!
+    - generic [ref=e80]:
+      - heading "About Confitura" [level=2] [ref=e81]
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Confitura is one of Poland’s premier and longest-running software conferences. Organized by a dedicated team of Java developers, architects, and industry professionals, the conference features a comprehensive program of sessions and workshops led by both Polish and international experts. Covering a broad spectrum of topics, Confitura addresses everything from advanced coding practices to the latest trends in software development.
+        - paragraph [ref=e84]: The conference is renowned for its inclusive and welcoming atmosphere, ensuring accessibility for professionals at every stage of their career. With multiple tracks available, attendees can customize their experience based on their areas of interest and expertise. Additionally, Confitura remains committed to keeping its attendance fees affordable, fostering wider participation.
+        - paragraph [ref=e85]: Beyond the technical sessions, Confitura offers extensive networking opportunities during breaks and social events, promoting meaningful connections between attendees, speakers, and industry leaders. The conference’s unwavering focus on quality content and community engagement has established it as a cornerstone event in Poland’s IT sector.
+      - generic [ref=e86]: Our main goal is to promote JVM technologies and have fun doing so.
+    - generic [ref=e88]:
+      - link "Al & NLP Day 2025":
+        - /url: https://nlpday.pl/
+        - img "Al & NLP Day 2025"
+      - paragraph [ref=e89]: This year's edition of Confitura will be held in conjunction with Al & NLP Day 2025 - a two-day conference featuring inspiring sessions and hands-on workshops dedicated to the most important advances and applications in artificial intelligence, machine learning, and natural language processing.
+      - paragraph [ref=e90]: "EXPANDED PROGRAM: Parallel to Confitura's main tracks, participants can attend specialized sessions practical workshops dedicated to the forefront of generativev artificial intelligence. The program features in-depth explorations of Polish large language models, emerging trends in GenAl, real-world applications of LLMs, and practical guidance on implementing generative Al solutions across diverse environments."
+      - paragraph [ref=e91]: "CROSS-DISCIPLINARY NETWORKING: Meet and engage with both the thriving communityof Confitu ra and leading Al experts, academic researchers, and PolEval competition winners gathered for Al & NLP Day. This unique format offers even greater scope for knowledge sharing, recruitment, and brand visibility across intersecting sectors of IT, Al, and data science."
+      - paragraph [ref=e92]:
+        - link "check them out" [ref=e94] [cursor=pointer]:
+          - /url: https://nlpday.pl/
+    - generic [ref=e97]:
+      - generic [ref=e98]:
+        - heading "confitura'23 in numbers" [level=1] [ref=e99]
+        - generic [ref=e100]: Everything has started in 2007, when the group of passionate Java developers decided to create a programming event for the community. Today we're running the conference for more than 1000 attendees. 30 talks in 4 parallel sessions give an opportunity to learn new things to everyone! Our live streams and recordings of talks gain enormous popularity on the web. That's why organizing this event gives satisfaction to more than 30 people from Confitura's team. That eagers us to organize another Confitura, this year it will be the 15th.
+      - generic [ref=e101]:
+        - generic [ref=e103]: "32"
+        - generic [ref=e104]: speakers
+      - generic [ref=e105]:
+        - generic [ref=e107]: "4"
+        - generic [ref=e108]: tracks
+      - generic [ref=e109]:
+        - generic [ref=e111]: "30"
+        - generic [ref=e112]: presentations
+      - generic [ref=e113]:
+        - generic [ref=e115]: 1 mln +
+        - generic [ref=e116]: youtube channel views
+      - generic [ref=e117]:
+        - generic [ref=e119]: "338"
+        - generic [ref=e120]: youtube videos
+      - generic [ref=e121]:
+        - generic [ref=e123]: "1300"
+        - generic [ref=e124]: participants
+    - generic [ref=e126]:
+      - heading "our partners" [level=1] [ref=e127]
+      - generic [ref=e128]:
+        - generic [ref=e130]:
+          - generic [ref=e131]: Path
+          - link "Instytut Podstaw Informatyki PAN" [ref=e132] [cursor=pointer]:
+            - /url: /partners/ipipan
+            - img "Instytut Podstaw Informatyki PAN" [ref=e133]
+          - link "Sages" [ref=e134] [cursor=pointer]:
+            - /url: /partners/sages
+            - img "Sages" [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - link "InPost" [ref=e139] [cursor=pointer]:
+              - /url: /partners/inpost
+              - img "InPost" [ref=e140]
+            - link "Netcompany" [ref=e142] [cursor=pointer]:
+              - /url: /partners/netcompany
+              - img "Netcompany" [ref=e143]
+            - link "Revolut" [ref=e145] [cursor=pointer]:
+              - /url: /partners/revolut
+              - img "Revolut" [ref=e146]
+            - link "DataLinks" [ref=e148] [cursor=pointer]:
+              - /url: /partners/datalinks
+              - img "DataLinks" [ref=e149]
+            - link "Decerto" [ref=e151] [cursor=pointer]:
+              - /url: /partners/decerto
+              - img "Decerto" [ref=e152]
+          - generic [ref=e153]:
+            - generic [ref=e154] [cursor=pointer]: gold
+            - generic [ref=e155] [cursor=pointer]: silver
+            - generic [ref=e156] [cursor=pointer]: bronze
+            - generic [ref=e157] [cursor=pointer]: media
+            - generic [ref=e158] [cursor=pointer]: tech
+    - generic [ref=e160]:
+      - heading "stay connected" [level=1] [ref=e161]
+      - generic [ref=e163]:
+        - link "confitura@confitura.pl" [ref=e164] [cursor=pointer]:
+          - /url: mailto:confitura@confitura.pl
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - text: "newsletter:"
+            - link "newsletter" [ref=e167] [cursor=pointer]:
+              - /url: https://newsletter.confitura.pl/subscription/form
+              - generic [ref=e168]: 
+          - generic [ref=e169]:
+            - text: "socials:"
+            - link "x" [ref=e170] [cursor=pointer]:
+              - /url: https://x.com/confiturapl
+              - generic [ref=e171]: 
+            - link "facebook" [ref=e172] [cursor=pointer]:
+              - /url: https://www.facebook.com/Confitura
+              - generic [ref=e173]: 
+            - link "linkedin" [ref=e174] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/confitura
+              - generic [ref=e175]: 
+            - link "youtube" [ref=e176] [cursor=pointer]:
+              - /url: https://www.youtube.com/confiturapl
+              - generic [ref=e177]: 
+        - link "Privacy policy" [ref=e178] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Regulamin wydarzenia" [ref=e179] [cursor=pointer]:
+          - /url: https://api.confitura.pl/api/resources/edition-2025/docs/Regulamin%20Confitura%2025.pdf
+        - text:     

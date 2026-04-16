@@ -1,0 +1,670 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "Match-Trade Technologies forex technology provider" [ref=e7] [cursor=pointer]:
+            - /url: https://match-trade.com/
+            - img "Match-Trade Technologies forex technology provider" [ref=e8]
+          - heading "Match-Trade Technologies forex technology provider" [level=1]:
+            - link "Match-Trade Technologies forex technology provider":
+              - /url: https://match-trade.com/
+        - navigation [ref=e9]:
+          - generic [ref=e10]:
+            - list [ref=e13]:
+              - listitem [ref=e14]:
+                - generic [ref=e15] [cursor=pointer]: Products
+              - listitem [ref=e16]:
+                - generic [ref=e17] [cursor=pointer]: About us
+              - listitem [ref=e18]:
+                - link "Ecosystem" [ref=e19] [cursor=pointer]:
+                  - /url: https://match-trade.com/ecosystem/
+              - listitem [ref=e20]:
+                - link "News" [ref=e21] [cursor=pointer]:
+                  - /url: https://match-trade.com/news/
+              - listitem [ref=e22]:
+                - link "Contact" [ref=e23] [cursor=pointer]:
+                  - /url: https://match-trade.com/contact/
+            - list [ref=e26]:
+              - listitem [ref=e27]:
+                - link "linkedin" [ref=e28] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/match-trade-technologies-llc/
+              - listitem [ref=e29]:
+                - link "instagram" [ref=e30] [cursor=pointer]:
+                  - /url: https://www.instagram.com/matchtradetech_company/
+              - listitem [ref=e31]:
+                - link "discord" [ref=e32] [cursor=pointer]:
+                  - /url: https://discord.gg/vn5dwNVx7H
+              - listitem [ref=e33]:
+                - link "twitter" [ref=e34] [cursor=pointer]:
+                  - /url: https://twitter.com/MatchTradeTech
+              - listitem [ref=e35]:
+                - link "Youtube" [ref=e36] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UC7_NB9JFr4522onj2GBOo0A/featured
+              - listitem [ref=e37]:
+                - link "telegram" [ref=e38] [cursor=pointer]:
+                  - /url: https://t.me/s/matchtradetech
+              - listitem [ref=e39]:
+                - link "Facebook" [ref=e40] [cursor=pointer]:
+                  - /url: https://www.facebook.com/pages/Match-Trade-Technologies/241431809360981
+              - listitem [ref=e41] [cursor=pointer]:
+                - link "en English" [ref=e42]:
+                  - /url: https://match-trade.com/career/
+                  - img "en" [ref=e43]
+                  - text: English
+                - link "AI translation es Spanish" [ref=e44]:
+                  - /url: https://match-trade.com/es/career/
+                  - text: AI translation
+                  - img "es" [ref=e45]
+                  - text: Spanish
+                - link "AI translation pt Portuguese" [ref=e46]:
+                  - /url: https://match-trade.com/pt/career/
+                  - text: AI translation
+                  - img "pt" [ref=e47]
+                  - text: Portuguese
+                - link "AI translation ar Arabic" [ref=e48]:
+                  - /url: https://match-trade.com/ar/career/
+                  - text: AI translation
+                  - img "ar" [ref=e49]
+                  - text: Arabic
+                - link "AI translation tr Turkish" [ref=e50]:
+                  - /url: https://match-trade.com/tr/career/
+                  - text: AI translation
+                  - img "tr" [ref=e51]
+                  - text: Turkish
+                - link "AI translation zh-CN Chinese (Simplified)" [ref=e52]:
+                  - /url: https://match-trade.com/zh-CN/career/
+                  - text: AI translation
+                  - img "zh-CN" [ref=e53]
+                  - generic [ref=e54]: Chinese (Simplified)
+          - generic [ref=e58]:
+            - link "Our team Our team is a blend of high-class business consultants experienced in working with Forex Brokers and IT experts Read more" [ref=e60] [cursor=pointer]:
+              - /url: https://match-trade.com/our-team/
+              - generic [ref=e61]:
+                - figure [ref=e62]
+                - heading "Our team" [level=2] [ref=e63]
+                - paragraph [ref=e64]: Our team is a blend of high-class business consultants experienced in working with Forex Brokers and IT experts
+                - paragraph [ref=e65]: Read more
+            - link "Career As a fintech/ financial technology company we develop advanced trading systems for the Forex market Read more" [ref=e67] [cursor=pointer]:
+              - /url: https://match-trade.com/career/
+              - generic [ref=e68]:
+                - figure [ref=e69]
+                - heading "Career" [level=2] [ref=e70]
+                - paragraph [ref=e71]: As a fintech/ financial technology company we develop advanced trading systems for the Forex market
+                - paragraph [ref=e72]: Read more
+            - link "Partnership We have launched a Partnership Program to expand our global network of sales representatives Read more" [ref=e74] [cursor=pointer]:
+              - /url: https://match-trade.com/partnership/
+              - generic [ref=e75]:
+                - figure [ref=e76]
+                - heading "Partnership" [level=2] [ref=e77]
+                - paragraph [ref=e78]: We have launched a Partnership Program to expand our global network of sales representatives
+                - paragraph [ref=e79]: Read more
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic [ref=e82]:
+                      - link "Match-Trader Server Licence" [ref=e84] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/match-trader-server-licence/
+                      - link "Match-Trader White Label platform" [ref=e86] [cursor=pointer]:
+                        - /url: https://match-trade.com/match-trader-white-label-platform/
+                      - link "Prop Trading Software" [ref=e88] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/proptrading/
+                      - link "Client Office app with Forex CRM" [ref=e90] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/client-office-app-with-forex-crm/
+                      - link "Social Trading – Copy Trading app" [ref=e92] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/social-trading-copy-trading-app/
+                      - link "Liquidity and Data Feeds" [ref=e94] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/liquidity-and-data-feeds/
+                      - link "Bridge MT4 / MT5 with RMS" [ref=e96] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/bridge-mt4-mt5-with-rms/
+                      - link "MT4 / MT5 Server hosting and support" [ref=e98] [cursor=pointer]:
+                        - /url: https://match-trade.com/products/mt4-mt5-server-hosting-and-support/
+                      - link "Download brochures" [ref=e100] [cursor=pointer]:
+                        - /url: https://match-trade.com/brochures/
+                    - generic:
+                      - link "White Labels Match-Trader White Label platform Match-Trader is an independent trading platform designed to fit into the Broker’s ecosystem, consisting of web, mobile and desktop apps Read more" [ref=e102] [cursor=pointer]:
+                        - /url: https://match-trade.com/match-trader-white-label-platform/
+                        - generic [ref=e103]:
+                          - paragraph [ref=e104]: White Labels
+                          - heading "Match-Trader White Label platform" [level=3] [ref=e105]
+                          - paragraph [ref=e106]: Match-Trader is an independent trading platform designed to fit into the Broker’s ecosystem, consisting of web, mobile and desktop apps
+                          - paragraph [ref=e107]: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "Platform Server Match-Trader Server Licence Match-Trader platform is offered with a high-capacity server to guarantee maximum processing efficiency and a wide range of APIs Read more":
+                                - /url: https://match-trade.com/products/match-trader-server-licence/
+                                - generic:
+                                  - paragraph: Platform Server
+                                  - heading "Match-Trader Server Licence" [level=3]
+                                  - paragraph: Match-Trader platform is offered with a high-capacity server to guarantee maximum processing efficiency and a wide range of APIs
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "MANAGEMENT systems Client Office app with Forex CRM Our Client Office app with Forex CRM app helps Brokers to manage all clients and IBs’ activities in one place, also reducing operating costs Read more":
+                                - /url: https://match-trade.com/client-office-app-with-forex-crm/
+                                - generic:
+                                  - paragraph: MANAGEMENT systems
+                                  - heading "Client Office app with Forex CRM" [level=3]
+                                  - paragraph: Our Client Office app with Forex CRM app helps Brokers to manage all clients and IBs’ activities in one place, also reducing operating costs
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "social TRADING Social Trading – Copy Trading app Retain more clients and increase the volume of transactions on your trading platform by giving your clients automated trading options Read more":
+                                - /url: https://match-trade.com/products/social-trading-copy-trading-app/
+                                - generic:
+                                  - paragraph: social TRADING
+                                  - heading "Social Trading – Copy Trading app" [level=3]
+                                  - paragraph: Retain more clients and increase the volume of transactions on your trading platform by giving your clients automated trading options
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "LIQUIDITY SOLUTION Liquidity and Data Feeds Get direct access to deep, multi-asset Liquidity from Institutional Liquidity pools Read more":
+                                - /url: https://match-trade.com/products/liquidity-and-data-feeds/
+                                - generic:
+                                  - paragraph: LIQUIDITY SOLUTION
+                                  - heading "Liquidity and Data Feeds" [level=3]
+                                  - paragraph: Get direct access to deep, multi-asset Liquidity from Institutional Liquidity pools
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "Bridge & Aggregation Bridge MT4 / MT5 with RMS Ultimate bridging & aggregation technology, giving you complete flexibility in directly connecting to desired liquidity pools Read more":
+                                - /url: https://match-trade.com/products/bridge-mt4-mt5-with-rms/
+                                - generic:
+                                  - paragraph: Bridge & Aggregation
+                                  - heading "Bridge MT4 / MT5 with RMS" [level=3]
+                                  - paragraph: Ultimate bridging & aggregation technology, giving you complete flexibility in directly connecting to desired liquidity pools
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "Server maintenance MT4 / MT5 Server hosting and support Save time and money, leave MT4 / MT5 Server Hosting and maintenance to the professionals Read more":
+                                - /url: https://match-trade.com/products/mt4-mt5-server-hosting-and-support/
+                                - generic:
+                                  - paragraph: Server maintenance
+                                  - heading "MT4 / MT5 Server hosting and support" [level=3]
+                                  - paragraph: Save time and money, leave MT4 / MT5 Server Hosting and maintenance to the professionals
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "TRADING Prop Trading Software Start your own proprietary trading business using our award-winning Match-Trader trading platform. Read more":
+                                - /url: https://match-trade.com/products/proptrading/
+                                - generic:
+                                  - paragraph: TRADING
+                                  - heading "Prop Trading Software" [level=3]
+                                  - paragraph: Start your own proprietary trading business using our award-winning Match-Trader trading platform.
+                                  - paragraph: Read more
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "DOWNLOAD Products Overview Download the brochure presenting all our products and services to see how they complement each other. Contact us to get more details! Read more":
+                                - /url: https://match-trade.com/download-page/
+                                - generic:
+                                  - paragraph: DOWNLOAD
+                                  - heading "Products Overview" [level=3]
+                                  - paragraph: Download the brochure presenting all our products and services to see how they complement each other. Contact us to get more details!
+                                  - paragraph: Read more
+    - main [ref=e108]:
+      - article [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e115]:
+            - generic [ref=e117]:
+              - link "Home" [ref=e119] [cursor=pointer]:
+                - /url: https://match-trade.com/
+              - text: » Career
+            - generic [ref=e121]:
+              - heading "Unlock New Opportunities in Fin-Tech" [level=2] [ref=e122]
+              - paragraph [ref=e123]: At Match-Trade Technologies, we skillfully blend technological innovation with a dynamic company culture that celebrates both individual talent and collective success.
+              - link "See Our Job Offers" [ref=e126] [cursor=pointer]:
+                - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs
+          - generic [ref=e128]:
+            - heading "Get to Know Us" [level=2] [ref=e129]
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - figure [ref=e133]:
+                  - link [ref=e134] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=x-tbJ3YlX2Q
+                - heading "10th Anniversary of Match-Trade Technologies" [level=3] [ref=e135]
+              - generic [ref=e136]:
+                - figure [ref=e138]:
+                  - link [ref=e139] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=EnyqwBCNUEI
+                - heading "Tour Through Our New Warsaw & Poznan Offices" [level=3] [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - figure [ref=e143]
+                - heading "4 Offices" [level=3] [ref=e144]
+                - paragraph [ref=e145]: strategically located around the world, bringing us closer to our clients and trading communities
+              - generic [ref=e146]:
+                - figure [ref=e147]
+                - heading "270+ People" [level=3] [ref=e148]
+                - paragraph [ref=e149]: dynamically growing team of top talent from various backgrounds, united by shared vision
+              - generic [ref=e150]:
+                - figure [ref=e151]
+                - heading "Since 2013" [level=3] [ref=e152]
+                - paragraph [ref=e153]: over a decade of industry experience, delivering quality trading solutions and building lasting partnerships
+          - generic [ref=e155]:
+            - heading "Career Opportunities by City" [level=2] [ref=e156]
+            - generic [ref=e158]:
+              - generic [ref=e160]:
+                - heading "Warsaw, Poland" [level=4] [ref=e161] [cursor=pointer]:
+                  - link "Warsaw, Poland" [ref=e162]:
+                    - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=1&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=L2VyqIjGeA1QGI67yj8Q0Rv_xURth84PZ-Ns283VIlI
+                - heading "Poznan, Poland" [level=4] [ref=e163] [cursor=pointer]:
+                  - link "Poznan, Poland" [ref=e164]:
+                    - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=2&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=L2VyqIjGeA1QGI67yj8Q0Rv_xURth84PZ-Ns283VIlI
+                - heading "Limassol, Cyprus" [level=4] [ref=e165] [cursor=pointer]:
+                  - link "Limassol, Cyprus" [ref=e166]:
+                    - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=7&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=L2VyqIjGeA1QGI67yj8Q0Rv_xURth84PZ-Ns283VIlI
+                - heading "Dubai, UAE" [level=4] [ref=e167] [cursor=pointer]:
+                  - link "Dubai, UAE" [ref=e168]:
+                    - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=9&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=L2VyqIjGeA1QGI67yj8Q0Rv_xURth84PZ-Ns283VIlI
+              - heading "Algorithms" [level=4] [ref=e169]:
+                - link "Algorithms" [ref=e170] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "High-Frequency Trading" [level=4] [ref=e171]:
+                - link "High-Frequency Trading" [ref=e172] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Data Analyse" [level=4] [ref=e173]:
+                - link "Data Analyse" [ref=e174] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Testing" [level=4] [ref=e175]:
+                - link "Testing" [ref=e176] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Product Development" [level=4] [ref=e177]:
+                - link "Product Development" [ref=e178] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Finance & Accounting" [level=4] [ref=e179]:
+                - link "Finance & Accounting" [ref=e180] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Research & Development" [level=4] [ref=e181]:
+                - link "Research & Development" [ref=e182] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Product Support" [level=4] [ref=e183]:
+                - link "Product Support" [ref=e184] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Admin & DevOps" [level=4] [ref=e185]:
+                - link "Admin & DevOps" [ref=e186] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Dealing Business Analyse" [level=4] [ref=e187]:
+                - link "Dealing Business Analyse" [ref=e188] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Development" [level=4] [ref=e189]:
+                - link "Development" [ref=e190] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Broker Support" [level=4] [ref=e191]:
+                - link "Broker Support" [ref=e192] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Sales" [level=4] [ref=e193]:
+                - link "Sales" [ref=e194] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Marketing" [level=4] [ref=e195]:
+                - link "Marketing" [ref=e196] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Events" [level=4] [ref=e197]:
+                - link "Events" [ref=e198] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Legal & Compliance" [level=4] [ref=e199]:
+                - link "Legal & Compliance" [ref=e200] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "IT Support" [level=4] [ref=e201]:
+                - link "IT Support" [ref=e202] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Graphic/Web" [level=4] [ref=e203]:
+                - link "Graphic/Web" [ref=e204] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "HR & Office" [level=4] [ref=e205]:
+                - link "HR & Office" [ref=e206] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "UX/UI" [level=4] [ref=e207]:
+                - link "UX/UI" [ref=e208] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Business Development" [level=4] [ref=e209]:
+                - link "Business Development" [ref=e210] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+              - heading "Back Office" [level=4] [ref=e211]:
+                - link "Back Office" [ref=e212] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/#career-our-offices
+          - link "Find your path" [ref=e217] [cursor=pointer]:
+            - /url: "#career-our-offices"
+          - generic [ref=e219]:
+            - heading "Life at Match-Trade Technologies" [level=2] [ref=e220]
+            - generic [ref=e222]:
+              - figure [ref=e223]
+              - figure [ref=e224]
+              - figure [ref=e225]
+              - figure [ref=e226]
+              - figure [ref=e227]
+              - figure [ref=e228]
+              - figure [ref=e229]
+              - figure [ref=e230]
+              - figure [ref=e231]
+              - figure [ref=e232]
+              - figure [ref=e233]
+            - generic [ref=e235]:
+              - figure [ref=e236]
+              - figure [ref=e237]
+              - figure [ref=e238]
+              - figure [ref=e239]
+              - figure [ref=e240]
+              - figure [ref=e241]
+              - figure [ref=e242]
+              - figure [ref=e243]
+              - figure [ref=e244]
+              - figure [ref=e245]
+              - figure [ref=e246]
+              - figure [ref=e247]
+            - generic [ref=e249]:
+              - figure [ref=e250]
+              - figure [ref=e251]
+              - figure [ref=e252]
+              - figure [ref=e253]
+              - figure [ref=e254]
+              - figure [ref=e255]
+              - figure [ref=e256]
+              - figure [ref=e257]
+              - figure [ref=e258]
+              - figure [ref=e259]
+              - figure [ref=e260]
+              - figure [ref=e261]
+          - generic [ref=e263]:
+            - heading "Our Core Values" [level=2] [ref=e264]
+            - generic [ref=e265]:
+              - generic [ref=e266]:
+                - figure [ref=e267]
+                - heading "Development" [level=3] [ref=e268]
+                - paragraph [ref=e269]: We believe in continuous growth, offering our team opportunities to participate in engaging projects and training programs that deepen expertise and expand knowledge.
+              - generic [ref=e270]:
+                - figure [ref=e271]
+                - heading "Innovation" [level=3] [ref=e272]
+                - paragraph [ref=e273]: Fresh perspectives and creative solutions lead to progress across our company. We foster an environment where innovation thrives, encouraging our team to explore new possibilities.
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - figure [ref=e276]
+                - heading "Real Impact" [level=3] [ref=e277]
+                - paragraph [ref=e278]: We empower employees to drive real change in their work domains and transform their unique ideas into actual business outcomes.
+              - generic [ref=e279]:
+                - figure [ref=e280]
+                - heading "Agility" [level=3] [ref=e281]
+                - paragraph [ref=e282]: Prioritising speed in decision-making, we ensure that valuable initiatives receive quick approval and swift implementation while maintaining the highest quality standards.
+              - generic [ref=e283]:
+                - figure [ref=e284]
+                - heading "Open Culture" [level=3] [ref=e285]
+                - paragraph [ref=e286]: Our leadership team is accessible to all, sharing insights at every level. We embrace an open culture, with first-name communication and a casual dress code.
+          - generic [ref=e288]:
+            - heading "Jobs That Match Your Location" [level=2] [ref=e289]
+            - generic [ref=e290]:
+              - link "Warsaw, Poland View jobs" [ref=e292] [cursor=pointer]:
+                - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=1&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=HDGUKiI7zc6icvWVm_4shcadSC6fJGI_KYmcktgd49Y
+                - generic [ref=e293]:
+                  - figure [ref=e294]
+                  - paragraph [ref=e295]: Warsaw, Poland
+                - text: View jobs
+              - link "Poznań, Poland View jobs" [ref=e297] [cursor=pointer]:
+                - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=2&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=HDGUKiI7zc6icvWVm_4shcadSC6fJGI_KYmcktgd49Y
+                - generic [ref=e298]:
+                  - figure [ref=e299]
+                  - paragraph [ref=e300]: Poznań, Poland
+                - text: View jobs
+              - link "Limassol, Cyprus View jobs" [ref=e302] [cursor=pointer]:
+                - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=7&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=HDGUKiI7zc6icvWVm_4shcadSC6fJGI_KYmcktgd49Y
+                - generic [ref=e303]:
+                  - figure [ref=e304]
+                  - paragraph [ref=e305]: Limassol, Cyprus
+                - text: View jobs
+              - link "Dubai, UAE View jobs" [ref=e307] [cursor=pointer]:
+                - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=9&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=HDGUKiI7zc6icvWVm_4shcadSC6fJGI_KYmcktgd49Y
+                - generic [ref=e308]:
+                  - figure [ref=e309]
+                  - paragraph [ref=e310]: Dubai, UAE
+                - text: View jobs
+          - generic [ref=e312]:
+            - heading "Our Charity Initiatives" [level=2] [ref=e313]
+            - generic [ref=e314]:
+              - generic [ref=e315]:
+                - figure "Hakersi Project" [ref=e318]:
+                  - link [ref=e319] [cursor=pointer]:
+                    - /url: https://match-trade.com/wp-content/uploads/2025/07/hakersi-project.jpg
+                  - generic [ref=e320]: Hakersi Project
+                - generic:
+                  - generic:
+                    - heading "Hakersi Project" [level=4]
+                    - paragraph:
+                      - text: As part of our ongoing collaboration with the
+                      - link "Sarigato Foundation":
+                        - /url: https://sarigato.org/
+                      - text: ", we welcome children facing digital and social exclusion to engage in hands-on educational experiences. Last year, our team brought interactive workshops directly to young innovators in Poznań and Warsaw facilities. This year, we flipped the script, inviting"
+                      - link "Hakersi":
+                        - /url: https://hakersi.pl/
+                      - text: into our workspace.
+                    - paragraph: These visits offered an authentic glimpse into how modern businesses actually function. Our visitors witnessed collaboration in action, discovered the tools that power today’s digital economy and connected faces to job titles that might shape their own futures. For young minds still forming their aspirations, exposure to this fast-moving tech landscape can be transformational.
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - figure [ref=e326]
+                  - generic [ref=e328]:
+                    - heading "Christmas Efforts" [level=4] [ref=e329]
+                    - paragraph [ref=e330]: Each year during the holidays, our team channels its energy into meaningful efforts, bringing warmth to families and individuals who need it most. By organising carefully curated gift programs and forming partnerships, we ensure the festive season reaches everyone.
+                - generic [ref=e331]:
+                  - figure [ref=e334]
+                  - generic [ref=e336]:
+                    - heading "WOŚP" [level=4] [ref=e337]
+                    - paragraph [ref=e338]: We’ve been proudly supporting WOŚP’s mission for many years through donations and auctions, with MTT also contributing directly to this important cause. Our long-standing commitment was recognised with a commemorative plaque displayed in our Poznań office.
+                - generic [ref=e339]:
+                  - figure [ref=e342]
+                  - generic [ref=e344]:
+                    - heading "Pet Care" [level=4] [ref=e345]
+                    - paragraph [ref=e346]: Local shelters receive our active support through purchasing essential supplies and making regular visits to help care for the animals. Our dedication to pet welfare continues to be an important part of our CSR activity.
+          - generic [ref=e348]:
+            - heading "Steps to Join Our Team" [level=3] [ref=e349]
+            - generic [ref=e350]:
+              - generic [ref=e351]:
+                - paragraph [ref=e352]: "01"
+                - heading "Getting acquainted" [level=4] [ref=e353]
+                - paragraph [ref=e354]: In our first call, we’ll explore your career story and experience to see if there’s a good match with our open positions. It’s also your chance to ask any questions about the role and our company.
+              - generic [ref=e355]:
+                - paragraph [ref=e356]: "02"
+                - heading "Recruitment task" [level=4] [ref=e357]
+                - paragraph [ref=e358]: Depending on the department you’re interested in, you might complete a simple task.This helps verify your practical skills in coding, design or copywriting.
+              - generic [ref=e359]:
+                - paragraph [ref=e360]: "03"
+                - heading "In-person meeting" [level=4] [ref=e361]
+                - paragraph [ref=e362]: We’ll invite you to meet with the Head of the relevant department. Together with your future leader, you’ll discuss your background and how you can contribute to the team.
+              - generic [ref=e363]:
+                - paragraph [ref=e364]: "04"
+                - heading "Feedback" [level=4] [ref=e365]
+                - paragraph [ref=e366]: Congratulations on reaching the final stage! Here, we’ll focus on moving forward together and will provide you with an offer outlining salary details and additional benefits.
+          - generic [ref=e368]:
+            - heading "Want to See What’s New with Us?" [level=2] [ref=e369]
+            - generic [ref=e371]:
+              - link "Happy Easter from Match-Trade Technologies team! Wishing you peaceful holiday filled with joy. May this season bring fresh energy, new beginnings, and lots of good moments. 💙 Here’s a glimpse of our Easter lunch at Warsaw office. 🐣" [ref=e374] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DWq1a1kIlCj/
+                - img "Happy Easter from Match-Trade Technologies team! Wishing you peaceful holiday filled with joy. May this season bring fresh energy, new beginnings, and lots of good moments. 💙 Here’s a glimpse of our Easter lunch at Warsaw office. 🐣" [ref=e375]
+              - 'link "We''re opening applications for our Paid Internship Program – Fintech Product & Analysis in Poznań! 🚀 You’ll work on real product topics across our ecosystem, including a trading platform and a crypto payments processor. You’ll get 2 perspectives in one internship: 🔵 Month 1: Product Owner – onboarding into our organization, products, and tools; analyzing…" [ref=e378] [cursor=pointer]':
+                - /url: https://www.instagram.com/p/DWlU8rsjRfd/
+                - 'img "We''re opening applications for our Paid Internship Program – Fintech Product & Analysis in Poznań! 🚀 You’ll work on real product topics across our ecosystem, including a trading platform and a crypto payments processor. You’ll get 2 perspectives in one internship: 🔵 Month 1: Product Owner – onboarding into our organization, products, and tools; analyzing…" [ref=e379]'
+              - 'link "Our HR Specialist, Monika Rebuś, was recently featured in an interview with @hakersi.pl, where she shared how employee volunteering works in practice at our company. As she explains, it’s not just about good intentions – it’s about creating the right environment. At Match-Trade Technologies, volunteering is part of our culture: managers support these initiatives, and…" [ref=e382] [cursor=pointer]':
+                - /url: https://www.instagram.com/p/DWi-muaDdWA/
+                - 'img "Our HR Specialist, Monika Rebuś, was recently featured in an interview with @hakersi.pl, where she shared how employee volunteering works in practice at our company. As she explains, it’s not just about good intentions – it’s about creating the right environment. At Match-Trade Technologies, volunteering is part of our culture: managers support these initiatives, and…" [ref=e383]'
+              - 'link "We’re opening applications for our Paid Internship Program – Forex Systems Java Developer in Poznań! 🚀 During the 3-month program (June 29 – Sept 18), you’ll do three 4-week rotations and contribute to production-level work across areas like: 🔵 Trading system matching engine 🔵 Crypto payments processor 🔵 CRMS for FX brokers & prop-trading firms…" [ref=e386] [cursor=pointer]':
+                - /url: https://www.instagram.com/p/DWTWNtXlG51/
+                - 'img "We’re opening applications for our Paid Internship Program – Forex Systems Java Developer in Poznań! 🚀 During the 3-month program (June 29 – Sept 18), you’ll do three 4-week rotations and contribute to production-level work across areas like: 🔵 Trading system matching engine 🔵 Crypto payments processor 🔵 CRMS for FX brokers & prop-trading firms…" [ref=e387]'
+              - link "Looking for your first step ino fintech? 👀 Come meet the Match-Trade Technologies Team at the Career Day hosted by the Faculty of Management, University of Warsaw. 📆 March 18, 2026 📍 Szturmowa 1/3, Warsaw Stop by our booth to learn more about what we do and discuss career opportunities. See you there!🤝" [ref=e390] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DVyKHL-jam2/
+                - img "Looking for your first step ino fintech? 👀 Come meet the Match-Trade Technologies Team at the Career Day hosted by the Faculty of Management, University of Warsaw. 📆 March 18, 2026 📍 Szturmowa 1/3, Warsaw Stop by our booth to learn more about what we do and discuss career opportunities. See you there!🤝" [ref=e391]
+              - link "That's how we celebrated the 13th Anniversary of Match-Trade Technologies in our Warsaw office! They say 13 is unlucky, but we’ve never felt luckier to have this team by our side. 🤝 Here's to many more years together! 🥂" [ref=e394] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DVtCqx3D8IX/
+                - img "That's how we celebrated the 13th Anniversary of Match-Trade Technologies in our Warsaw office! They say 13 is unlucky, but we’ve never felt luckier to have this team by our side. 🤝 Here's to many more years together! 🥂" [ref=e395]
+              - link "Warsaw, let’s meet in person. We’ll be at the IT Career Fair – come say hi and talk with the Match-Trade Technologies team. If you’re curious what we build and what working in tech looks like day-to-day, stop by for a quick chat. 📍 Mar 4, 2026 – MIMUW 📍 Mar 5, 2026 – PW…" [ref=e398] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DVLNUwSj3hi/
+                - img "Warsaw, let’s meet in person. We’ll be at the IT Career Fair – come say hi and talk with the Match-Trade Technologies team. If you’re curious what we build and what working in tech looks like day-to-day, stop by for a quick chat. 📍 Mar 4, 2026 – MIMUW 📍 Mar 5, 2026 – PW…" [ref=e399]
+              - 'link "Yesterday, a new team kicked off the Crypto Algorithmic Trader Internship – a 3-month deep dive into algorithmic crypto trading with an HFT-driven team. Over the next weeks, they’ll move fast: 🔵turning ideas into executable strategies, 🔵testing them in real market conditions, 🔵and learning what it really takes to build systems where speed, discipline, and…" [ref=e402] [cursor=pointer]':
+                - /url: https://www.instagram.com/p/DUkg9xbD8Cs/
+                - 'img "Yesterday, a new team kicked off the Crypto Algorithmic Trader Internship – a 3-month deep dive into algorithmic crypto trading with an HFT-driven team. Over the next weeks, they’ll move fast: 🔵turning ideas into executable strategies, 🔵testing them in real market conditions, 🔵and learning what it really takes to build systems where speed, discipline, and…" [ref=e403]'
+              - 'link "Proud to support WOŚP once again ❤️ Every year, millions of people across Poland come together for one powerful purpose: to support healthcare and save lives. We''re honored that Match-Trade can contribute to this amazing cause. Thanks to our team''s commitment and raising significant contribution this year. Small actions, big hearts – that''s how we…" [ref=e406] [cursor=pointer]':
+                - /url: https://www.instagram.com/p/DUQmU3KjAxm/
+                - 'img "Proud to support WOŚP once again ❤️ Every year, millions of people across Poland come together for one powerful purpose: to support healthcare and save lives. We''re honored that Match-Trade can contribute to this amazing cause. Thanks to our team''s commitment and raising significant contribution this year. Small actions, big hearts – that''s how we…" [ref=e407]'
+              - link "We're proud to wrap up our partnership with @hakersi.pl on Kreaton Hakersów, a nationwide tech contest for young creators. Our online workshops led to incredible projects — from Figma landing pages to Minecraft financial challenges. On January 14, we gathered online to announce the winners. The following day, a delegation from Match Trade Technologies and…" [ref=e410] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DTucRFpkgBE/
+                - img "We're proud to wrap up our partnership with @hakersi.pl on Kreaton Hakersów, a nationwide tech contest for young creators. Our online workshops led to incredible projects — from Figma landing pages to Minecraft financial challenges. On January 14, we gathered online to announce the winners. The following day, a delegation from Match Trade Technologies and…" [ref=e411]
+              - link "This year, we once again joined the @szlachetnapaczka initiative! As a company, we supported two older women living alone, bringing a bit of Christmas magic into their homes. Volunteers told us there were plenty of happy tears and heartfelt smiles. ✨ Big thanks to our whole team for making this happen. Together, we truly make…" [ref=e414] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DSZYMEjjSb-/
+                - img "This year, we once again joined the @szlachetnapaczka initiative! As a company, we supported two older women living alone, bringing a bit of Christmas magic into their homes. Volunteers told us there were plenty of happy tears and heartfelt smiles. ✨ Big thanks to our whole team for making this happen. Together, we truly make…" [ref=e415]
+              - link "Turning back the clock for our Warsaw Christmas party! 🪩 We brought some serious retro vibes to the celebration this year. From the shimmering disco ball to the vintage 13-inch TVs rocking custom Match-Trade designs, the atmosphere was unmatched. 📺 Nothing but great moves and even better memories!" [ref=e418] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DSKTH1xjQzU/
+                - img "Turning back the clock for our Warsaw Christmas party! 🪩 We brought some serious retro vibes to the celebration this year. From the shimmering disco ball to the vintage 13-inch TVs rocking custom Match-Trade designs, the atmosphere was unmatched. 📺 Nothing but great moves and even better memories!" [ref=e419]
+              - link "Cheer or fear? Belsnickel is here! 🎅 Okay, fine, it was a regular Santa at our Pozań office, but he did judge us... and decided we were all \"Admirable!\" ✨ No bowls were smashed, and no beatings were administered (Santa wouldn't dare, judging by the first photo), just awesome gifts and great snacks!" [ref=e422] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DSFANl5DeLG/
+                - img "Cheer or fear? Belsnickel is here! 🎅 Okay, fine, it was a regular Santa at our Pozań office, but he did judge us... and decided we were all \"Admirable!\" ✨ No bowls were smashed, and no beatings were administered (Santa wouldn't dare, judging by the first photo), just awesome gifts and great snacks!" [ref=e423]
+              - link "Our Mission Pawssible had a spectacular finish! Over two weeks, we’ve collected money, food, and supplies for @azyl_psia_przystan. 🥣 7 bags of dry food, totaling 84 kg of food 🥫 Over 150 cans of wet food 🦴 1 box of chews and other treats 🛏️ 10 large beds 🧣 20 blankets 🛁 Bedding and towels…" [ref=e426] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DRMbfDYDXB9/
+                - img "Our Mission Pawssible had a spectacular finish! Over two weeks, we’ve collected money, food, and supplies for @azyl_psia_przystan. 🥣 7 bags of dry food, totaling 84 kg of food 🥫 Over 150 cans of wet food 🦴 1 box of chews and other treats 🛏️ 10 large beds 🧣 20 blankets 🛁 Bedding and towels…" [ref=e427]
+              - link "We joined the SarigatoFoundation @hakersi.pl project to run a nationwide contest for kids and teens from care centers. Nearly 100 participants from 14 places are learning design, teamwork, and tech with help from our MTT volunteers. 🖐️ Workshops covered Figma and Minecraft projects. 💻 The contest ends in November, and winners will be announced in…" [ref=e430] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DQv9VTsjbbg/
+                - img "We joined the SarigatoFoundation @hakersi.pl project to run a nationwide contest for kids and teens from care centers. Nearly 100 participants from 14 places are learning design, teamwork, and tech with help from our MTT volunteers. 🖐️ Workshops covered Figma and Minecraft projects. 💻 The contest ends in November, and winners will be announced in…" [ref=e431]
+            - link "Check Out Our Instagram" [ref=e434] [cursor=pointer]:
+              - /url: https://www.instagram.com/matchtradetech_company/
+          - generic [ref=e436]:
+            - heading "Join Us for a Fulfilling and Rewarding Career!" [level=3] [ref=e437]
+            - link "View Our Job Openings" [ref=e440] [cursor=pointer]:
+              - /url: https://tomhrm.app/ats/match-trade-technologies/eFt7xm/jobs?jobOfferSiteSearchType%5BbranchRemote%5D=&jobOfferSiteSearchType%5Bdepartment%5D=&jobOfferSiteSearchType%5BjobPosition%5D=&jobOfferSiteSearchType%5B_token%5D=HDGUKiI7zc6icvWVm_4shcadSC6fJGI_KYmcktgd49Y
+    - contentinfo [ref=e441]:
+      - generic [ref=e444]:
+        - generic [ref=e445]:
+          - heading "Join our Newsletter" [level=3] [ref=e446]
+          - generic [ref=e450]:
+            - generic [ref=e451]:
+              - status
+              - list
+            - form "Contact form" [ref=e452]:
+              - textbox [ref=e454]
+              - button "Submit" [ref=e455] [cursor=pointer]
+          - paragraph [ref=e456]:
+            - text: By entering your email address you are giving us permission to send you news and offers. Per our
+            - link "Website Privacy Policy" [ref=e457] [cursor=pointer]:
+              - /url: https://match-trade.com/website-privacy-policy/
+            - text: ", you can opt out anytime."
+          - figure [ref=e459]:
+            - link [ref=e460] [cursor=pointer]:
+              - /url: https://match-trade.com/wp-content/uploads/2024/10/UKAS-Template-Color-2.pdf
+        - generic [ref=e462]:
+          - generic [ref=e463]:
+            - heading "Products" [level=3] [ref=e464]
+            - list [ref=e465]:
+              - listitem [ref=e466]:
+                - link "Match-Trader Server Licence" [ref=e467] [cursor=pointer]:
+                  - /url: https://match-trade.com/products/match-trader-server-licence/
+              - listitem [ref=e468]:
+                - link "Match-Trader White Label" [ref=e469] [cursor=pointer]:
+                  - /url: https://match-trade.com/products/match-trader-white-label-platform/
+              - listitem [ref=e470]:
+                - link "Client office with CRM" [ref=e471] [cursor=pointer]:
+                  - /url: https://match-trade.com/products/client-office-app-with-forex-crm/
+              - listitem [ref=e472]:
+                - link "Social Trading-Copy trading app" [ref=e473] [cursor=pointer]:
+                  - /url: https://match-trade.com/products/social-trading-copy-trading-app/
+              - listitem [ref=e474]:
+                - link "Prop Trading Software" [ref=e475] [cursor=pointer]:
+                  - /url: https://match-trade.com/products/proptrading/
+          - list [ref=e477]:
+            - listitem [ref=e478]:
+              - link "Liquidity with Data Feeds" [ref=e479] [cursor=pointer]:
+                - /url: https://match-trade.com/products/liquidity-and-data-feeds/
+            - listitem [ref=e480]:
+              - link "Bridge MT4/MT5 with RMS" [ref=e481] [cursor=pointer]:
+                - /url: https://match-trade.com/products/bridge-mt4-mt5-with-rms/
+            - listitem [ref=e482]:
+              - link "MT4/MT5 Server hosting and support" [ref=e483] [cursor=pointer]:
+                - /url: https://match-trade.com/products/mt4-mt5-server-hosting-and-support/
+          - generic [ref=e484]:
+            - heading "About us" [level=3] [ref=e485]
+            - list [ref=e486]:
+              - listitem [ref=e487]:
+                - link "Our team" [ref=e488] [cursor=pointer]:
+                  - /url: https://match-trade.com/our-team/
+              - listitem [ref=e489]:
+                - link "Careers" [ref=e490] [cursor=pointer]:
+                  - /url: https://match-trade.com/career/
+              - listitem [ref=e491]:
+                - link "Partnership" [ref=e492] [cursor=pointer]:
+                  - /url: https://match-trade.com/partnership/
+              - listitem [ref=e493]:
+                - link "Gallery and Videos" [ref=e494] [cursor=pointer]:
+                  - /url: https://match-trade.com/our-team/#h-company-life
+            - heading "Contact us" [level=3] [ref=e495]
+            - list [ref=e496]:
+              - listitem [ref=e497]:
+                - link "LinkedIn" [ref=e498] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/match-trade-technologies-llc/
+              - listitem [ref=e499]:
+                - link "Instagram" [ref=e500] [cursor=pointer]:
+                  - /url: https://www.instagram.com/matchtradetech_company/
+              - listitem [ref=e501]:
+                - link "Discord" [ref=e502] [cursor=pointer]:
+                  - /url: https://discord.gg/vn5dwNVx7H
+              - listitem [ref=e503]:
+                - link "Twitter" [ref=e504] [cursor=pointer]:
+                  - /url: https://twitter.com/MatchTradeTech
+              - listitem [ref=e505]:
+                - link "Youtube" [ref=e506] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UC7_NB9JFr4522onj2GBOo0A/featured
+              - listitem [ref=e507]:
+                - link "Telegram" [ref=e508] [cursor=pointer]:
+                  - /url: https://t.me/s/matchtradetech
+              - listitem [ref=e509]:
+                - link "Facebook" [ref=e510] [cursor=pointer]:
+                  - /url: https://www.facebook.com/pages/Match-Trade-Technologies/241431809360981
+          - generic [ref=e511]:
+            - heading "Knowledge" [level=3] [ref=e512]
+            - list [ref=e513]:
+              - listitem [ref=e514]:
+                - link "News" [ref=e515] [cursor=pointer]:
+                  - /url: https://match-trade.com/news/
+              - listitem [ref=e516]:
+                - link "Articles" [ref=e517] [cursor=pointer]:
+                  - /url: https://match-trade.com/articles/
+              - listitem [ref=e518]:
+                - link "Download brochures" [ref=e519] [cursor=pointer]:
+                  - /url: https://match-trade.com/brochures/
+              - listitem [ref=e520]:
+                - link "Technical documentation" [ref=e521] [cursor=pointer]:
+                  - /url: https://docs.match-trade.com/
+          - generic [ref=e522]:
+            - heading "For media" [level=3] [ref=e523]
+            - list [ref=e524]:
+              - listitem [ref=e525]:
+                - link "Media kit" [ref=e526] [cursor=pointer]:
+                  - /url: https://drive.google.com/drive/folders/1QszepkovoSq-gtuLHbH006RlG1k39Kss
+      - generic [ref=e529]:
+        - figure [ref=e531]
+        - generic [ref=e532]:
+          - paragraph [ref=e533]: "Match-Trade Technologies is a company registered in 16192 Coastal Highway, Lewes DE 19958, County of Sussex, USA, business address: Giełdowa 5, 01-211 Warsaw, Poland, with company number 5298324. Match-Trade Technologies provides software development services and as such is not subject to regulatory requirements. Match-Trade Technologies is NOT a broker, and it does not hold client funds. The platform showcased on this website serves demonstration purposes only. Live account trading is impossible. By logging into the Match-Trader platform, you declare that you understand that the platform presents full functionalities but depositing funds and withdrawals are not possible as it serves demonstration purposes only. This website serves as a common showcase for marketing services of different companies that work in the frames of their local legislations and have respective licenses and permissions for provided services. If you are interested in particular services please contact the sales team for more information about the servicing company; Match-Trade Technologies is a software development and integration company and does not provide financial, exchange, investment or consulting services. Match-Trade Technologies does not provide any financial or other services advertised on this website and does not trade cryptocurrencies. The information on this website and our services are not directed at residents of any jurisdiction where foreign exchange trading is restricted or prohibited by local laws or regulations. Articles and financial market analyses on this website are prepared or accomplished by an author in his personal capacity. The views and opinions expressed in postings on this website belong solely to the author and may not reflect those of the company’s management or the official position of the company. The contents of the site do not constitute financial advice and are provided solely for informational purposes without taking into account your personal objectives, financial situation or needs. Any action you take upon the information on this website is strictly at your own risk and we will not be liable for any losses and damages in connection with the use of our website content. Please carefully study the documents posted on this website: Legal information and Disclaimers, Privacy Policy, Cookie Policy and AML&KYC Summary. These documents are available only in English. You acknowledge that you know the English language at a sufficient level to understand the text of these documents, and you fully understand the legal consequences of these documents. In case you do not understand or understand the English language poorly, you acknowledge that you have used the services of a professional interpreter. If you don’t agree with this statement or the information provided within the documents, please leave this website immediately. Trademarks Deparment Intellectual Property Sector Ministry of Economy & Tourism United Arab Emirates."
+          - paragraph [ref=e534]: Match-Trade Technologies is registered in U.S. Patent and Trademark Office, the European Union Intellectual Property Office and Office of the Controller General of Patents, Designs and Trade Marks in India. Unauthorized use of the above trademark without the consent of the company is prohibited.
+      - generic [ref=e537]:
+        - paragraph [ref=e539]: © 2026 All rights reserved. Match-Trade Technologies LLC
+        - paragraph [ref=e541]:
+          - link "Privacy Policy for Clients" [ref=e542] [cursor=pointer]:
+            - /url: https://match-trade.com/privacy-policy/
+          - text: "|"
+          - link "Website Privacy Policy" [ref=e543] [cursor=pointer]:
+            - /url: https://match-trade.com/website-privacy-policy/
+          - text: "|"
+          - link "AML & KYC Summary" [ref=e544] [cursor=pointer]:
+            - /url: https://match-trade.com/aml-kyc-summary/
+  - text: Contact me using my e-mail address

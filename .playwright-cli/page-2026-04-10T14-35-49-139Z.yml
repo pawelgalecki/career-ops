@@ -1,0 +1,595 @@
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e5]:
+      - paragraph [ref=e7]:
+        - text: We use cookies.
+        - link "Cookies Policy" [ref=e8] [cursor=pointer]:
+          - /url: https://softwaremill.com/cookies-policy
+      - generic [ref=e9]:
+        - button "Customize" [ref=e10] [cursor=pointer]
+        - button "Reject All" [ref=e11] [cursor=pointer]
+        - button "Accept All" [ref=e12] [cursor=pointer]
+  - banner [ref=e13]:
+    - generic [ref=e15]:
+      - link "Softwaremill home page" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - figure [ref=e18]:
+          - img [ref=e19]
+      - navigation [ref=e25]:
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - link "Services" [ref=e28] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e29]:
+            - link "Industries" [ref=e30] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e31]:
+            - link "Technologies" [ref=e32] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e33]:
+            - link "Company" [ref=e34] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e35]:
+            - link "Technology Blog" [ref=e36] [cursor=pointer]:
+              - /url: https://softwaremill.com/blog/
+          - listitem [ref=e37]:
+            - link "Resources" [ref=e38] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e39]:
+            - link "Talk to us" [ref=e40] [cursor=pointer]:
+              - /url: https://softwaremill.com/contact/
+  - generic [ref=e41]:
+    - generic [ref=e46]:
+      - heading "Build what’s next. Move the needle." [level=1] [ref=e47]
+      - paragraph [ref=e48]: "We turn the right tech into working products: high-throughput systems and next-gen integrations, built to scale."
+      - link "Contact us" [ref=e49] [cursor=pointer]:
+        - /url: /contact/
+    - main [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e54]:
+          - text: Keep your business two steps ahead
+          - heading "Equip your stack with precision tech" [level=2] [ref=e55]
+          - paragraph [ref=e56]: Fractional-CTO guidance, autonomous DevOps pipelines, and production-ready LLMs. We build with shift-left security for resilient, modern systems designed for performance.
+        - generic [ref=e58]:
+          - link "E2E Partnership Solve complex business problems with the right tech partner. read more" [ref=e59] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/platform-engineering/
+            - generic [ref=e60]:
+              - heading "E2E Partnership" [level=3] [ref=e61]
+              - paragraph [ref=e62]: Solve complex business problems with the right tech partner.
+            - generic [ref=e63]:
+              - figure [ref=e64]:
+                - img [ref=e65]
+              - generic [ref=e69]: read more
+          - link "FinTech Development Launch secure and compliant WealthTech, BNPL, and trade apps. read more" [ref=e70] [cursor=pointer]:
+            - /url: /services/fintech-software-development/
+            - generic [ref=e71]:
+              - heading "FinTech Development" [level=3] [ref=e72]
+              - paragraph [ref=e73]: Launch secure and compliant WealthTech, BNPL, and trade apps.
+            - generic [ref=e74]:
+              - figure [ref=e75]:
+                - img [ref=e76]
+              - generic [ref=e80]: read more
+          - link "Modern Backends Build modular, scalable, and high-performance backend systems. read more" [ref=e81] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/backend-development/
+            - generic [ref=e82]:
+              - heading "Modern Backends" [level=3] [ref=e83]
+              - paragraph [ref=e84]: Build modular, scalable, and high-performance backend systems.
+            - generic [ref=e85]:
+              - figure [ref=e86]:
+                - img [ref=e87]
+              - generic [ref=e91]: read more
+          - link "Systems Integration Accelerate delivery and scale seamlessly with proven tools. read more" [ref=e92] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/next-gen-systems-integration/
+            - generic [ref=e93]:
+              - heading "Systems Integration" [level=3] [ref=e94]
+              - paragraph [ref=e95]: Accelerate delivery and scale seamlessly with proven tools.
+            - generic [ref=e96]:
+              - figure [ref=e97]:
+                - img [ref=e98]
+              - generic [ref=e102]: read more
+          - link "Software Audit Uncover hidden issues and improve the quality of your software. read more" [ref=e103] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/software-development-audit-and-consulting/
+            - generic [ref=e104]:
+              - heading "Software Audit" [level=3] [ref=e105]
+              - paragraph [ref=e106]: Uncover hidden issues and improve the quality of your software.
+            - generic [ref=e107]:
+              - figure [ref=e108]:
+                - img [ref=e109]
+              - generic [ref=e113]: read more
+          - link "Cybersecurity Ship fast and stay compliant. Avoid costly fixes and vulnerabilities. read more" [ref=e114] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/software-security-built-into-delivery/
+            - generic [ref=e115]:
+              - heading "Cybersecurity" [level=3] [ref=e116]
+              - paragraph [ref=e117]: Ship fast and stay compliant. Avoid costly fixes and vulnerabilities.
+            - generic [ref=e118]:
+              - figure [ref=e119]:
+                - img [ref=e120]
+              - generic [ref=e124]: read more
+          - link "Fractional CTO Get a senior technology expert without the full-time cost and commitment. read more" [ref=e125] [cursor=pointer]:
+            - /url: https://softwaremill.com/services/fractional-cto/
+            - generic [ref=e126]:
+              - heading "Fractional CTO" [level=3] [ref=e127]
+              - paragraph [ref=e128]: Get a senior technology expert without the full-time cost and commitment.
+            - generic [ref=e129]:
+              - figure [ref=e130]:
+                - img [ref=e131]
+              - generic [ref=e135]: read more
+          - link "Cloud Modernization Modernize in cloud and maximize value. read more" [ref=e136] [cursor=pointer]:
+            - /url: /services/devops-as-a-service/
+            - generic [ref=e137]:
+              - heading "Cloud Modernization" [level=3] [ref=e138]
+              - paragraph [ref=e139]: Modernize in cloud and maximize value.
+            - generic [ref=e140]:
+              - figure [ref=e141]:
+                - img [ref=e142]
+              - generic [ref=e146]: read more
+          - generic [ref=e147]:
+            - heading "Are we a match?" [level=3] [ref=e148]
+            - paragraph [ref=e149]: Tell us about your project and our Business Reps will get back to you quickly.
+            - link "Contact us" [ref=e150] [cursor=pointer]:
+              - /url: /contact/
+        - generic [ref=e153]:
+          - img "the virtuslab group logo" [ref=e155]
+          - generic [ref=e156]:
+            - heading "Reach peak performance." [level=2] [ref=e157]
+            - paragraph [ref=e158]: Explore the full range of services offered by the VirtusLab Group that we’re part of.
+            - link "See more" [ref=e159] [cursor=pointer]:
+              - /url: https://virtuslab.com/
+              - figure [ref=e160]:
+                - img [ref=e161]
+              - generic [ref=e165]: See more
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - heading "Technologies that we specialize in" [level=2] [ref=e169]
+            - list [ref=e170]:
+              - listitem [ref=e171]:
+                - link "#Scala" [ref=e172] [cursor=pointer]:
+                  - /url: https://softwaremill.com/top-scala-experts/
+              - listitem [ref=e173]:
+                - link "#Java" [ref=e174] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/java-development/
+              - listitem [ref=e175]:
+                - link "#Typescript" [ref=e176] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/reliable-development-with-typescript/
+              - listitem [ref=e177]:
+                - link "#React" [ref=e178] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/professionally-crafted-applications-with-react/
+              - listitem [ref=e179]:
+                - link "#Kotlin" [ref=e180] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/kotlin-software-development/
+              - listitem [ref=e181]:
+                - link "#Rust" [ref=e182] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/rust-expertise/
+              - listitem [ref=e183]:
+                - link "#Node.js" [ref=e184] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/modern-development-node-js/
+              - listitem [ref=e185]:
+                - link "#Apache Kafka" [ref=e186] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/confluent-plus-partner/
+              - listitem [ref=e187]:
+                - link "#Apache Struts" [ref=e188] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/apache-struts-consultancy/
+              - listitem [ref=e189]:
+                - link "#Kubernetes" [ref=e190] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/secure-and-reliable-kubernetes-solutions/
+              - listitem [ref=e191]:
+                - link "#ScyllaDB" [ref=e192] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/partner-with-scylladb-experts/
+              - listitem [ref=e193]:
+                - link "#GCP" [ref=e194] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/end-to-end-google-cloud-services/
+              - listitem [ref=e195]:
+                - link "#AWS" [ref=e196] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/top-notch-aws-services/
+              - listitem [ref=e197]:
+                - link "#Azure" [ref=e198] [cursor=pointer]:
+                  - /url: https://softwaremill.com/services/azure-expertise/
+          - link "See more" [ref=e199] [cursor=pointer]:
+            - /url: /technologies/
+            - figure [ref=e200]:
+              - img [ref=e201]
+            - generic [ref=e203]: See more
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - generic [ref=e207]:
+              - button "1" [ref=e208] [cursor=pointer]
+              - button "2" [ref=e209] [cursor=pointer]
+              - button "3" [ref=e210] [cursor=pointer]
+              - button "4" [ref=e211] [cursor=pointer]
+              - button "5" [ref=e212] [cursor=pointer]
+            - generic:
+              - figure [ref=e214] [cursor=pointer]:
+                - img [ref=e215]
+              - figure [ref=e218] [cursor=pointer]:
+                - img [ref=e219]
+            - generic [ref=e222]:
+              - generic [ref=e223]:
+                - generic [ref=e226]:
+                  - text: Leonardo Taccari
+                  - text: Cloud Architect, faire.ai
+                - paragraph [ref=e227]: "\"SoftwareMill worked with us to quickly bring up infrastructure in our very early stage for multiple environments on multiple AWS accounts based on Kubernetes. After several years we ended up in a disaster and accidentally lost several Kubernetes namespaces. It was a pleasure to be able to restore the namespace in literally a couple of minutes!\""
+              - generic [ref=e228]:
+                - generic [ref=e231]:
+                  - text: Kamil "Rudy" Dobrzyński
+                  - text: Head of Engineering, Uncapped
+                - paragraph [ref=e232]: "\"The team members have deep expertise in multiple areas so they really contributed to the overall shape of the product.\""
+              - generic [ref=e233]:
+                - generic [ref=e236]:
+                  - text: Daniel Pfeiffer
+                  - text: VP of Engineering, Firstbird
+                - paragraph [ref=e237]: "\"Thanks to the SoftwareMill team, the company was able to improve their technical foundation, making maintenance a much easier process moving forward. As a result, they are able to meet their customer's functionality requirements.\""
+              - generic [ref=e238]:
+                - generic [ref=e241]:
+                  - text: Software Architect
+                  - text: Paidy
+                - paragraph [ref=e242]: "\"In a show of flexibility, SoftwareMill was able to adapt to the management style of their clients. Their contribution to the software development aided the productivity of other teams. They are a highly knowledgeable and communicative group.\""
+              - generic [ref=e243]:
+                - generic [ref=e246]:
+                  - text: VP of Engineering
+                  - text: Health analytics company
+                - paragraph [ref=e247]: "\"SoftwareMill consistently provides communicative, skilled resources who are able to work within the business' tech stack and produce high-quality products, which has been advantageous.\""
+          - generic [ref=e248]:
+            - paragraph [ref=e249]: Want to know first-hand how we deliver? Let us know and we will connect you with our clients!
+            - link "Connect me with your client" [ref=e250] [cursor=pointer]:
+              - /url: /contact/
+              - figure [ref=e251]:
+                - img [ref=e252]
+              - generic [ref=e254]: Connect me with your client
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - generic [ref=e257]: 15+
+              - generic [ref=e258]: years of commercial experience
+            - generic [ref=e259]:
+              - generic [ref=e260]: 7+
+              - generic [ref=e261]: avg. project duration in years
+            - generic [ref=e262]:
+              - generic [ref=e263]: "NPS: 73"
+              - generic [ref=e264]: compared to the IT average of 55
+          - iframe [ref=e268]:
+            - link "4.9/5 30 reviews Powered by" [ref=f1e3] [cursor=pointer]:
+              - /url: https://clutch.co/profile/softwaremill?utm_source=widget&utm_medium=9&utm_campaign=widget&utm_content=num_reviews&utm_term=softwaremill.com#reviews
+              - generic [ref=f1e4]:
+                - generic [ref=f1e5]: 4.9/5
+                - paragraph [ref=f1e6]: 30 reviews
+              - generic [ref=f1e7]: Powered by
+        - generic [ref=e270]:
+          - generic [ref=e273]:
+            - generic [ref=e274]: How we work
+            - heading "Our motto is \"Engineering. Excellence. Trust\"" [level=2] [ref=e275]
+            - paragraph [ref=e276]: We go beyond resolving tasks and take an active role in shaping your company's technical core. Partnering with us lets you experience the difference that true engineering excellence can make.
+            - link "Find out more" [ref=e277] [cursor=pointer]:
+              - /url: /how-we-work/
+              - figure [ref=e278]:
+                - img [ref=e279]
+              - generic [ref=e281]: Find out more
+          - generic [ref=e284]:
+            - generic [ref=e285]: Why us
+            - heading "“Overdelivery” starts with care" [level=2] [ref=e286]
+            - paragraph [ref=e287]: 70% of CTOs re-engage with us when they change companies. We serve top markets, with 80% of our revenue from the USA, UK, and Japan. We have 400 engineers available for your projects.
+            - link "Find out more" [ref=e288] [cursor=pointer]:
+              - /url: https://softwaremill.com/why-choose-us/
+              - figure [ref=e289]:
+                - img [ref=e290]
+              - generic [ref=e294]: Find out more
+        - generic [ref=e297]:
+          - generic [ref=e298]:
+            - generic [ref=e299]:
+              - heading "Our portfolio speaks for itself" [level=2] [ref=e300]
+              - paragraph
+            - generic [ref=e301]:
+              - generic [ref=e302]: slide 2 of 5
+              - list [ref=e305]:
+                - generic [ref=e307]:
+                  - figure [ref=e309]
+                  - generic [ref=e311]:
+                    - paragraph [ref=e312]: Corify GmbH
+                    - heading [level=3] [ref=e313]: Optimizing Workflow and Architecture Redesign
+                    - paragraph [ref=e314]: Find out how we improved efficiency and addressed organizational challenges, enabling our Client to quickly start new work and streamline service deployments.
+                    - paragraph [ref=e315]:
+                      - link [ref=e316] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/optimizing-team-workflow-for-enhanced-productivity/
+                        - text: READ CASE STUDY
+                - generic [ref=e318]:
+                  - figure [ref=e320]
+                  - generic [ref=e322]:
+                    - paragraph [ref=e323]: FinTech
+                    - heading "Building a resilient trading platform" [level=3] [ref=e324]
+                    - paragraph [ref=e325]: Read how we developed a performant reactive system allowing fast trading, and processing growing traffic with very high resilience in case of failures.
+                    - paragraph [ref=e326]:
+                      - link "READ CASE STUDY" [ref=e327] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/real-time-asset-trading-platform/
+                - generic [ref=e329]:
+                  - figure [ref=e331]
+                  - generic [ref=e333]:
+                    - paragraph [ref=e334]: LPP S.A.
+                    - heading [level=3] [ref=e335]: Real-Time insights into customers online behaviour
+                    - paragraph [ref=e336]: Building a data streaming platform and allowing feeding reports with real-time data to interact with online customers on the spot.
+                    - paragraph [ref=e337]:
+                      - link [ref=e338] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/real-time-insights-into-customers-online-behaviour/
+                        - text: READ CASE STUDY
+                - generic [ref=e340]:
+                  - figure [ref=e342]
+                  - generic [ref=e344]:
+                    - paragraph [ref=e345]: Reco
+                    - heading [level=3] [ref=e346]: Cloud Cost Reduction
+                    - paragraph [ref=e347]: Our team have reduced the client's infrastructure expenses by approximately 21% year-to-year.
+                    - paragraph [ref=e348]:
+                      - link [ref=e349] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/cloud-cost-reduction-case-study/
+                        - text: READ CASE STUDY
+                - generic [ref=e351]:
+                  - figure [ref=e353]
+                  - generic [ref=e355]:
+                    - paragraph [ref=e356]: COTA Healthcare
+                    - heading [level=3] [ref=e357]: Reliable and scalable high-load platform
+                    - paragraph [ref=e358]: See how we improved the platform's performance, implemented critical features, and optimized its infrastructure.
+                    - paragraph [ref=e359]:
+                      - link [ref=e360] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/reliable-and-scalable-high-load-platform-for-cota-healthcare/
+                        - text: READ CASE STUDY
+                - generic [ref=e362]:
+                  - figure [ref=e364]
+                  - generic [ref=e366]:
+                    - paragraph [ref=e367]: Corify GmbH
+                    - heading [level=3] [ref=e368]: Optimizing Workflow and Architecture Redesign
+                    - paragraph [ref=e369]: Find out how we improved efficiency and addressed organizational challenges, enabling our Client to quickly start new work and streamline service deployments.
+                    - paragraph [ref=e370]:
+                      - link [ref=e371] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/optimizing-team-workflow-for-enhanced-productivity/
+                        - text: READ CASE STUDY
+                - generic [ref=e373]:
+                  - figure [ref=e375]
+                  - generic [ref=e377]:
+                    - paragraph [ref=e378]: FinTech
+                    - heading [level=3] [ref=e379]: Building a resilient trading platform
+                    - paragraph [ref=e380]: Read how we developed a performant reactive system allowing fast trading, and processing growing traffic with very high resilience in case of failures.
+                    - paragraph [ref=e381]:
+                      - link [ref=e382] [cursor=pointer]:
+                        - /url: https://softwaremill.com/case-study/real-time-asset-trading-platform/
+                        - text: READ CASE STUDY
+            - navigation "Carousel Navigation" [ref=e384]:
+              - figure [ref=e386] [cursor=pointer]:
+                - img [ref=e387]
+              - figure [ref=e390] [cursor=pointer]:
+                - img [ref=e391]
+          - link "See our portfolio" [ref=e394] [cursor=pointer]:
+            - /url: /portfolio-clients/
+            - figure [ref=e395]:
+              - img [ref=e396]
+            - generic [ref=e398]: See our portfolio
+    - contentinfo [ref=e399]:
+      - generic [ref=e402]:
+        - generic [ref=e404]:
+          - heading "Let's do things together!" [level=3] [ref=e405]
+          - list [ref=e406]:
+            - listitem [ref=e407]:
+              - link "+48 22 188 11 33 (PL)" [ref=e408] [cursor=pointer]:
+                - /url: tel:+48 22 188 11 33
+            - listitem [ref=e409]:
+              - link "+44 56 0156 3406 (UK)" [ref=e410] [cursor=pointer]:
+                - /url: tel:+44 56 0156 3406
+            - listitem [ref=e411]:
+              - link "hello@softwaremill.com" [ref=e412] [cursor=pointer]:
+                - /url: mailto:hello@softwaremill.com
+        - group [ref=e415]:
+          - textbox "Name" [ref=e416]
+          - textbox "E-mail" [ref=e417]
+          - textbox "Message" [ref=e418]
+          - paragraph [ref=e420]:
+            - text: Your personal data collected in this form will be used only to contact you and talk about your project. For more information, see our
+            - link "Privacy Policy" [ref=e421] [cursor=pointer]:
+              - /url: https://softwaremill.com/privacy-policy/
+            - text: .
+          - button "Send message" [ref=e422] [cursor=pointer]
+      - generic [ref=e423]:
+        - heading "Our Partners" [level=2] [ref=e424]
+        - generic [ref=e425]:
+          - generic:
+            - link "Partner logo":
+              - /url: https://www.confluent.io/
+          - generic:
+            - link "Partner logo":
+              - /url: https://cloud.google.com/find-a-partner/partner/softwaremill
+          - generic:
+            - link "Partner logo":
+              - /url: https://www.aikido.dev/
+          - generic:
+            - link "Partner logo":
+              - /url: https://redis.io/
+          - generic:
+            - link "Partner logo":
+              - /url: https://niebezpiecznik.pl/
+          - generic:
+            - link "Partner logo":
+              - /url: https://grafana.com/
+          - generic:
+            - link "Partner logo":
+              - /url: https://www.datastax.com/
+          - generic:
+            - link "Partner logo":
+              - /url: https://www.sodapl.com/
+          - generic:
+            - link "Partner logo":
+              - /url: https://akka.io/
+      - generic [ref=e427]:
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - heading "Latest from our Tech Blog" [level=3] [ref=e432]
+            - link "Read more" [ref=e433] [cursor=pointer]:
+              - /url: /blog/
+              - figure [ref=e434]:
+                - img [ref=e435]
+              - generic [ref=e437]: Read more
+          - generic [ref=e438]:
+            - figure [ref=e439]:
+              - img "webp image" [ref=e440]
+            - generic [ref=e441]:
+              - 'link "Scalar 2026: Celebrating Functional Programming Fiesta" [ref=e442] [cursor=pointer]':
+                - /url: /scalar-2026-celebrating-functional-programming-fiesta/
+              - text: Dariusz Jaroń, 02 Apr 2026
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - heading "SoftwareMill Sp. z o.o." [level=3] [ref=e445]
+            - generic [ref=e446]:
+              - text: ul. Na Uboczu 8/87
+              - text: 02-791 Warszawa
+              - text: Poland
+          - generic [ref=e447]:
+            - generic [ref=e448]:
+              - generic [ref=e449]: Services
+              - list [ref=e450]:
+                - listitem [ref=e451]:
+                  - link "All services" [ref=e452] [cursor=pointer]:
+                    - /url: /services/
+                - listitem [ref=e453]:
+                  - link "Backend" [ref=e454] [cursor=pointer]:
+                    - /url: /services/backend-development/
+                - listitem [ref=e455]:
+                  - link "Frontend" [ref=e456] [cursor=pointer]:
+                    - /url: /services/frontend-development-team/
+                - listitem [ref=e457]:
+                  - link "Cybersecurity" [ref=e458] [cursor=pointer]:
+                    - /url: /services/software-security-built-into-delivery/
+                - listitem [ref=e459]:
+                  - link "LLM Solutions" [ref=e460] [cursor=pointer]:
+                    - /url: /services/llm-enhanced-solutions/
+                - listitem [ref=e461]:
+                  - link "Cloud" [ref=e462] [cursor=pointer]:
+                    - /url: /services/cloud-cost-reduction-for-your-business/
+                - listitem [ref=e463]:
+                  - link "DevOps" [ref=e464] [cursor=pointer]:
+                    - /url: /services/devops-as-a-service/
+            - generic [ref=e465]:
+              - generic [ref=e466]: Technologies
+              - list [ref=e467]:
+                - listitem [ref=e468]:
+                  - link "All technologies" [ref=e469] [cursor=pointer]:
+                    - /url: /technologies/
+                - listitem [ref=e470]:
+                  - link "Scala" [ref=e471] [cursor=pointer]:
+                    - /url: /top-scala-experts/
+                - listitem [ref=e472]:
+                  - link "Java" [ref=e473] [cursor=pointer]:
+                    - /url: /services/java-development/
+                - listitem [ref=e474]:
+                  - link "Rust" [ref=e475] [cursor=pointer]:
+                    - /url: /services/rust-expertise/
+                - listitem [ref=e476]:
+                  - link "Apache Kafka" [ref=e477] [cursor=pointer]:
+                    - /url: /services/apache-kafka-services/
+                - listitem [ref=e478]:
+                  - link "Kotlin" [ref=e479] [cursor=pointer]:
+                    - /url: " /services/kotlin-software-development"
+                - listitem [ref=e480]:
+                  - link "Node.js" [ref=e481] [cursor=pointer]:
+                    - /url: /services/modern-development-node-js/
+            - generic [ref=e482]:
+              - generic [ref=e483]: Company
+              - list [ref=e484]:
+                - listitem [ref=e485]:
+                  - link "About us" [ref=e486] [cursor=pointer]:
+                    - /url: /about-us/
+                - listitem [ref=e487]:
+                  - link "How we work" [ref=e488] [cursor=pointer]:
+                    - /url: /how-we-work/
+                - listitem [ref=e489]:
+                  - link "Why choose us" [ref=e490] [cursor=pointer]:
+                    - /url: /why-choose-us/
+                - listitem [ref=e491]:
+                  - link "Careers" [ref=e492] [cursor=pointer]:
+                    - /url: /join-us/
+                - listitem [ref=e493]:
+                  - link "Great Place To Work" [ref=e494] [cursor=pointer]:
+                    - /url: /great-place-to-work/
+                - listitem [ref=e495]:
+                  - link "Remote" [ref=e496] [cursor=pointer]:
+                    - /url: /company-remote/
+                - listitem [ref=e497]:
+                  - link "VirtusLab Group" [ref=e498] [cursor=pointer]:
+                    - /url: https://virtuslab.com/#virtuslab-group
+            - list [ref=e500]:
+              - listitem [ref=e501]:
+                - link "Contact us" [ref=e502] [cursor=pointer]:
+                  - /url: /contact/
+              - listitem [ref=e503]:
+                - link "Success stories" [ref=e504] [cursor=pointer]:
+                  - /url: /portfolio-clients/
+              - listitem [ref=e505]:
+                - link "Technology blog" [ref=e506] [cursor=pointer]:
+                  - /url: /blog/
+              - listitem [ref=e507]:
+                - link "Ebooks" [ref=e508] [cursor=pointer]:
+                  - /url: /resources/whitepapers/
+              - listitem [ref=e509]:
+                - link "Open source" [ref=e510] [cursor=pointer]:
+                  - /url: /open-source/
+              - listitem [ref=e511]:
+                - link "Newsletter" [ref=e512] [cursor=pointer]:
+                  - /url: https://softwaremill.us2.list-manage.com/subscribe?u=ba834c562d82d9aba5eaf90ba&id=49adef524d
+              - listitem [ref=e513]:
+                - link "Privacy Policy" [ref=e514] [cursor=pointer]:
+                  - /url: /privacy-policy/
+        - generic [ref=e515]:
+          - paragraph [ref=e517]: © 2026 SoftwareMill. All rights reserved.
+          - list [ref=e520]:
+            - listitem [ref=e521]:
+              - link "X" [ref=e522] [cursor=pointer]:
+                - /url: https://x.com/softwaremill
+                - figure [ref=e523]:
+                  - img [ref=e524]
+            - listitem [ref=e526]:
+              - link "Facebook" [ref=e527] [cursor=pointer]:
+                - /url: https://www.facebook.com/softwaremill
+                - figure [ref=e528]:
+                  - img [ref=e529]
+            - listitem [ref=e531]:
+              - link "LinkedIn" [ref=e532] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/808422
+                - figure [ref=e533]:
+                  - img [ref=e534]
+            - listitem [ref=e538]:
+              - link "Github" [ref=e539] [cursor=pointer]:
+                - /url: https://github.com/softwaremill
+                - figure [ref=e540]:
+                  - img [ref=e541]
+            - listitem [ref=e543]:
+              - link "YouTube" [ref=e544] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/SoftwareMillCom
+                - figure [ref=e545]:
+                  - img [ref=e546]
+            - listitem [ref=e548]:
+              - link "Instagram" [ref=e549] [cursor=pointer]:
+                - /url: https://instagram.com/softwaremill_vibes
+                - figure [ref=e550]:
+                  - img [ref=e551]
+            - listitem [ref=e554]:
+              - link "Slideshare" [ref=e555] [cursor=pointer]:
+                - /url: http://www.slideshare.net/softwaremill
+                - figure [ref=e556]:
+                  - img [ref=e557]
+            - listitem [ref=e561]:
+              - link "Clutch" [ref=e562] [cursor=pointer]:
+                - /url: https://clutch.co/profile/softwaremill
+                - figure [ref=e563]:
+                  - img [ref=e564]
+            - listitem [ref=e567]:
+              - link "Medium" [ref=e568] [cursor=pointer]:
+                - /url: https://blog.softwaremill.com/?gi=854e7326b87a
+                - figure [ref=e569]:
+                  - img [ref=e570]
+            - listitem [ref=e572]:
+              - link "Mastodon" [ref=e573] [cursor=pointer]:
+                - /url: https://softwaremill.social/@softwaremill
+                - figure [ref=e574]:
+                  - img [ref=e575]
+            - listitem [ref=e577]:
+              - link "RSS" [ref=e578] [cursor=pointer]:
+                - /url: https://softwaremill.com/blog.rss
+                - figure [ref=e579]:
+                  - img [ref=e580]
+            - listitem [ref=e583]:
+              - link "Bluesky" [ref=e584] [cursor=pointer]:
+                - /url: https://bsky.app/profile/softwaremill.com
+                - figure [ref=e585]:
+                  - img [ref=e586]

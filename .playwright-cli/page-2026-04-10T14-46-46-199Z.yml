@@ -1,0 +1,261 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "java.pl - portal dla programistów java" [ref=e4] [cursor=pointer]:
+      - /url: https://www.java.pl/
+      - heading "java.pl - portal dla programistów java" [level=1] [ref=e5]
+    - generic [ref=e6]:
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "o nas" [ref=e10] [cursor=pointer]:
+            - /url: https://www.java.pl/about/
+        - listitem [ref=e11]:
+          - link "dołącz do PJUG" [ref=e12] [cursor=pointer]:
+            - /url: https://www.java.pl/polskie-jugi/
+        - listitem [ref=e13]:
+          - link "kontakt" [ref=e14] [cursor=pointer]:
+            - /url: https://www.java.pl/kontakt/
+      - paragraph [ref=e17]:
+        - link [ref=e18] [cursor=pointer]:
+          - /url: https://2026.geecon.org
+          - img [ref=e19]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - link "newsy" [ref=e25] [cursor=pointer]:
+        - /url: https://www.java.pl/category/java-news/
+      - generic [ref=e26]:
+        - link "Spotkanie Polish JUG – Ewolucja współbieżności na JVM & AI First! 🗓" [ref=e27] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/eventy/2026/spotkanie-polish-jug-ewolucja-wspolbieznosci-na-jvm-ai-first/
+          - heading "Spotkanie Polish JUG – Ewolucja współbieżności na JVM & AI First! 🗓" [level=3] [ref=e28]
+        - paragraph [ref=e29]: Zapraszamy na spotkanie Polish Java User Group, które odbędzie się 5 marca (czwartek) od godziny 18:00 w siedzibie firmy SoftNet Ocean Office Park - budynek A, piętro 4, wejście od ul. Nowohuc
+        - link "więcej..." [ref=e30] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/eventy/2026/spotkanie-polish-jug-ewolucja-wspolbieznosci-na-jvm-ai-first/
+      - generic [ref=e31]:
+        - link "GeeCON 2026 w nowej formie, 14-15 maja w Krakowie 🗓" [ref=e32] [cursor=pointer]:
+          - /url: https://www.java.pl/konferencja/2026/geecon-2026-w-nowej-formie-14-15-maj/
+          - heading "GeeCON 2026 w nowej formie, 14-15 maja w Krakowie 🗓" [level=3] [ref=e33]
+        - paragraph [ref=e34]: W dniach 14–15 maja 2026 zapraszamy na kolejną edycję konferencji GeeCON (https://2026.geecon.org/). Tym razem w nowej, nieco bardziej zwartej formie - dwudniowe wydarzenie pod hasłem przewodn
+        - link "więcej..." [ref=e35] [cursor=pointer]:
+          - /url: https://www.java.pl/konferencja/2026/geecon-2026-w-nowej-formie-14-15-maj/
+      - generic [ref=e36]:
+        - link "Warsztaty dla pań – Real-Time Order Tracker 🗓" [ref=e37] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/2025/warsztaty-dla-pan-real-time-order-tracker/
+          - heading "Warsztaty dla pań – Real-Time Order Tracker 🗓" [level=3] [ref=e38]
+        - paragraph [ref=e39]: W imieniu Fundacji Girls Code Fun zapraszamy panie na BEZPŁATNE warsztaty Real-Time Order Tracker – system zamówień na żywo w Java! https://girlscodefun.pl/projekty/real-time-order-tracker-syst
+        - link "więcej..." [ref=e40] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/2025/warsztaty-dla-pan-real-time-order-tracker/
+      - generic [ref=e41]:
+        - link "Confitura powraca! 🗓" [ref=e42] [cursor=pointer]:
+          - /url: https://www.java.pl/kalendarz-wydarzen-java/2025/confitura-powraca/
+          - heading "Confitura powraca! 🗓" [level=3] [ref=e43]
+        - paragraph [ref=e44]: W tym roku wielki powrót Confitury. Szczegóły i aktualne informacje znajdziecie na stronie https://2025.confitura.pl/ Do zobaczenia w dniach 19-20 września w Warszawie.
+        - link "więcej..." [ref=e45] [cursor=pointer]:
+          - /url: https://www.java.pl/kalendarz-wydarzen-java/2025/confitura-powraca/
+      - generic [ref=e46]:
+        - link "Spotkanie Polish JUG – Platform Engineering, Team Topologies oraz Data-Oriented Programming 🗓" [ref=e47] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/eventy/2025/spotkanie-polish-jug-platform-engineering-team-topologies-oraz-data-oriented-programming/
+          - heading "Spotkanie Polish JUG – Platform Engineering, Team Topologies oraz Data-Oriented Programming 🗓" [level=3] [ref=e48]
+        - paragraph [ref=e49]: Zapraszamy na ostatnie spotkanie Polish Java User Group przed wakacjami! Odbędzie się ono 17 czerwca (wtorek) od godziny 18:00 w Hevre na Kazimierzu (ul. Beera Meiselsa 18, pierwsze piętro). Trad
+        - link "więcej..." [ref=e50] [cursor=pointer]:
+          - /url: https://www.java.pl/java-news/eventy/2025/spotkanie-polish-jug-platform-engineering-team-topologies-oraz-data-oriented-programming/
+      - link "zobacz wszystkie" [ref=e52] [cursor=pointer]:
+        - /url: https://www.java.pl/category/java-news/
+    - generic [ref=e53]:
+      - link "kalendarz" [ref=e55] [cursor=pointer]:
+        - /url: https://www.java.pl/category/kalendarz-wydarzen-java/
+      - generic [ref=e57]:
+        - link "GeeCON 2026 w nowej formie, 14-15 maja w Krakowie" [ref=e58] [cursor=pointer]:
+          - /url: https://www.java.pl/konferencja/2026/geecon-2026-w-nowej-formie-14-15-maj/
+          - heading "GeeCON 2026 w nowej formie, 14-15 maja w Krakowie" [level=5] [ref=e59]
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - text: from
+            - time [ref=e62]: 14.05.2026
+            - text: to
+            - time [ref=e63]: 15.05.2026
+          - text: Scheduled
+          - generic [ref=e64]:
+            - link "ical" [ref=e65] [cursor=pointer]:
+              - /url: https://www.java.pl/eventpost/4104.ics
+            - link "Google" [ref=e66] [cursor=pointer]:
+              - /url: https://www.google.com/calendar/event?action=TEMPLATE&trp=false&sprop=name&text=GeeCON+2026+w+nowej+formie%2C+14-15+maja+w+Krakowie&dates=20260514/20260515&location&details=W+dniach+14%E2%80%9315+maja+2026+zapraszamy+na+kolejn%C4%85+edycj%C4%99+konferencji+GeeCON+%28https%3A%2F%2F2026.geecon.org%2F%29.%0D%0A%0D%0ATym+razem+w+nowej%2C+nieco+bardziej+zwartej+formie+-+dwudniowe+wydarzenie+pod+has%C5%82em+przewodnim+%E2%80%9ECode%2C+Connect%2C+Inspire%21%E2%80%9D%2C+kt%C3%B3re+lepiej+oddaje+charakter+konferencji+ni%C5%BC+dotychczasowe+zaw%C4%99%C5%BCenie+do+technologii+Java%2FJVM.+W+tej+edycji+stawiamy+r%C3%B3wnie%C5%BC+mocniej+na+interakcje+i+dyskusje+aby+jeszcze+lepiej+budowa%C4%87+przestrze%C5%84+do+wymiany+do%C5%9Bwiadcze%C5%84.%0D%0A%0D%0ATymczasem+zapraszamy+do+zg%C5%82osze%C5%84+prezentacji+%28https%3A%2F%2F2026.geecon.org%2Fcfp%2F%29+i+do%C5%82%C4%85czenia+do+grona+prelegent%C3%B3w+-+https%3A%2F%2F2026.geecon.org%2Fspeakers%2F%0D%0A%0D%0ADo+zobaczenia%21%0A%0Ahttps%3A%2F%2Fwww.java.pl%2Fkonferencja%2F2026%2Fgeecon-2026-w-nowej-formie-14-15-maj%2F&gmt=%2B02
+            - link "outlook" [ref=e67] [cursor=pointer]:
+              - /url: https://www.java.pl/eventpost/4104.vcs
+            - generic [ref=e68]: 
+        - generic [ref=e70]:
+          - generic [ref=e71]: eventy
+          - generic [ref=e72]: kalendarz
+          - generic [ref=e73]: konferencja
+          - generic [ref=e74]: Konferencja
+          - generic [ref=e75]: news
+      - link "zobacz wszystkie" [ref=e77] [cursor=pointer]:
+        - /url: https://www.java.pl/category/kalendarz-wydarzen-java/
+    - generic [ref=e78]:
+      - link "praca" [ref=e80] [cursor=pointer]:
+        - /url: https://www.java.pl/category/praca-dla-programistow/
+      - generic [ref=e81]:
+        - link "Java Developer, SoftNet [19,5 – 29,5k B2B, 14,5 – 22k Permanent]" [ref=e82] [cursor=pointer]:
+          - /url: https://www.java.pl/praca-dla-programistow/2026/java-developer-softnet-195-295k-b2b-145-22k-permanent/
+          - heading "Java Developer, SoftNet [19,5 – 29,5k B2B, 14,5 – 22k Permanent]" [level=3] [ref=e83]
+        - paragraph [ref=e84]: Doświadczony(-a) Java Developer(-ka) poszukiwany(-a)! 📣📣📣 Dołącz do SoftNet i rozwijaj zaawansowaną platformę SaaS używaną w ponad 100 bankach spółdzielczych
+        - link "więcej..." [ref=e85] [cursor=pointer]:
+          - /url: https://www.java.pl/praca-dla-programistow/2026/java-developer-softnet-195-295k-b2b-145-22k-permanent/
+      - generic [ref=e86]:
+        - link "Senior Kotlin Developer (Banking Platform), DataArt [18-20k]" [ref=e87] [cursor=pointer]:
+          - /url: https://www.java.pl/praca-dla-programistow/2025/senior-kotlin-developer-banking-platform-dataart-18-20k/
+          - heading "Senior Kotlin Developer (Banking Platform), DataArt [18-20k]" [level=3] [ref=e88]
+        - paragraph [ref=e89]: Client Our client, a UK-based digital bank, delivers innovative and accessible financial solutions for today's consumers. Known for its user-friendly platform and customer-centered approach, it helps
+        - link "więcej..." [ref=e90] [cursor=pointer]:
+          - /url: https://www.java.pl/praca-dla-programistow/2025/senior-kotlin-developer-banking-platform-dataart-18-20k/
+      - link "zobacz wszystkie" [ref=e92] [cursor=pointer]:
+        - /url: https://www.java.pl/category/praca-dla-programistow/
+  - generic [ref=e96]:
+    - text: sponsors & partners
+    - generic [ref=e99]:
+      - link [ref=e101] [cursor=pointer]:
+        - /url: http://geecon.org/
+        - img [ref=e102]
+      - link [ref=e104] [cursor=pointer]:
+        - /url: https://www.jetbrains.com/
+        - img [ref=e105]
+  - generic [ref=e109]:
+    - heading "Chmura tagów" [level=2] [ref=e110]
+    - generic [ref=e111]:
+      - link "abb (6 items)" [ref=e112] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/abb/
+        - text: abb
+      - link "android (12 items)" [ref=e113] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/android/
+        - text: android
+      - link "C4P (5 items)" [ref=e114] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/c4p/
+        - text: C4P
+      - link "Call For Papers (8 items)" [ref=e115] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/call-for-papers/
+        - text: Call For Papers
+      - link "confitura (7 items)" [ref=e116] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/confitura/
+        - text: confitura
+      - link "e-point (8 items)" [ref=e117] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/e-point/
+        - text: e-point
+      - link "Eclipse (5 items)" [ref=e118] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/eclipse/
+        - text: Eclipse
+      - link "gdg (6 items)" [ref=e119] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/gdg/
+        - text: gdg
+      - link "GeeCON (21 items)" [ref=e120] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/geecon/
+        - text: GeeCON
+      - link "GeeCON 2015 (4 items)" [ref=e121] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/geecon-2015/
+        - text: GeeCON 2015
+      - link "GigaCon (6 items)" [ref=e122] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/gigacon/
+        - text: GigaCon
+      - link "google (20 items)" [ref=e123] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/google/
+        - text: google
+      - link "Groovy (6 items)" [ref=e124] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/groovy/
+        - text: Groovy
+      - link "gtug (5 items)" [ref=e125] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/gtug/
+        - text: gtug
+      - link "hackathon (4 items)" [ref=e126] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/hackathon/
+        - text: hackathon
+      - link "IBM (5 items)" [ref=e127] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/ibm/
+        - text: IBM
+      - link "java (86 items)" [ref=e128] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/java/
+        - text: java
+      - link "javacamp (12 items)" [ref=e129] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/javacamp/
+        - text: javacamp
+      - link "Java Developers Day (4 items)" [ref=e130] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/java-developers-day/
+        - text: Java Developers Day
+      - link "JDD (7 items)" [ref=e131] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/jdd/
+        - text: JDD
+      - link "jug (6 items)" [ref=e132] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/jug/
+        - text: jug
+      - link "JUG Łódź (4 items)" [ref=e133] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/jug-lodz/
+        - text: JUG Łódź
+      - link "JVM (4 items)" [ref=e134] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/jvm/
+        - text: JVM
+      - link "katowice (19 items)" [ref=e135] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/katowice/
+        - text: katowice
+      - link "Konferencja (13 items)" [ref=e136] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/konferencja/
+        - text: Konferencja
+      - link "konkurs (4 items)" [ref=e137] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/konkurs/
+        - text: konkurs
+      - link "kraków (80 items)" [ref=e138] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/krakow/
+        - text: kraków
+      - link "Lublin (5 items)" [ref=e139] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/lublin/
+        - text: Lublin
+      - link "Luxoft (4 items)" [ref=e140] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/luxoft/
+        - text: Luxoft
+      - link "Oracle (4 items)" [ref=e141] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/oracle/
+        - text: Oracle
+      - link "pjug (45 items)" [ref=e142] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/pjug/
+        - text: pjug
+      - link "Polish Java User Group (46 items)" [ref=e143] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/polish-java-user-group/
+        - text: Polish Java User Group
+      - link "Polish JUG (13 items)" [ref=e144] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/polish-jug/
+        - text: Polish JUG
+      - link "Proidea (4 items)" [ref=e145] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/proidea/
+        - text: Proidea
+      - link "scala (6 items)" [ref=e146] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/scala/
+        - text: scala
+      - link "Silesia JUG (9 items)" [ref=e147] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/silesia-jug/
+        - text: Silesia JUG
+      - link "Spotkanie (11 items)" [ref=e148] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/spotkanie/
+        - text: Spotkanie
+      - link "spotkanie PJUG (6 items)" [ref=e149] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/spotkanie-pjug/
+        - text: spotkanie PJUG
+      - link "warszawa (39 items)" [ref=e150] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/warszawa/
+        - text: warszawa
+      - link "wrocław (20 items)" [ref=e151] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/wroclaw/
+        - text: wrocław
+      - link "wstęp bezpłany (8 items)" [ref=e152] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/wstep-bezplany/
+        - text: wstęp bezpłany
+      - link "wstęp bezpłatny (124 items)" [ref=e153] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/wstep-bezplatny/
+        - text: wstęp bezpłatny
+      - link "wstęp płatny (26 items)" [ref=e154] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/wstep-platny/
+        - text: wstęp płatny
+      - link "wyniki konkursu (4 items)" [ref=e155] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/wyniki-konkursu/
+        - text: wyniki konkursu
+      - link "Łódź (7 items)" [ref=e156] [cursor=pointer]:
+        - /url: https://www.java.pl/tag/lodz/
+        - text: Łódź
+  - contentinfo [ref=e161]:
+    - generic [ref=e162]:
+      - img [ref=e165]
+      - generic [ref=e166]: © 2000-2023 Polish JUG

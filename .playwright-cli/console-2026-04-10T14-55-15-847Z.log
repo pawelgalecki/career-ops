@@ -1,0 +1,10 @@
+[     539ms] [ERROR] Loading the script 'https://www.googletagmanager.com/gtm.js?id=GTM-NN3V5Z8' violates the following Content Security Policy directive: "default-src 'self' 'unsafe-inline' 'unsafe-eval' *.bayer.com rmk-map-12.jobs2web.com rmkcdn.successfactors.com performancemanager5.successfactors.eu *.sapsf.eu *.sapsf.com *.successfactors.com *.successfactors.eu *.sapsf.cn *.qualtrics.com *.linkedin.com". Note that 'script-src-elem' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked. @ https://jobs.bayer.com/:20
+[    1023ms] Unexpected token '<'
+[    1200ms] Uncaught TypeError: Cannot read properties of undefined (reading 'on')
+    at <anonymous> (https://jobs.bayer.com/platform/js/j2w/j2w.bootstrap.collapse.js:43:42)
+    at e (https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:1:30004)
+    at t (https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:1:30306)
+[    1200ms] Uncaught TypeError: Cannot read properties of undefined (reading 'on')
+    at <anonymous> (https://jobs.bayer.com/platform/js/j2w/j2w.bootstrap.dropdown.js:49:67)
+    at e (https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:1:30004)
+    at t (https://performancemanager5.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:1:30306)

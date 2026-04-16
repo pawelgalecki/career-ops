@@ -1,0 +1,134 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - dialog "Cookie Information banner" [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - heading "Manage your preferences" [level=2] [ref=e7]
+          - generic [ref=e8]:
+            - text: Welcome to virtuslab.com! To provide a more relevant experience, we use cookies to enable site functionality and track popular content. They allow for easy social sharing and help us deliver articles, jobs, and advertisements tailored to your specific interests and location.
+            - button "Read more about our privacy policy" [ref=e9] [cursor=pointer]
+            - link "Google privacy policy opens in new tab" [ref=e10] [cursor=pointer]:
+              - /url: https://business.safety.google/privacy/
+              - text: Google privacy policy
+              - img [ref=e11]
+              - generic [ref=e13]: opens in new tab
+          - button "Show details" [ref=e15] [cursor=pointer]
+        - navigation "menu" [ref=e16]:
+          - generic [ref=e17]:
+            - button "Decline optional cookies" [ref=e18] [cursor=pointer]
+            - button "Accept all" [ref=e19] [cursor=pointer]
+          - generic [ref=e20]:
+            - generic [ref=e23]:
+              - checkbox "Necessary" [checked] [disabled] [ref=e24]
+              - text: Necessary
+            - generic [ref=e28]:
+              - checkbox "Functional" [ref=e29] [cursor=pointer]
+              - text: Functional
+            - generic [ref=e33]:
+              - checkbox "Statistical" [ref=e34] [cursor=pointer]
+              - text: Statistical
+            - generic [ref=e38]:
+              - checkbox "Marketing" [ref=e39] [cursor=pointer]
+              - text: Marketing
+        - generic [ref=e42]:
+          - text: "Powered by:"
+          - link "Cookie Information opens in new tab" [ref=e43] [cursor=pointer]:
+            - /url: https://cookieinformation.com/
+            - text: Cookie Information
+            - generic [ref=e44]: opens in new tab
+  - generic [ref=e45]:
+    - link "Skip to main content" [ref=e46] [cursor=pointer]:
+      - /url: "#maincontent"
+    - navigation "Main Navigation" [ref=e47]:
+      - generic [ref=e48]:
+        - link "VirtusLab Home" [ref=e50] [cursor=pointer]:
+          - /url: /
+          - img [ref=e51]
+        - generic [ref=e63]:
+          - menu [ref=e64]:
+            - menuitem "Services" [ref=e65] [cursor=pointer]:
+              - generic: Services
+            - menuitem "Industries" [ref=e66] [cursor=pointer]:
+              - generic: Industries
+            - menuitem "AI Insights" [ref=e67] [cursor=pointer]:
+              - generic: AI Insights
+            - menuitem "Resources" [ref=e68] [cursor=pointer]:
+              - generic: Resources
+            - menuitem "Who we are" [ref=e69] [cursor=pointer]:
+              - generic: Who we are
+            - menuitem "Search" [ref=e70] [cursor=pointer]:
+              - img [ref=e71]
+          - link "Contact us" [ref=e74] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e75]:
+              - generic [ref=e76]: Contact us
+              - generic [ref=e77]:
+                - img
+  - main [ref=e78]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - 'heading "404: Not found" [level=1] [ref=e82]'
+        - img [ref=e83]
+      - generic [ref=e86]:
+        - generic [ref=e87]: Sorry, we can’t find that page...
+        - generic [ref=e88]: Please wait to be redirected (5s).
+    - generic [ref=e92]:
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - img "Image Alt" [ref=e97]
+          - img "Image Alt" [ref=e99]
+        - generic [ref=e105]:
+          - img "Image Alt" [ref=e108]
+          - img "Image Alt" [ref=e111]
+          - img "Image Alt" [ref=e114]
+          - img "Image Alt" [ref=e117]
+          - img "Image Alt" [ref=e120]
+          - img "Image Alt" [ref=e123]
+          - img "Image Alt" [ref=e126]
+          - img "Image Alt" [ref=e129]
+          - img "Image Alt" [ref=e132]
+          - img "Image Alt" [ref=e135]
+      - navigation [ref=e137]:
+        - list [ref=e138]:
+          - listitem [ref=e139]:
+            - link "Expertise" [ref=e140] [cursor=pointer]:
+              - /url: /expertise/
+          - listitem [ref=e141]:
+            - link "Engagement" [ref=e142] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e143]:
+            - link "Capabilities" [ref=e144] [cursor=pointer]:
+              - /url: /capabilities/
+          - listitem [ref=e145]:
+            - link "Success stories" [ref=e146] [cursor=pointer]:
+              - /url: /success-stories/
+          - listitem [ref=e147]:
+            - link "About us" [ref=e148] [cursor=pointer]:
+              - /url: /about-us/
+          - listitem [ref=e149]:
+            - link "Articles" [ref=e150] [cursor=pointer]:
+              - /url: /blog/
+          - listitem [ref=e151]:
+            - link "Community" [ref=e152] [cursor=pointer]:
+              - /url: /community/
+          - listitem [ref=e153]:
+            - link "Privacy Policy" [ref=e154] [cursor=pointer]:
+              - /url: /privacy-policy
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - link "linkedin.com profile" [ref=e157] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/virtuslab/
+              - img [ref=e158]
+          - listitem [ref=e160]:
+            - link "twitter.com profile" [ref=e161] [cursor=pointer]:
+              - /url: https://twitter.com/VirtusLab
+              - img [ref=e162]
+          - listitem [ref=e164]:
+            - link "github.com profile" [ref=e165] [cursor=pointer]:
+              - /url: https://github.com/VirtusLab
+              - img [ref=e166]
+          - listitem [ref=e168]:
+            - link "facebook.com profile" [ref=e169] [cursor=pointer]:
+              - /url: https://www.facebook.com/virtuslab
+              - img [ref=e170]
+      - paragraph [ref=e173]: ©2026 VirtusLab

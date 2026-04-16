@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - region "talent banner" [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e11]:
+          - strong [ref=e12]: "Important Notice:"
+          - text: Beware of Recruitment Scams!
+          - text: We are aware of fraudulent activities where individuals pose as Roche representatives. To protect yourself, please note that
+          - strong [ref=e13]: Official Communication Channels
+          - text: are only via email addresses ending in
+          - link "@roche.com" [ref=e15] [cursor=pointer]:
+            - /url: mailto:@roche.com
+          - text: or
+          - link "@gene.com" [ref=e17] [cursor=pointer]:
+            - /url: mailto:@gene.com
+          - text: . Emails from similar but non-official domains are scams. Be wary of poorly written emails or those that ask for personal information and verify that they come from
+          - link "@roche.com" [ref=e19] [cursor=pointer]:
+            - /url: mailto:@roche.com
+          - text: or
+          - link "@gene.com" [ref=e21] [cursor=pointer]:
+            - /url: mailto:@gene.com
+          - text: . Roche does not make job offers without prior interviews, nor do we ask for payments of any kind. Unsolicited job offers or requests for payment are fraudulent.
+          - text: For genuine opportunities, visit our careers page at
+          - link "careers.roche.com" [ref=e23] [cursor=pointer]:
+            - /url: https://careers.roche.com/global/en
+          - text: .
+        - button "close banner" [ref=e24] [cursor=pointer]:
+          - img [ref=e26]
+    - banner [ref=e28]:
+      - generic:
+        - link "Skip to main content":
+          - /url: "#skipToMainContent"
+      - generic [ref=e32]:
+        - link "Company Logo" [ref=e34] [cursor=pointer]:
+          - /url: /
+          - img "Roche" [ref=e35]
+        - navigation "primary" [ref=e42]:
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - button "Discover Roche" [ref=e45] [cursor=pointer]:
+                - generic [ref=e46]: Discover Roche
+                - img [ref=e48]
+            - listitem [ref=e50]:
+              - button "Areas of Expertise" [ref=e51] [cursor=pointer]:
+                - generic [ref=e52]: Areas of Expertise
+                - img [ref=e54]
+            - listitem [ref=e56]:
+              - link "Student & Graduate Programmes" [ref=e58] [cursor=pointer]:
+                - /url: https://careers.roche.com/global/en/student-and-graduate-programs
+            - listitem [ref=e59]:
+              - button "Candidate Hub" [ref=e60] [cursor=pointer]:
+                - generic [ref=e61]: Candidate Hub
+                - img [ref=e63]
+        - list [ref=e66]:
+          - listitem [ref=e67]:
+            - button "Language selected English Global" [ref=e71] [cursor=pointer]:
+              - img [ref=e73]
+              - generic [ref=e75]: Global
+              - generic:
+                - img
+          - listitem [ref=e76]:
+            - link "0 saved jobs" [ref=e79] [cursor=pointer]:
+              - /url: https://careers.roche.com/global/en/jobcart
+              - img [ref=e81]
+              - generic [ref=e83]: Saved jobs
+              - generic [ref=e84]: (0)
+  - main [ref=e85]:
+    - generic [ref=e88]: "-"
+    - heading "Explore your opportunities" [level=1] [ref=e103]:
+      - generic [ref=e105]: Explore your opportunities
+    - figure [ref=e112]:
+      - img "img1" [ref=e115]
+    - generic [ref=e119]:
+      - generic [ref=e131]:
+        - heading "Not Ready to apply?" [level=2] [ref=e135]:
+          - generic [ref=e136]: Not Ready to apply?
+        - generic [ref=e140]: Join our talent community to stay connected!
+        - link "Join Talent Community" [ref=e143] [cursor=pointer]:
+          - /url: jointalentcommunity
+          - generic [ref=e145]: Join Talent Community
+          - text: 
+      - heading "Results based on your search" [level=2] [ref=e161]:
+        - generic [ref=e162]: Results based on your search
+  - contentinfo [ref=e163]:
+    - generic [ref=e165]:
+      - list [ref=e168]:
+        - listitem [ref=e169]:
+          - link "Cookie Preferences" [ref=e170] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - listitem [ref=e171]:
+          - link "Personal Information" [ref=e172] [cursor=pointer]:
+            - /url: https://careers.roche.com/global/en/emailpersonalinfo
+      - generic [ref=e175]:
+        - link "Roche" [ref=e177] [cursor=pointer]:
+          - /url: /
+          - img "Roche" [ref=e178]
+        - navigation [ref=e184]:
+          - list [ref=e185]:
+            - listitem [ref=e186]:
+              - heading "Discover Roche" [level=2] [ref=e187]
+              - list [ref=e189]:
+                - listitem [ref=e190]:
+                  - link "Why join us?" [ref=e192] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/why-join-us
+                    - text: Why join us
+                - listitem [ref=e193]:
+                  - link "Inclusion & Belonging" [ref=e195] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/inclusion-belonging
+                - listitem [ref=e196]:
+                  - link "Our Locations" [ref=e198] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/our-locations
+                - listitem [ref=e199]:
+                  - link "job listing page" [ref=e201] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/search-results
+                    - text: Job Search
+                - listitem [ref=e202]:
+                  - link "Tech4life" [ref=e204] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/tech4life
+                - listitem [ref=e205]:
+                  - link "Blog Stories" [ref=e207] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/we-are-roche
+                    - text: Our Blogs
+                - listitem [ref=e208]:
+                  - link "Events" [ref=e210] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/events
+                - listitem [ref=e211]:
+                  - link "www.roche.com/" [ref=e213] [cursor=pointer]:
+                    - /url: https://www.roche.com/
+                    - text: Roche.com
+            - listitem [ref=e214]:
+              - heading "Areas of Expertise" [level=2] [ref=e215]
+              - list [ref=e217]:
+                - listitem [ref=e218]:
+                  - link "Research and Development" [ref=e220] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/research-development
+                    - text: Research & Development
+                - listitem [ref=e221]:
+                  - link "People and Culture" [ref=e223] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/people-and-culture
+                    - text: People & Culture
+                - listitem [ref=e224]:
+                  - link "Manufacturing & Supply" [ref=e226] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/manufacturing-supply
+                - listitem [ref=e227]:
+                  - link "Engineering" [ref=e229] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/engineering
+                - listitem [ref=e230]:
+                  - link "Digital & Technology" [ref=e232] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/digital-technology
+                - listitem [ref=e233]:
+                  - link "Commercial, Marketing and Communications" [ref=e235] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/commercial-marketing-communications
+                    - text: Commercial, Marketing & Communications
+                - listitem [ref=e236]:
+                  - link "Business Strategy and Finance" [ref=e238] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/business-strategy-finance
+                    - text: Business Strategy & Finance
+            - listitem [ref=e239]:
+              - heading "Students & Graduates" [level=2] [ref=e240]
+              - link "Student and Graduate Page" [ref=e243] [cursor=pointer]:
+                - /url: https://careers.roche.com/global/en/student-and-graduate-programs
+            - listitem [ref=e244]:
+              - heading "Helpful Links" [level=2] [ref=e245]
+              - list [ref=e247]:
+                - listitem [ref=e248]:
+                  - link "Join our Talent Community" [ref=e250] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/jointalentcommunity
+                - listitem [ref=e251]:
+                  - link "Privacy Notice" [ref=e253] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/privacy-notice
+                - listitem [ref=e254]:
+                  - link "Candidate login" [ref=e256] [cursor=pointer]:
+                    - /url: https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/login
+                - listitem [ref=e257]:
+                  - link "Resume parsing" [ref=e259] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/resume-parsing-faq
+                - listitem [ref=e260]:
+                  - link "Awards" [ref=e262] [cursor=pointer]:
+                    - /url: https://careers.roche.com/global/en/awards-and-rankings
+                - listitem [ref=e263]:
+                  - link "Genentech Careers" [ref=e265] [cursor=pointer]:
+                    - /url: https://careers.gene.com/us/en
+        - generic [ref=e266]:
+          - heading "follow us" [level=2] [ref=e267]
+          - list [ref=e268]:
+            - listitem [ref=e269]:
+              - link "facebook" [ref=e270] [cursor=pointer]:
+                - /url: https://www.facebook.com/roche
+                - img [ref=e272]
+            - listitem [ref=e274]:
+              - link "linkedIn" [ref=e275] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/roche
+                - img [ref=e277]
+            - listitem [ref=e279]:
+              - link "twitter" [ref=e280] [cursor=pointer]:
+                - /url: https://twitter.com/roche
+                - img [ref=e282]
+            - listitem [ref=e284]:
+              - link "instagram" [ref=e285] [cursor=pointer]:
+                - /url: https://www.instagram.com/roche/
+                - img [ref=e287]
+            - listitem [ref=e289]:
+              - link "youtube" [ref=e290] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/roche
+                - img [ref=e292]
+            - listitem [ref=e294]:
+              - link "WeChat" [ref=e295] [cursor=pointer]:
+                - /url: https://careers.roche.com/global/en/step-by-step-guide-to-follow-roche-on-wechat
+                - img [ref=e297]
+      - generic [ref=e300]:
+        - generic [ref=e301]: This website contains information on products which is targeted to a wide range of audiences and could contain product details or information otherwise not accessible or valid in your country. Please be aware that we do not take any responsibility for accessing such information which may not comply with any legal processes, registration or usage in the country of origin.
+        - list [ref=e305]:
+          - listitem [ref=e306]:
+            - link "Legal Statement" [ref=e308] [cursor=pointer]:
+              - /url: https://www.roche.com/legal-statement
+          - listitem [ref=e309]:
+            - link "Privacy Notice" [ref=e311] [cursor=pointer]:
+              - /url: https://careers.roche.com/global/en/privacy-notice

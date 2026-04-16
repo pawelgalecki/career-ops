@@ -1,0 +1,72 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e8]:
+        - link "home" [ref=e10] [cursor=pointer]:
+          - /url: /
+        - link "venue" [ref=e12] [cursor=pointer]:
+          - /url: /venue
+        - link "news" [ref=e14] [cursor=pointer]:
+          - /url: /news
+        - link "2025" [ref=e16] [cursor=pointer]:
+          - /url: http://2025.confitura.pl/
+        - link "FAQ" [ref=e18] [cursor=pointer]:
+          - /url: /faq
+        - link "C4P" [ref=e20] [cursor=pointer]:
+          - /url: https://app.confitura.pl/
+  - generic [ref=e22]:
+    - link "x" [ref=e23] [cursor=pointer]:
+      - /url: https://x.com/confiturapl
+      - generic [ref=e24]: x
+    - link "facebook" [ref=e25] [cursor=pointer]:
+      - /url: https://www.facebook.com/Confitura
+      - generic [ref=e26]: facebook
+    - link "linkedin" [ref=e27] [cursor=pointer]:
+      - /url: https://www.linkedin.com/company/confitura
+      - generic [ref=e28]: linkedin
+    - link "youtube" [ref=e29] [cursor=pointer]:
+      - /url: https://www.youtube.com/confiturapl
+      - generic [ref=e30]: youtube
+    - link "newsletter" [ref=e31] [cursor=pointer]:
+      - /url: https://newsletter.confitura.pl/subscription/form
+      - generic [ref=e32]: newsletter
+  - generic [ref=e33]:
+    - banner [ref=e34]:
+      - heading "Partners" [level=1] [ref=e36]
+    - generic [ref=e38]:
+      - article [ref=e39]:
+        - heading "gold partners" [level=2] [ref=e40]
+        - link "Join Us" [ref=e42] [cursor=pointer]:
+          - /url: /partners/join-us
+          - img "Join Us" [ref=e43]
+      - article [ref=e44]:
+        - heading "silver partners" [level=2] [ref=e45]
+        - link "Join Us" [ref=e47] [cursor=pointer]:
+          - /url: /partners/join-us
+          - img "Join Us" [ref=e48]
+    - generic [ref=e50]:
+      - heading "stay connected" [level=1] [ref=e51]
+      - generic [ref=e53]:
+        - link "confitura@confitura.pl" [ref=e54] [cursor=pointer]:
+          - /url: mailto:confitura@confitura.pl
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - text: "newsletter:"
+            - link "newsletter" [ref=e57] [cursor=pointer]:
+              - /url: https://newsletter.confitura.pl/subscription/form
+          - generic [ref=e58]:
+            - text: "socials:"
+            - link "x" [ref=e59] [cursor=pointer]:
+              - /url: https://x.com/confiturapl
+            - link "facebook" [ref=e60] [cursor=pointer]:
+              - /url: https://www.facebook.com/Confitura
+            - link "linkedin" [ref=e61] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/confitura
+            - link "youtube" [ref=e62] [cursor=pointer]:
+              - /url: https://www.youtube.com/confiturapl
+        - link "Privacy policy" [ref=e63] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Regulamin wydarzenia" [ref=e64] [cursor=pointer]:
+          - /url: https://api.confitura.pl/api/resources/edition-2025/docs/Regulamin%20Confitura%2025.pdf

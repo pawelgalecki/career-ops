@@ -1,0 +1,94 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - link "Devoxx From developers, For developers" [ref=e5] [cursor=pointer]:
+      - /url: "#/"
+      - generic [ref=e6]:
+        - generic [ref=e7]: Devoxx
+        - generic [ref=e8]: From developers, For developers
+    - generic [ref=e10] [cursor=pointer]: 
+  - generic [ref=e13]:
+    - generic [ref=e16] [cursor=pointer]:
+      - generic [ref=e17]: 
+      - generic [ref=e18]: Filter by Category
+    - generic [ref=e19]:
+      - generic [ref=e22]:
+        - generic [ref=e25]:
+          - link "DEVOXX" [ref=e26] [cursor=pointer]:
+            - /url: "#/events/DEVOXX"
+          - generic [ref=e28]: 22 - 24 Apr 2026
+          - link "Devoxx France 2026 More details" [ref=e29] [cursor=pointer]:
+            - /url: https://www.devoxx.fr
+            - generic [ref=e30]: Devoxx France 2026
+            - img "More details" [ref=e32]
+        - generic [ref=e36]:
+          - link "DEVOXX" [ref=e37] [cursor=pointer]:
+            - /url: "#/events/DEVOXX"
+          - generic [ref=e39]: 6 - 7 May 2026
+          - link "Devoxx UK 2026 More details" [ref=e40] [cursor=pointer]:
+            - /url: https://www.devoxx.co.uk
+            - generic [ref=e41]: Devoxx UK 2026
+            - img "More details" [ref=e43]
+      - generic [ref=e45]:
+        - generic [ref=e50]:
+          - link "DEVOXX" [ref=e51] [cursor=pointer]:
+            - /url: "#/events/DEVOXX"
+          - generic [ref=e53]: 23 - 25 Apr 2026
+          - link "Devoxx Greece 2026 More details" [ref=e54] [cursor=pointer]:
+            - /url: https://devoxx.gr
+            - generic [ref=e55]: Devoxx Greece 2026
+            - img "More details" [ref=e57]
+        - generic [ref=e60]:
+          - generic [ref=e63]:
+            - link "DEVOXX" [ref=e64] [cursor=pointer]:
+              - /url: "#/events/DEVOXX"
+            - generic [ref=e66]: 17 - 19 Jun 2026
+            - link "Devoxx Poland 2026 More details" [ref=e67] [cursor=pointer]:
+              - /url: https://devoxx.pl
+              - generic [ref=e68]: Devoxx Poland 2026
+              - img "More details" [ref=e70]
+          - generic [ref=e74]:
+            - link "DEVOXX" [ref=e75] [cursor=pointer]:
+              - /url: "#/events/DEVOXX"
+            - generic [ref=e77]: 5 - 9 Oct 2026
+            - link "Devoxx Belgium More details" [ref=e78] [cursor=pointer]:
+              - /url: https://devoxx.be
+              - generic [ref=e79]: Devoxx Belgium
+              - img "More details" [ref=e81]
+    - link "Add all events to your calendar" [ref=e86] [cursor=pointer]:
+      - /url: https://www.devoxxians.com/api/public/calendar
+      - img [ref=e87]
+      - text: Add all events to your calendar
+    - generic [ref=e88]:
+      - link "Past Events" [ref=e90] [cursor=pointer]:
+        - /url: "#/archive"
+      - generic [ref=e92]:
+        - generic [ref=e95]:
+          - link "VOXXED" [ref=e96] [cursor=pointer]:
+            - /url: "#/events/VOXXED"
+          - generic [ref=e98]: 24 Mar 2026
+          - link "Voxxed Days Zurich 2026 More details" [ref=e99] [cursor=pointer]:
+            - /url: https://vdz26.voxxeddays.ch
+            - generic [ref=e100]: Voxxed Days Zurich 2026
+            - img "More details" [ref=e102]
+        - generic [ref=e106]:
+          - link "VOXXED" [ref=e107] [cursor=pointer]:
+            - /url: "#/events/VOXXED"
+          - generic [ref=e109]: 1 - 2 Apr 2026
+          - link "Voxxed Days Amsterdam 2026 More details" [ref=e110] [cursor=pointer]:
+            - /url: https://amsterdam.voxxeddays.com
+            - generic [ref=e111]: Voxxed Days Amsterdam 2026
+            - img "More details" [ref=e113]
+  - generic [ref=e118]:
+    - generic [ref=e119]:
+      - text: © The Java Community BV 2001 - 2026 - Hosting by
+      - link "CleverCloud" [ref=e120] [cursor=pointer]:
+        - /url: https://www.clever-cloud.com/en/
+    - generic [ref=e121]:
+      - link "Devoxx" [ref=e122] [cursor=pointer]:
+        - /url: https://twitter.com/devoxx
+        - img [ref=e123]
+        - generic [ref=e124]: Devoxx
+      - link "devoxx.com" [ref=e125] [cursor=pointer]:
+        - /url: https://bsky.app/profile/devoxx.com
+        - img [ref=e126]
+        - generic [ref=e127]: devoxx.com

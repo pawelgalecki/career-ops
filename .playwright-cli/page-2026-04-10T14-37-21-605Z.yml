@@ -1,0 +1,1009 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - text: Używamy plików cookies, aby świadczyć usługi na tej stronie. Korzystanie ze strony oznacza akceptację plików cookies oraz
+      - link "regulaminu" [ref=e5] [cursor=pointer]:
+        - /url: http://2024.boilingfrogs.pl/wp-content/uploads/2016/05/Regulamin-serwisu-boilingfrogs.pdf
+      - text: i
+      - link "polityki prywatności" [ref=e6] [cursor=pointer]:
+        - /url: http://2024.boilingfrogs.pl/wp-content/uploads/2016/05/Polityka-Prywatnosci-RODO.pdf
+      - text: .
+    - button "OK" [ref=e8] [cursor=pointer]
+  - generic [ref=e12]:
+    - banner [ref=e13]:
+      - generic [ref=e15]:
+        - link "Boiling Frogs 2024" [ref=e17] [cursor=pointer]:
+          - /url: https://2024.boilingfrogs.pl
+          - img "Boiling Frogs 2024" [ref=e18]
+        - navigation [ref=e19]:
+          - text: 
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "Główna" [ref=e22] [cursor=pointer]:
+                - /url: "#home"
+            - listitem [ref=e23]:
+              - link "O nas" [ref=e24] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e25]:
+              - link "Prelegenci" [ref=e26] [cursor=pointer]:
+                - /url: "#speakers"
+            - listitem [ref=e27]:
+              - link "Agenda" [ref=e28] [cursor=pointer]:
+                - /url: "#agenda"
+            - listitem [ref=e29]:
+              - link "Sponsorzy" [ref=e30] [cursor=pointer]:
+                - /url: "#sponsors"
+            - listitem [ref=e31]:
+              - link "Bilety" [ref=e32] [cursor=pointer]:
+                - /url: "#register"
+            - listitem [ref=e33]:
+              - link "Lokalizacja" [ref=e34] [cursor=pointer]:
+                - /url: "#location"
+            - listitem [ref=e35]:
+              - link "FAQ" [ref=e36] [cursor=pointer]:
+                - /url: "#faq"
+            - listitem [ref=e37]:
+              - link "Kontakt" [ref=e38] [cursor=pointer]:
+                - /url: "#"
+    - generic [ref=e39]:
+      - generic [ref=e42]:
+        - generic [ref=e47]:
+          - paragraph [ref=e56]:
+            - link "Kup teraz " [ref=e57] [cursor=pointer]:
+              - /url: "#register"
+              - text: Kup teraz
+              - generic [ref=e58]: 
+          - generic:
+            - generic:  
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - generic [ref=e70]: 
+            - generic [ref=e71]:
+              - heading "Data" [level=4] [ref=e72]
+              - generic [ref=e73]: 9 marca 2024
+          - generic [ref=e75]:
+            - generic [ref=e77]: 
+            - generic [ref=e78]:
+              - heading "Lokalizacja" [level=4] [ref=e79]
+              - generic [ref=e80]: Wrocławskie Centrum Kongresowe
+          - generic [ref=e82]:
+            - generic [ref=e84]: 
+            - generic [ref=e85]:
+              - heading "Bilety" [level=4] [ref=e86]
+              - generic [ref=e87]: wyprzedane
+        - generic [ref=e88]:
+          - heading [level=3] [ref=e92]
+          - generic [ref=e95]:
+            - generic [ref=e103]:
+              - paragraph [ref=e104]: Języki programowania i frameworki stają się dla niektórych tematem “wojen technologicznych”. Według nas język lub framework to tylko narzędzie. Można je wykorzystać na wiele sposobów i niezależnie od tego czy programujesz w Javie czy np. w PHP, istnieje pewien uniwersalny zakres wiedzy i umiejętności, które są zawsze aktualne i odróżniają dobrego programistę od przeciętnego.
+              - paragraph [ref=e105]: Wymiana doświadczeń związanych z używaniem różnych narzędzi i paradygmatów może zainspirować do znalezienia nowych sposobów na rozwiązywanie problemów w codziennej pracy. Celem naszej konferencji jest stworzenie do tego najlepszych warunków.
+            - link "Bilety " [ref=e106] [cursor=pointer]:
+              - /url: "#register"
+              - text: Bilety
+              - generic [ref=e107]: 
+            - link "Poprzednia edycja" [ref=e108] [cursor=pointer]:
+              - /url: https://2023.boilingfrogs.pl
+            - heading [level=3] [ref=e110]
+            - generic [ref=e112]:
+              - paragraph
+              - generic [ref=e115]:
+                - paragraph [ref=e117]: Zapisz się do naszej listy, aby w pierwszej kolejności dowiedzieć się o wszelkich ogłoszeniach i promocjach. Zero spamu, same konkrety!
+                - generic [ref=e118]:
+                  - generic [ref=e119]:
+                    - generic [ref=e120]: Email
+                    - textbox "Email" [ref=e121]
+                  - button "Zapisz mnie" [disabled] [ref=e123]
+          - generic [ref=e128]:
+            - img "Alt" [ref=e129]
+            - paragraph [ref=e133]:
+              - link "" [ref=e134] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/wp-content/uploads/2023/09/0_MG_8720.jpeg
+                - generic [ref=e135]: 
+          - generic [ref=e139]:
+            - img "Alt image" [ref=e140]
+            - paragraph [ref=e144]:
+              - link "" [ref=e145] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/wp-content/uploads/2023/09/21_762A3949.jpeg
+                - generic [ref=e146]: 
+          - paragraph [ref=e154]:
+            - link "" [ref=e155] [cursor=pointer]:
+              - /url: https://2024.boilingfrogs.pl/wp-content/uploads/2023/09/24_762A4003.jpeg
+              - generic [ref=e156]: 
+          - paragraph [ref=e164]:
+            - link "" [ref=e165] [cursor=pointer]:
+              - /url: https://2024.boilingfrogs.pl/wp-content/uploads/2023/09/64_MG_8234.jpeg
+              - generic [ref=e166]: 
+        - generic [ref=e170]:
+          - heading [level=3] [ref=e171]
+          - generic [ref=e172]:
+            - paragraph [ref=e177]:
+              - link "" [ref=e178] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/lukasz-szydlo/
+                - generic [ref=e179]: 
+            - generic [ref=e180]:
+              - heading "Łukasz Szydło" [level=3] [ref=e181]:
+                - link "Łukasz Szydło" [ref=e182] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/lukasz-szydlo/
+              - paragraph [ref=e183]: Software Consultant/Architect/Trainer
+            - list [ref=e185]:
+              - listitem [ref=e186]:
+                - link "" [ref=e187] [cursor=pointer]:
+                  - /url: https://twitter.com/lszydlo
+                  - generic [ref=e188]: 
+              - listitem [ref=e189]:
+                - link "" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/łukasz-szydło-14754024/
+                  - generic [ref=e191]: 
+            - paragraph [ref=e196]:
+              - link "" [ref=e197] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/michal-moroz/
+                - generic [ref=e198]: 
+            - generic [ref=e199]:
+              - heading "Michał Moroz" [level=3] [ref=e200]:
+                - link "Michał Moroz" [ref=e201] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/michal-moroz/
+              - paragraph [ref=e202]: Chief Innovation Officer i współzałożyciel Makimo
+            - list [ref=e204]:
+              - listitem [ref=e205]:
+                - link "" [ref=e206] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/michalpiotrmoroz/
+                  - generic [ref=e207]: 
+            - paragraph [ref=e212]:
+              - link "" [ref=e213] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-stawirej/
+                - generic [ref=e214]: 
+            - generic [ref=e215]:
+              - heading "Piotr Stawirej" [level=3] [ref=e216]:
+                - link "Piotr Stawirej" [ref=e217] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-stawirej/
+              - paragraph [ref=e218]: Software Engineer, Trainer
+            - list [ref=e220]:
+              - listitem [ref=e221]:
+                - link "" [ref=e222] [cursor=pointer]:
+                  - /url: https://twitter.com/p_stawirej
+                  - generic [ref=e223]: 
+              - listitem [ref=e224]:
+                - link "" [ref=e225] [cursor=pointer]:
+                  - /url: https://pl.linkedin.com/in/piotr-stawirej-6475127
+                  - generic [ref=e226]: 
+            - paragraph [ref=e231]:
+              - link "" [ref=e232] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-przybyl/
+                - generic [ref=e233]: 
+            - generic [ref=e234]:
+              - heading "Piotr Przybył" [level=3] [ref=e235]:
+                - link "Piotr Przybył" [ref=e236] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-przybyl/
+              - paragraph [ref=e237]: Senior Developer Advocate @Elastic
+            - list [ref=e239]:
+              - listitem [ref=e240]:
+                - link "" [ref=e241] [cursor=pointer]:
+                  - /url: https://twitter.com/piotrprz
+                  - generic [ref=e242]: 
+              - listitem [ref=e243]:
+                - link "" [ref=e244] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/piotrprzybyl/
+                  - generic [ref=e245]: 
+            - paragraph [ref=e250]:
+              - link "" [ref=e251] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/tomasz-dubikowski/
+                - generic [ref=e252]: 
+            - generic [ref=e253]:
+              - heading "Tomasz Dubikowski" [level=3] [ref=e254]:
+                - link "Tomasz Dubikowski" [ref=e255] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/tomasz-dubikowski/
+              - paragraph [ref=e256]: Engineering SVP and Head of Wroclaw Site at Sportradar
+            - list [ref=e258]:
+              - listitem [ref=e259]:
+                - link "" [ref=e260] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/tomasz-dubikowski/
+                  - generic [ref=e261]: 
+            - paragraph [ref=e266]:
+              - link "" [ref=e267] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/marcin-milewicz/
+                - generic [ref=e268]: 
+            - generic [ref=e269]:
+              - heading "Marcin Milewicz" [level=3] [ref=e270]:
+                - link "Marcin Milewicz" [ref=e271] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/marcin-milewicz/
+              - paragraph [ref=e272]: Frontend Tech Leader w Xebia
+            - list [ref=e274]:
+              - listitem [ref=e275]:
+                - link "" [ref=e276] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/marcinmilewicz/
+                  - generic [ref=e277]: 
+            - paragraph [ref=e283]:
+              - link "" [ref=e284] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/andrzej-grzesik/
+                - generic [ref=e285]: 
+            - generic [ref=e286]:
+              - heading "Andrzej Grzesik" [level=3] [ref=e287]:
+                - link "Andrzej Grzesik" [ref=e288] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/andrzej-grzesik/
+              - paragraph [ref=e289]: Java Champion
+            - list [ref=e291]:
+              - listitem [ref=e292]:
+                - link "" [ref=e293] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/andrzejgrzesik/
+                  - generic [ref=e294]: 
+            - paragraph [ref=e299]:
+              - link "" [ref=e300] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/andrzej-konarski/
+                - generic [ref=e301]: 
+            - generic [ref=e302]:
+              - heading "Andrzej Konarski" [level=3] [ref=e303]:
+                - link "Andrzej Konarski" [ref=e304] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/andrzej-konarski/
+              - paragraph [ref=e305]: Senior Software Engineer w Just Join IT
+            - list [ref=e307]:
+              - listitem [ref=e308]:
+                - link "" [ref=e309] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/andrzej-konarski/
+                  - generic [ref=e310]: 
+            - paragraph [ref=e315]:
+              - link "" [ref=e316] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/tomasz-kaczmarzyk/
+                - generic [ref=e317]: 
+            - generic [ref=e318]:
+              - heading "Tomasz Kaczmarzyk" [level=3] [ref=e319]:
+                - link "Tomasz Kaczmarzyk" [ref=e320] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/tomasz-kaczmarzyk/
+              - paragraph [ref=e321]: Software Developer
+            - list [ref=e323]:
+              - listitem [ref=e324]:
+                - link "" [ref=e325] [cursor=pointer]:
+                  - /url: https://twitter.com/tkaczmarzyk
+                  - generic [ref=e326]: 
+              - listitem [ref=e327]:
+                - link "" [ref=e328] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/tkaczmarzyk/
+                  - generic [ref=e329]: 
+            - paragraph [ref=e334]:
+              - link "" [ref=e335] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/mariusz-gil/
+                - generic [ref=e336]: 
+            - generic [ref=e337]:
+              - heading "Mariusz Gil" [level=3] [ref=e338]:
+                - link "Mariusz Gil" [ref=e339] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/mariusz-gil/
+              - paragraph [ref=e340]: Software Architect
+            - list [ref=e342]:
+              - listitem [ref=e343]:
+                - link "" [ref=e344] [cursor=pointer]:
+                  - /url: https://twitter.com/mariuszgil
+                  - generic [ref=e345]: 
+              - listitem [ref=e346]:
+                - link "" [ref=e347] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/mariuszgil/
+                  - generic [ref=e348]: 
+            - paragraph [ref=e353]:
+              - link "" [ref=e354] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-gankiewicz/
+                - generic [ref=e355]: 
+            - generic [ref=e356]:
+              - heading "Piotr Gankiewicz" [level=3] [ref=e357]:
+                - link "Piotr Gankiewicz" [ref=e358] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-gankiewicz/
+              - paragraph [ref=e359]: Inżynier oprogramowania, współzałożyciel DevMentors.io
+            - list [ref=e361]:
+              - listitem [ref=e362]:
+                - link "" [ref=e363] [cursor=pointer]:
+                  - /url: https://twitter.com/spetzu
+                  - generic [ref=e364]: 
+              - listitem [ref=e365]:
+                - link "" [ref=e366] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/piotrgankiewicz/
+                  - generic [ref=e367]: 
+            - paragraph [ref=e372]:
+              - link "" [ref=e373] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/mariusz-lotko/
+                - generic [ref=e374]: 
+            - generic [ref=e375]:
+              - heading "Mariusz Lotko" [level=3] [ref=e376]:
+                - link "Mariusz Lotko" [ref=e377] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/mariusz-lotko/
+              - paragraph [ref=e378]: Software Developer
+            - generic [ref=e379]:
+              - list
+            - paragraph [ref=e385]:
+              - link "" [ref=e386] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-zajac/
+                - generic [ref=e387]: 
+            - generic [ref=e388]:
+              - heading "Piotr Zając" [level=3] [ref=e389]:
+                - link "Piotr Zając" [ref=e390] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-zajac/
+              - paragraph [ref=e391]: Software Developer
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - link "" [ref=e395] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/ptrzjc/
+                  - generic [ref=e396]: 
+            - paragraph [ref=e401]:
+              - link "" [ref=e402] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/krzysztof-rakowski-pawel-rekowski/
+                - generic [ref=e403]: 
+            - generic [ref=e404]:
+              - heading "Krzysztof Rakowski, Paweł Rekowski" [level=3] [ref=e405]:
+                - link "Krzysztof Rakowski, Paweł Rekowski" [ref=e406] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/krzysztof-rakowski-pawel-rekowski/
+              - paragraph [ref=e407]: Founders at Nerd Management
+            - list [ref=e409]:
+              - listitem [ref=e410]:
+                - link "" [ref=e411] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/nerd-management/
+                  - generic [ref=e412]: 
+              - listitem [ref=e413]:
+                - link "" [ref=e414] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@nerd.management
+                  - generic [ref=e415]: 
+            - paragraph [ref=e420]:
+              - link "" [ref=e421] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/aleksandra-kunysz/
+                - generic [ref=e422]: 
+            - generic [ref=e423]:
+              - heading "Aleksandra Kunysz" [level=3] [ref=e424]:
+                - link "Aleksandra Kunysz" [ref=e425] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/aleksandra-kunysz/
+              - paragraph [ref=e426]: Programistka i założycielka Szkoły Testów
+            - list [ref=e428]:
+              - listitem [ref=e429]:
+                - link "" [ref=e430] [cursor=pointer]:
+                  - /url: https://twitter.com/OlaQnysz
+                  - generic [ref=e431]: 
+              - listitem [ref=e432]:
+                - link "" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/akunysz
+                  - generic [ref=e434]: 
+              - listitem [ref=e435]:
+                - link "" [ref=e436] [cursor=pointer]:
+                  - /url: https://www.instagram.com/olaqnysz
+                  - generic [ref=e437]: 
+              - listitem [ref=e438]:
+                - link "" [ref=e439] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/OlaKunysz
+                  - generic [ref=e440]: 
+            - paragraph [ref=e445]:
+              - link "" [ref=e446] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/arkadiusz-jelonek/
+                - generic [ref=e447]: 
+            - generic [ref=e448]:
+              - heading "Arkadiusz Jelonek" [level=3] [ref=e449]:
+                - link "Arkadiusz Jelonek" [ref=e450] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/arkadiusz-jelonek/
+              - paragraph [ref=e451]: Senior Quality Assurance Engineer w eSky
+            - list [ref=e453]:
+              - listitem [ref=e454]:
+                - link "" [ref=e455] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/ajelonek
+                  - generic [ref=e456]: 
+            - paragraph [ref=e461]:
+              - link "" [ref=e462] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-krysiak/
+                - generic [ref=e463]: 
+            - generic [ref=e464]:
+              - heading "Piotr Krysiak" [level=3] [ref=e465]:
+                - link "Piotr Krysiak" [ref=e466] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-krysiak/
+              - paragraph [ref=e467]: Head of Engineering Poland at BNY Mellon
+            - list [ref=e469]:
+              - listitem [ref=e470]:
+                - link "" [ref=e471] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/piotr-krysiak-800bb185/
+                  - generic [ref=e472]: 
+            - paragraph [ref=e477]:
+              - link "" [ref=e478] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/pawel-lewtak/
+                - generic [ref=e479]: 
+            - generic [ref=e480]:
+              - heading "Paweł Lewtak" [level=3] [ref=e481]:
+                - link "Paweł Lewtak" [ref=e482] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/pawel-lewtak/
+              - paragraph [ref=e483]: Software Developer
+            - list [ref=e485]:
+              - listitem [ref=e486]:
+                - link "" [ref=e487] [cursor=pointer]:
+                  - /url: https://twitter.com/pawel_lewtak
+                  - generic [ref=e488]: 
+            - paragraph [ref=e494]:
+              - link "" [ref=e495] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/kamil-grzybek/
+                - generic [ref=e496]: 
+            - generic [ref=e497]:
+              - heading "Kamil Grzybek" [level=3] [ref=e498]:
+                - link "Kamil Grzybek" [ref=e499] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/kamil-grzybek/
+              - paragraph [ref=e500]: Head of Software Engineering / Architekt
+            - list [ref=e502]:
+              - listitem [ref=e503]:
+                - link "" [ref=e504] [cursor=pointer]:
+                  - /url: https://twitter.com/kamgrzybek
+                  - generic [ref=e505]: 
+              - listitem [ref=e506]:
+                - link "" [ref=e507] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kamilgrzybek/
+                  - generic [ref=e508]: 
+            - paragraph [ref=e513]:
+              - link "" [ref=e514] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/patryk-roguszewski/
+                - generic [ref=e515]: 
+            - generic [ref=e516]:
+              - heading "Patryk Roguszewski" [level=3] [ref=e517]:
+                - link "Patryk Roguszewski" [ref=e518] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/patryk-roguszewski/
+              - paragraph [ref=e519]: Senior Software Engineer w Just Join IT
+            - list [ref=e521]:
+              - listitem [ref=e522]:
+                - link "" [ref=e523] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/patryk-roguszewski-b9433815a
+                  - generic [ref=e524]: 
+            - paragraph [ref=e529]:
+              - link "" [ref=e530] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/karol-kreft/
+                - generic [ref=e531]: 
+            - generic [ref=e532]:
+              - heading "Karol Kreft" [level=3] [ref=e533]:
+                - link "Karol Kreft" [ref=e534] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/karol-kreft/
+              - paragraph [ref=e535]: Technical Lead at Volt.io
+            - list [ref=e537]:
+              - listitem [ref=e538]:
+                - link "" [ref=e539] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karolkreft/
+                  - generic [ref=e540]: 
+            - paragraph [ref=e545]:
+              - link "" [ref=e546] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/jaroslaw-palka/
+                - generic [ref=e547]: 
+            - generic [ref=e548]:
+              - heading "Jarosław Pałka" [level=3] [ref=e549]:
+                - link "Jarosław Pałka" [ref=e550] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/jaroslaw-palka/
+              - paragraph [ref=e551]: Performance Engineer
+            - list [ref=e553]:
+              - listitem [ref=e554]:
+                - link "" [ref=e555] [cursor=pointer]:
+                  - /url: https://twitter.com/j_palka
+                  - generic [ref=e556]: 
+              - listitem [ref=e557]:
+                - link "" [ref=e558] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/jpalka/
+                  - generic [ref=e559]: 
+            - paragraph [ref=e564]:
+              - link "" [ref=e565] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/wojtek-ptak/
+                - generic [ref=e566]: 
+            - generic [ref=e567]:
+              - heading "Wojtek Ptak" [level=3] [ref=e568]:
+                - link "Wojtek Ptak" [ref=e569] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/wojtek-ptak/
+              - paragraph [ref=e570]: Head of Product Engineering
+            - list [ref=e572]:
+              - listitem [ref=e573]:
+                - link "" [ref=e574] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/wojtekptak/
+                  - generic [ref=e575]: 
+            - paragraph [ref=e580]:
+              - link "" [ref=e581] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/piotr-stapp/
+                - generic [ref=e582]: 
+            - generic [ref=e583]:
+              - heading "Piotr Stapp" [level=3] [ref=e584]:
+                - link "Piotr Stapp" [ref=e585] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/piotr-stapp/
+              - paragraph [ref=e586]: Technology Advisor, Microsoft MVP
+            - list [ref=e588]:
+              - listitem [ref=e589]:
+                - link "" [ref=e590] [cursor=pointer]:
+                  - /url: https://twitter.com/ptrstpp950
+                  - generic [ref=e591]: 
+              - listitem [ref=e592]:
+                - link "" [ref=e593] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/piotrstapp/
+                  - generic [ref=e594]: 
+            - paragraph [ref=e600]:
+              - link "" [ref=e601] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/michal-bartyzel/
+                - generic [ref=e602]: 
+            - generic [ref=e603]:
+              - heading "Michał Bartyzel" [level=3] [ref=e604]:
+                - link "Michał Bartyzel" [ref=e605] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/michal-bartyzel/
+              - paragraph [ref=e606]: Software Developer, Consultant
+            - list [ref=e608]:
+              - listitem [ref=e609]:
+                - link "" [ref=e610] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/mbartyzel
+                  - generic [ref=e611]: 
+            - paragraph [ref=e616]:
+              - link "" [ref=e617] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/lukasz-reszke/
+                - generic [ref=e618]: 
+            - generic [ref=e619]:
+              - heading "Łukasz Reszke" [level=3] [ref=e620]:
+                - link "Łukasz Reszke" [ref=e621] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/lukasz-reszke/
+              - paragraph [ref=e622]: Software Developer at Arkency
+            - list [ref=e624]:
+              - listitem [ref=e625]:
+                - link "" [ref=e626] [cursor=pointer]:
+                  - /url: https://twitter.com/lreszke
+                  - generic [ref=e627]: 
+              - listitem [ref=e628]:
+                - link "" [ref=e629] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/lreszke
+                  - generic [ref=e630]: 
+              - listitem [ref=e631]:
+                - link "" [ref=e632] [cursor=pointer]:
+                  - /url: https://instagram.com/lukasz_reszke
+                  - generic [ref=e633]: 
+            - paragraph [ref=e638]:
+              - link "" [ref=e639] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/michal-ostruszka/
+                - generic [ref=e640]: 
+            - generic [ref=e641]:
+              - heading "Michał Ostruszka" [level=3] [ref=e642]:
+                - link "Michał Ostruszka" [ref=e643] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/michal-ostruszka/
+              - paragraph [ref=e644]: Software engineer, tech lead
+            - list [ref=e646]:
+              - listitem [ref=e647]:
+                - link "" [ref=e648] [cursor=pointer]:
+                  - /url: https://twitter.com/mostruszka
+                  - generic [ref=e649]: 
+              - listitem [ref=e650]:
+                - link "" [ref=e651] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/michalostruszka/
+                  - generic [ref=e652]: 
+            - paragraph [ref=e657]:
+              - link "" [ref=e658] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/anita-przybyl/
+                - generic [ref=e659]: 
+            - generic [ref=e660]:
+              - heading "Anita Przybył" [level=3] [ref=e661]:
+                - link "Anita Przybył" [ref=e662] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/anita-przybyl/
+              - paragraph [ref=e663]: Trenerka kompetencji społecznych, psycholog
+            - list [ref=e665]:
+              - listitem [ref=e666]:
+                - link "" [ref=e667] [cursor=pointer]:
+                  - /url: https://twitter.com/Anita_Przybyl
+                  - generic [ref=e668]: 
+              - listitem [ref=e669]:
+                - link "" [ref=e670] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/anita-przybyl
+                  - generic [ref=e671]: 
+              - listitem [ref=e672]:
+                - link "" [ref=e673] [cursor=pointer]:
+                  - /url: https://instagram.com/anita_przybyl
+                  - generic [ref=e674]: 
+            - paragraph [ref=e679]:
+              - link "" [ref=e680] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/daniel-pokusa/
+                - generic [ref=e681]: 
+            - generic [ref=e682]:
+              - heading "Daniel Pokusa" [level=3] [ref=e683]:
+                - link "Daniel Pokusa" [ref=e684] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/daniel-pokusa/
+              - paragraph [ref=e685]: Architekt Oprogramowania
+            - list [ref=e687]:
+              - listitem [ref=e688]:
+                - link "" [ref=e689] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/daniel-pokusa/
+                  - generic [ref=e690]: 
+            - paragraph [ref=e695]:
+              - link "" [ref=e696] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/marta-domasz/
+                - generic [ref=e697]: 
+            - generic [ref=e698]:
+              - heading "Marta Domasz" [level=3] [ref=e699]:
+                - link "Marta Domasz" [ref=e700] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/marta-domasz/
+              - paragraph [ref=e701]: HR Business Partner
+            - list [ref=e703]:
+              - listitem [ref=e704]:
+                - link "" [ref=e705] [cursor=pointer]:
+                  - /url: https://www.facebook.com/marta.domasz.biznes
+                  - generic [ref=e706]: 
+              - listitem [ref=e707]:
+                - link "" [ref=e708] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/martadomasz/
+                  - generic [ref=e709]: 
+              - listitem [ref=e710]:
+                - link "" [ref=e711] [cursor=pointer]:
+                  - /url: https://www.instagram.com/marta.domasz/
+                  - generic [ref=e712]: 
+        - generic [ref=e716]:
+          - heading [level=3] [ref=e717]
+          - table [ref=e721]:
+            - rowgroup [ref=e722]:
+              - row "Ścieżka 1 (AUDYTORIUM) Ścieżka 2 (SALA A-B) Ścieżka 3 (SALA C-D)" [ref=e723]:
+                - columnheader [ref=e724]
+                - columnheader "Ścieżka 1 (AUDYTORIUM)" [ref=e725]
+                - columnheader "Ścieżka 2 (SALA A-B)" [ref=e726]
+                - columnheader "Ścieżka 3 (SALA C-D)" [ref=e727]
+            - rowgroup [ref=e728]:
+              - row "8:00 - 9:00 REJESTRACJA" [ref=e729]:
+                - rowheader "8:00 - 9:00" [ref=e730]
+                - cell "REJESTRACJA" [ref=e731]
+              - row "9:00 - 9:10 Przywitanie i informacje organizacyjne (AUDYTORIUM)" [ref=e732]:
+                - rowheader "9:00 - 9:10" [ref=e733]
+                - cell "Przywitanie i informacje organizacyjne (AUDYTORIUM)" [ref=e734]
+              - 'row "9:10 - 9:30 Boiling Frogs: Nieopowiedziane historie Tomasz Kaczmarzyk" [ref=e735]':
+                - rowheader "9:10 - 9:30" [ref=e736]
+                - 'cell "Boiling Frogs: Nieopowiedziane historie Tomasz Kaczmarzyk" [ref=e737]':
+                  - strong [ref=e738]: "Boiling Frogs: Nieopowiedziane historie"
+                  - link "Tomasz Kaczmarzyk" [ref=e739] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=tomasz-kaczmarzyk
+              - row "9:30 - 9:50 PRZERWA KAWOWA" [ref=e740]:
+                - rowheader "9:30 - 9:50" [ref=e741]
+                - cell "PRZERWA KAWOWA" [ref=e742]
+              - 'row "9:50 - 10:35 Architecture Uncomplicated: tools for simplified large scale systems Wojtek Ptak i Andrzej Grzesik Najpierw pomyśl, potem zrób – jak mądrze podejmować decyzje Krzysztof Rakowski i Paweł Rekowski DDD na frontendzie? A komu to potrzebne? Marcin Milewicz" [ref=e743]':
+                - rowheader "9:50 - 10:35" [ref=e744]
+                - 'cell "Architecture Uncomplicated: tools for simplified large scale systems Wojtek Ptak i Andrzej Grzesik" [ref=e745]':
+                  - strong [ref=e746]:
+                    - 'link "Architecture Uncomplicated: tools for simplified large scale systems" [ref=e747] [cursor=pointer]':
+                      - /url: https://2024.boilingfrogs.pl/?schedule=architecture-uncomplicated-tools-for-simplified-large-scale-systems
+                  - link "Wojtek Ptak" [ref=e748] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=wojtek-ptak
+                  - text: i
+                  - link "Andrzej Grzesik" [ref=e749] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=andrzej-grzesik
+                - cell "Najpierw pomyśl, potem zrób – jak mądrze podejmować decyzje Krzysztof Rakowski i Paweł Rekowski" [ref=e750]:
+                  - link "Najpierw pomyśl, potem zrób – jak mądrze podejmować decyzje" [ref=e751] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=najpierw-pomysl-potem-zrob-jak-madrze-podejmowac-decyzje
+                    - strong [ref=e752]: Najpierw pomyśl, potem zrób – jak mądrze podejmować decyzje
+                  - link "Krzysztof Rakowski i Paweł Rekowski" [ref=e753] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=krzysztof-rakowski-pawel-rekowski
+                - cell "DDD na frontendzie? A komu to potrzebne? Marcin Milewicz" [ref=e754]:
+                  - link "DDD na frontendzie? A komu to potrzebne?" [ref=e755] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=ddd-na-frontendzie-a-komu-to-potrzebne
+                    - strong [ref=e756]: DDD na frontendzie? A komu to potrzebne?
+                  - link "Marcin Milewicz" [ref=e757] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=marcin-milewicz
+              - row "10:35 - 10:55 PRZERWA KAWOWA" [ref=e758]:
+                - rowheader "10:35 - 10:55" [ref=e759]
+                - cell "PRZERWA KAWOWA" [ref=e760]
+              - row "10:55 - 11:40 A good craftsman is a good analyst Kamil Grzybek Zapomniana sztuka programowania obiektowego Łukasz Reszke Zbudujmy własną Kafkę, czyli strumieniowanie wiadomości od kuchni Piotr Gankiewicz" [ref=e761]:
+                - rowheader "10:55 - 11:40" [ref=e762]
+                - cell "A good craftsman is a good analyst Kamil Grzybek" [ref=e763]:
+                  - strong [ref=e764]:
+                    - link "A good craftsman is a good analyst" [ref=e765] [cursor=pointer]:
+                      - /url: https://2024.boilingfrogs.pl/?schedule=a-good-craftsman-is-a-good-analyst
+                  - link "Kamil Grzybek" [ref=e766] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=kamil-grzybek
+                - cell "Zapomniana sztuka programowania obiektowego Łukasz Reszke" [ref=e767]:
+                  - link "Zapomniana sztuka programowania obiektowego" [ref=e768] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=zapomniana-sztuka-programowania-obiektowego
+                    - strong [ref=e769]: Zapomniana sztuka programowania obiektowego
+                  - link "Łukasz Reszke" [ref=e770] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=lukasz-reszke
+                - cell "Zbudujmy własną Kafkę, czyli strumieniowanie wiadomości od kuchni Piotr Gankiewicz" [ref=e771]:
+                  - link "Zbudujmy własną Kafkę, czyli strumieniowanie wiadomości od kuchni" [ref=e772] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=zbudujmy-wlasna-kafke-czyli-strumieniowanie-wiadomosci-od-kuchni
+                    - strong [ref=e773]: Zbudujmy własną Kafkę, czyli strumieniowanie wiadomości od kuchni
+                  - link "Piotr Gankiewicz" [ref=e774] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-gankiewicz
+              - row "11:40 - 12:00 PRZERWA KAWOWA" [ref=e775]:
+                - rowheader "11:40 - 12:00" [ref=e776]
+                - cell "PRZERWA KAWOWA" [ref=e777]
+              - row "12:00 - 12:45 Testy wydajnościowe i inne kłamstwa Jarosław Pałka Czy można pracować inaczej? Prosta droga branży IT do wypalenia Aleksandra Kunysz Zbyt optymistyczne lockowanie / Too optimistic locking Mariusz Lotko" [ref=e778]:
+                - rowheader "12:00 - 12:45" [ref=e779]
+                - cell "Testy wydajnościowe i inne kłamstwa Jarosław Pałka" [ref=e780]:
+                  - strong [ref=e781]:
+                    - link "Testy wydajnościowe i inne kłamstwa" [ref=e782] [cursor=pointer]:
+                      - /url: https://2024.boilingfrogs.pl/?schedule=testy-wydajnosciowe-i-inne-klamstwa
+                  - link "Jarosław Pałka" [ref=e783] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=jaroslaw-palka
+                - cell "Czy można pracować inaczej? Prosta droga branży IT do wypalenia Aleksandra Kunysz" [ref=e784]:
+                  - link "Czy można pracować inaczej? Prosta droga branży IT do wypalenia" [ref=e785] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=czy-mozna-pracowac-inaczej-prosta-droga-branzy-it-do-wypalenia
+                    - strong [ref=e786]: Czy można pracować inaczej? Prosta droga branży IT do wypalenia
+                  - link "Aleksandra Kunysz" [ref=e787] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=aleksandra-kunysz
+                - cell "Zbyt optymistyczne lockowanie / Too optimistic locking Mariusz Lotko" [ref=e788]:
+                  - link "Zbyt optymistyczne lockowanie / Too optimistic locking" [ref=e789] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=zbyt-optymistyczne-lockowanie
+                    - strong [ref=e790]: Zbyt optymistyczne lockowanie / Too optimistic locking
+                  - link "Mariusz Lotko" [ref=e791] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=mariusz-lotko
+              - row "Sesja Lighting-Talks w trakcie obiadu:" [ref=e792]:
+                - cell [ref=e793]
+                - cell "Sesja Lighting-Talks w trakcie obiadu:" [ref=e794]
+              - row
+              - 'row "12:50 - 13:05 Dłuto programisty, czyli efektywna praca z kodem przy użyciu ChatGPT Piotr Zając Kodowanie rozwoju: Od ''Hello World'' do ''Hello Career'' Marta Domasz Developer Experience w kwadrans Paweł Lewtak" [ref=e795]':
+                - rowheader "12:50 - 13:05" [ref=e796]
+                - cell "Dłuto programisty, czyli efektywna praca z kodem przy użyciu ChatGPT Piotr Zając" [ref=e797]:
+                  - link "Dłuto programisty, czyli efektywna praca z kodem przy użyciu ChatGPT" [ref=e798] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=dluto-programisty-czyli-efektywna-praca-z-kodem-przy-uzyciu-chatgpt
+                    - strong [ref=e799]: Dłuto programisty, czyli efektywna praca z kodem przy użyciu ChatGPT
+                  - link "Piotr Zając" [ref=e800] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-zajac
+                - 'cell "Kodowanie rozwoju: Od ''Hello World'' do ''Hello Career'' Marta Domasz" [ref=e801]':
+                  - 'link "Kodowanie rozwoju: Od ''Hello World'' do ''Hello Career''" [ref=e802] [cursor=pointer]':
+                    - /url: https://2024.boilingfrogs.pl/?schedule=kodowanie-rozwoju-od-hello-world-do-hello-career
+                    - strong [ref=e803]: "Kodowanie rozwoju: Od 'Hello World' do 'Hello Career'"
+                  - link "Marta Domasz" [ref=e804] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=marta-domasz
+                - cell "Developer Experience w kwadrans Paweł Lewtak" [ref=e805]:
+                  - link "Developer Experience w kwadrans" [ref=e806] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=developer-experience-w-kwadrans
+                    - strong [ref=e807]: Developer Experience w kwadrans
+                  - link "Paweł Lewtak" [ref=e808] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=pawel-lewtak
+              - row "12:45 - 14:00 OBIAD" [ref=e809]:
+                - rowheader "12:45 - 14:00" [ref=e810]
+                - cell "OBIAD" [ref=e811]
+              - row "14:00 - 14:15 Subiektywnie o liderach w IT Anita Przybył Jak poruszac sie w miedzynarodowym projekcie Piotr Krysiak Czy Playwright zdominuje testy automatyczne aplikacji webowych w 2024 roku? Arkadiusz Jelonek" [ref=e812]:
+                - rowheader "14:00 - 14:15" [ref=e813]:
+                  - strong [ref=e814]: 14:00 - 14:15
+                - cell "Subiektywnie o liderach w IT Anita Przybył" [ref=e815]:
+                  - link "Subiektywnie o liderach w IT" [ref=e816] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=subiektywnie-o-liderach-w-it
+                    - strong [ref=e817]: Subiektywnie o liderach w IT
+                  - link "Anita Przybył" [ref=e818] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=anita-przybyl
+                - cell "Jak poruszac sie w miedzynarodowym projekcie Piotr Krysiak" [ref=e819]:
+                  - link "Jak poruszac sie w miedzynarodowym projekcie" [ref=e820] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=jak-poruszac-sie-w-miedzynarodowym-projekcie
+                    - strong [ref=e821]: Jak poruszac sie w miedzynarodowym projekcie
+                  - link "Piotr Krysiak" [ref=e822] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-krysiak
+                - cell "Czy Playwright zdominuje testy automatyczne aplikacji webowych w 2024 roku? Arkadiusz Jelonek" [ref=e823]:
+                  - link "Czy Playwright zdominuje testy automatyczne aplikacji webowych w 2024 roku?" [ref=e824] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=czy-playwright-zdominuje-testy-automatyczne-aplikacji-webowych-w-2024-roku
+                    - strong [ref=e825]: Czy Playwright zdominuje testy automatyczne aplikacji webowych w 2024 roku?
+                  - link "Arkadiusz Jelonek" [ref=e826] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=arkadiusz-jelonek
+              - row "14:15 - 14:20 PRZERWA TECHNICZNA" [ref=e827]:
+                - rowheader "14:15 - 14:20" [ref=e828]
+                - cell "PRZERWA TECHNICZNA" [ref=e829]
+              - row "14:20 - 15:05 Czysty kod - to jednak nie takie proste Łukasz Szydło Prawo Conwaya w akcji Michał Moroz Raise of CLI applications Daniel Pokusa" [ref=e830]:
+                - rowheader "14:20 - 15:05" [ref=e831]
+                - cell "Czysty kod - to jednak nie takie proste Łukasz Szydło" [ref=e832]:
+                  - link "Czysty kod - to jednak nie takie proste" [ref=e833] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=czysty-kod-to-jednak-nie-takie-proste
+                    - strong [ref=e834]: Czysty kod - to jednak nie takie proste
+                  - link "Łukasz Szydło" [ref=e835] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=lukasz-szydlo
+                - cell "Prawo Conwaya w akcji Michał Moroz" [ref=e836]:
+                  - link "Prawo Conwaya w akcji" [ref=e837] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=prawo-conwaya-w-akcji
+                    - strong [ref=e838]: Prawo Conwaya w akcji
+                  - link "Michał Moroz" [ref=e839] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=michal-moroz
+                - cell "Raise of CLI applications Daniel Pokusa" [ref=e840]:
+                  - link "Raise of CLI applications" [ref=e841] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=raise-of-cli-applications
+                    - strong [ref=e842]: Raise of CLI applications
+                  - link "Daniel Pokusa" [ref=e843] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=daniel-pokusa
+              - row "15:05 - 15:25 PRZERWA KAWOWA" [ref=e844]:
+                - rowheader "15:05 - 15:25" [ref=e845]
+                - cell "PRZERWA KAWOWA" [ref=e846]
+              - row "15:25 - 16:10 Domain Driven Disaster Mariusz Gil Szybki kurs myślenia biznesowego dla inżynierów i inżynierek Michał Bartyzel O piramidzie testów i jakości życia Piotr Przybył" [ref=e847]:
+                - rowheader "15:25 - 16:10" [ref=e848]
+                - cell "Domain Driven Disaster Mariusz Gil" [ref=e849]:
+                  - link "Domain Driven Disaster" [ref=e850] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=domain-driven-disaster
+                    - strong [ref=e851]: Domain Driven Disaster
+                  - link "Mariusz Gil" [ref=e852] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=mariusz-gil
+                - cell "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek Michał Bartyzel" [ref=e853]:
+                  - link "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek" [ref=e854] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=szybki-kurs-myslenia-biznesowego-dla-inzynierow-i-inzynierek
+                    - strong [ref=e855]: Szybki kurs myślenia biznesowego dla inżynierów i inżynierek
+                  - link "Michał Bartyzel" [ref=e856] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=michal-bartyzel
+                - cell "O piramidzie testów i jakości życia Piotr Przybył" [ref=e857]:
+                  - link "O piramidzie testów i jakości życia" [ref=e858] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=o-piramidzie-testow-i-jakosci-zycia
+                    - strong [ref=e859]: O piramidzie testów i jakości życia
+                  - link "Piotr Przybył" [ref=e860] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-przybyl
+              - row "16:10 - 16:30 PRZERWA KAWOWA" [ref=e861]:
+                - rowheader "16:10 - 16:30" [ref=e862]
+                - cell "PRZERWA KAWOWA" [ref=e863]
+              - 'row "16:30 - 17:15 Co poszło nie tak z agile i co Ty możesz z tym zrobić Piotr Stapp Beyond Boundaries: Plusy i minusy Tech Agnostic w architekturze mikroserwisowej Andrzej Konarski i Patryk Roguszewski Testing the untestable PART II – patterns, use cases and practices Piotr Stawirej" [ref=e864]':
+                - rowheader "16:30 - 17:15" [ref=e865]
+                - cell "Co poszło nie tak z agile i co Ty możesz z tym zrobić Piotr Stapp" [ref=e866]:
+                  - link "Co poszło nie tak z agile i co Ty możesz z tym zrobić" [ref=e867] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=co-poszlo-nie-tak-z-agile-i-co-ty-mozesz-z-tym-zrobic
+                    - strong [ref=e868]: Co poszło nie tak z agile i co Ty możesz z tym zrobić
+                  - link "Piotr Stapp" [ref=e869] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-stapp
+                - 'cell "Beyond Boundaries: Plusy i minusy Tech Agnostic w architekturze mikroserwisowej Andrzej Konarski i Patryk Roguszewski" [ref=e870]':
+                  - 'link "Beyond Boundaries: Plusy i minusy Tech Agnostic w architekturze mikroserwisowej" [ref=e871] [cursor=pointer]':
+                    - /url: https://2024.boilingfrogs.pl/?schedule=jak-pies-z-kotem-czyli-miniserwisy-w-podejsciu-tech-agnostic-czyli-ciezej-sie-nie-dalo
+                    - strong [ref=e872]: "Beyond Boundaries: Plusy i minusy Tech Agnostic w architekturze mikroserwisowej"
+                  - link "Andrzej Konarski" [ref=e873] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=andrzej-konarski
+                  - text: i
+                  - link "Patryk Roguszewski" [ref=e874] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=patryk-roguszewski
+                - cell "Testing the untestable PART II – patterns, use cases and practices Piotr Stawirej" [ref=e875]:
+                  - link "Testing the untestable PART II – patterns, use cases and practices" [ref=e876] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=testing-the-untestable-part-ii-patterns-use-cases-and-practices
+                    - strong [ref=e877]: Testing the untestable PART II – patterns, use cases and practices
+                  - link "Piotr Stawirej" [ref=e878] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=piotr-stawirej
+              - row "17:15 - 17:35 PRZERWA KAWOWA" [ref=e879]:
+                - rowheader "17:15 - 17:35" [ref=e880]
+                - cell "PRZERWA KAWOWA" [ref=e881]
+              - 'row "17:35 - 18:20 Pragmatism Rediscovered: podróż z powrotem do zdrowego rozsądku Tomasz Dubikowski Czego boi się Tech Lead? Karol Kreft Ugasiłeś pożar na produkcji, co dalej? Michał Ostruszka" [ref=e882]':
+                - rowheader "17:35 - 18:20" [ref=e883]
+                - 'cell "Pragmatism Rediscovered: podróż z powrotem do zdrowego rozsądku Tomasz Dubikowski" [ref=e884]':
+                  - 'link "Pragmatism Rediscovered: podróż z powrotem do zdrowego rozsądku" [ref=e885] [cursor=pointer]':
+                    - /url: https://2024.boilingfrogs.pl/?schedule=pragmatism-rediscovered-podroz-z-powrotem-do-zdrowego-rozsadku
+                    - strong [ref=e886]: "Pragmatism Rediscovered: podróż z powrotem do zdrowego rozsądku"
+                  - link "Tomasz Dubikowski" [ref=e887] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=tomasz-dubikowski
+                - cell "Czego boi się Tech Lead? Karol Kreft" [ref=e888]:
+                  - link "Czego boi się Tech Lead?" [ref=e889] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=czego-boi-sie-tech-lead
+                    - strong [ref=e890]: Czego boi się Tech Lead?
+                  - link "Karol Kreft" [ref=e891] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=karol-kreft
+                - cell "Ugasiłeś pożar na produkcji, co dalej? Michał Ostruszka" [ref=e892]:
+                  - link "Ugasiłeś pożar na produkcji, co dalej?" [ref=e893] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?schedule=ugasiles-pozar-na-produkcji-co-dalej
+                    - strong [ref=e894]: Ugasiłeś pożar na produkcji, co dalej?
+                  - link "Michał Ostruszka" [ref=e895] [cursor=pointer]:
+                    - /url: https://2024.boilingfrogs.pl/?speaker=michal-ostruszka
+              - row "20:00 Afterparty - Klubokawiarnia Mleczarnia, ul. Włodkowica 5" [ref=e896]:
+                - rowheader "20:00" [ref=e897]
+                - cell "Afterparty - Klubokawiarnia Mleczarnia, ul. Włodkowica 5" [ref=e898]:
+                  - strong [ref=e899]:
+                    - text: Afterparty - Klubokawiarnia Mleczarnia, ul. Włodkowica 5
+                    - strong
+        - generic [ref=e903]:
+          - heading [level=3] [ref=e904]
+          - link [ref=e905] [cursor=pointer]:
+            - /url: https://www.dataart.team/
+          - link [ref=e906] [cursor=pointer]:
+            - /url: https://revolut.la/RevolutAtBoilingFrogs
+          - heading [level=3] [ref=e908]
+          - link [ref=e909] [cursor=pointer]:
+            - /url: https://www.capgemini.com/pl-pl/kariera/
+          - link [ref=e910] [cursor=pointer]:
+            - /url: https://sportradar.com/careers/
+          - link [ref=e911] [cursor=pointer]:
+            - /url: https://xebia.com/career-poland/
+          - link [ref=e912] [cursor=pointer]:
+            - /url: https://careers.griddynamics.com/discover-openings?location=Wroclaw,%20Poland&location=Gdansk,%20Poland&location=Krakow,%20Poland&location=Warsaw,%20Poland
+          - link [ref=e914] [cursor=pointer]:
+            - /url: https://www.accenture.com/pl-pl
+          - heading [level=3] [ref=e916]
+          - link [ref=e918] [cursor=pointer]:
+            - /url: https://sjsi.org/
+          - link [ref=e919] [cursor=pointer]:
+            - /url: https://tratif.com/
+          - heading [level=3] [ref=e921]
+          - link [ref=e922] [cursor=pointer]:
+            - /url: https://summit.phpers.pl/
+          - link [ref=e923] [cursor=pointer]:
+            - /url: https://justjoin.it/
+          - link [ref=e924] [cursor=pointer]:
+            - /url: https://figacoffee.pl/
+        - generic [ref=e928]:
+          - heading [level=3] [ref=e929]
+          - paragraph [ref=e932]: Jeśli Twoja firma jest zainteresowana ofertą sponsorską to prosimy o bezpośredni kontakt z marta@boilingfrogs.pl. Liczba miejsc ograniczona – decyduje kolejność zgłoszeń.
+        - generic [ref=e937]:
+          - heading [level=3] [ref=e938]
+          - paragraph [ref=e941]: Bilety na Boiling Frogs 2024 zostały wyprzedane! Zapraszamy do wykupienia dostępu do nagrań z edycji 2024 oraz poprzednich lat.
+        - generic [ref=e942]:
+          - generic [ref=e945]:
+            - link "edycji 2022" [ref=e946] [cursor=pointer]:
+              - /url: https://2022.boilingfrogs.pl/#agenda
+            - link "KUP TERAZ" [ref=e947] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/nagrania-2022/
+          - generic [ref=e950]:
+            - link "edycji 2023" [ref=e951] [cursor=pointer]:
+              - /url: https://2023.boilingfrogs.pl/#agenda
+            - link "kup teraz" [ref=e952] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/nagrania-2023/
+          - generic [ref=e955]:
+            - link "edycji 2023" [ref=e956] [cursor=pointer]:
+              - /url: https://2023.boilingfrogs.pl/#agenda
+            - link "edycji 2022" [ref=e957] [cursor=pointer]:
+              - /url: https://2022.boilingfrogs.pl/#agenda
+            - link "edycji 2021 (w tym panele dyskusyjne i Q&a)" [ref=e958] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/product/nagrania-z-boiling-frogs-2021/
+            - link "KUP TERAZ" [ref=e959] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/archiwum-nagran/
+          - generic [ref=e962]:
+            - link "edycji 2024" [ref=e963] [cursor=pointer]:
+              - /url: https://2024.boilingfrogs.pl/#agenda
+            - link "KUP TERAZ" [ref=e964] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/nagrania-2024/
+        - generic [ref=e968]:
+          - heading [level=3] [ref=e969]
+          - paragraph [ref=e972]:
+            - text: Cały czas masz możliwość wykupienia dostępu do wszystkich nagrań wykładów z edycji 2024 oraz z wcześniejszych lat. Dostęp nie jest ograniczony czasowo, możesz oglądać nagrania wielokrotnie i kiedy tylko chcesz. Nagrania dostępne są również w niżeszej cenie w pakietach.
+            - link "Więcej szczegółów w naszym sklepie" [ref=e973] [cursor=pointer]:
+              - /url: https://sklep2.boilingfrogs.pl/product-category/nagrania/
+            - text: .
+          - heading [level=3] [ref=e975]
+          - generic [ref=e977]:
+            - paragraph [ref=e978]: W odpowiedzi na feedback z lat poprzednich, umożliwiamy kupienie gadżetu konferencyjnego. Oczywiście będzie też – jak co roku – możliwość wygrania gadżetów za ciekawe pytania do prelegentów.
+            - list [ref=e979]:
+              - listitem [ref=e980]:
+                - link "zakup gadżetów konferencyjncyh" [ref=e982] [cursor=pointer]:
+                  - /url: https://sklep2.boilingfrogs.pl/product-category/gadzety/
+        - generic [ref=e989]:
+          - heading [level=3] [ref=e990]
+          - paragraph [ref=e991]:
+            - strong [ref=e992]: Wrocławskie Centrum Kongresowe
+            - text: Wystawowa 1
+            - text: 51-618 Wrocław
+          - link "Dojazd " [ref=e993] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/Wroc%C5%82awskie+Centrum+Kongresowe/@51.1076569,17.0757846,17z/data=!4m12!1m6!3m5!1s0x470fe8270294affb:0xb1c0c6319f58f81b!2sWroc%C5%82awskie+Centrum+Kongresowe!8m2!3d51.1076569!4d17.0779733!3m4!1s0x470fe8270294affb:0xb1c0c6319f58f81b!8m2!3d51.1076569!4d17.0779733
+            - text: Dojazd
+            - generic [ref=e994]: 
+        - generic [ref=e998]:
+          - heading [level=3] [ref=e1002]
+          - link " Czy dostanę fizyczny bilet na konferencję?" [ref=e1006] [cursor=pointer]:
+            - /url: "#tab-14551012715841"
+            - generic [ref=e1007]: 
+            - generic [ref=e1008]: Czy dostanę fizyczny bilet na konferencję?
+        - generic [ref=e1015]:
+          - heading [level=3] [ref=e1016]
+          - generic [ref=e1017]:
+            - generic [ref=e1018]:
+              - list
+            - form "Contact form" [ref=e1019]:
+              - generic [ref=e1020]:
+                - paragraph [ref=e1022]:
+                  - textbox "Twoje imie ..." [ref=e1024]
+                - paragraph [ref=e1026]:
+                  - textbox "Twoj email..." [ref=e1028]
+                - paragraph [ref=e1030]:
+                  - strong [ref=e1031]: Rozwiąż zadanie (ochrona antyspamowa)
+                  - generic [ref=e1033]:
+                    - text: 2 - 1 =
+                    - textbox "2 - 1 =" [ref=e1034]
+                - paragraph [ref=e1036]:
+                  - textbox "Wiadomosc do nas ..." [ref=e1038]
+                - paragraph [ref=e1040]:
+                  - button "Wyślij" [ref=e1041] [cursor=pointer]
+        - generic [ref=e1045]:
+          - heading [level=3] [ref=e1046]
+          - generic [ref=e1047]:
+            - paragraph [ref=e1052]:
+              - link "" [ref=e1053] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/tomasz-kaczmarzyk/
+                - generic [ref=e1054]: 
+            - generic [ref=e1055]:
+              - heading "Tomasz Kaczmarzyk" [level=3] [ref=e1056]:
+                - link "Tomasz Kaczmarzyk" [ref=e1057] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/tomasz-kaczmarzyk/
+              - paragraph [ref=e1058]: Software Developer
+            - list [ref=e1060]:
+              - listitem [ref=e1061]:
+                - link "" [ref=e1062] [cursor=pointer]:
+                  - /url: https://twitter.com/tkaczmarzyk
+                  - generic [ref=e1063]: 
+              - listitem [ref=e1064]:
+                - link "" [ref=e1065] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/tkaczmarzyk/
+                  - generic [ref=e1066]: 
+            - paragraph [ref=e1071]:
+              - link "" [ref=e1072] [cursor=pointer]:
+                - /url: https://2024.boilingfrogs.pl/speaker/marta-fudali/
+                - generic [ref=e1073]: 
+            - generic [ref=e1074]:
+              - heading "Marta Fudali" [level=3] [ref=e1075]:
+                - link "Marta Fudali" [ref=e1076] [cursor=pointer]:
+                  - /url: https://2024.boilingfrogs.pl/speaker/marta-fudali/
+              - paragraph [ref=e1077]: One-woman Army
+            - list [ref=e1079]:
+              - listitem [ref=e1080]:
+                - link "" [ref=e1081] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/marta-fudali/
+                  - generic [ref=e1082]: 
+      - contentinfo [ref=e1083]:
+        - list [ref=e1087]:
+          - generic [ref=e1088] [cursor=pointer]: 
+          - generic [ref=e1089] [cursor=pointer]: 
+          - generic [ref=e1090] [cursor=pointer]: 
+    - text: 

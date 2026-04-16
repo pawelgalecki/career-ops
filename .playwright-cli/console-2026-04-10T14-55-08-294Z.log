@@ -1,0 +1,8 @@
+[    2404ms] [WARNING] JQMIGRATE: jQuery.fn.click() event shorthand is deprecated @ https://cdn.radancy.eu/bundles/jquery-client.js:18
+[    2405ms] [WARNING] JQMIGRATE: jQuery.type is deprecated @ https://cdn.radancy.eu/bundles/jquery-client.js:18
+[    2412ms] [WARNING] accessibility setting is no longer supported. @ https://cdn.radancy.eu/company/2649/js/slick.min.js:0
+[    2412ms] [WARNING] focusOnChange is no longer supported. @ https://cdn.radancy.eu/company/2649/js/slick.min.js:0
+[    2453ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at <anonymous> (https://cdn.radancy.eu/company/2649/js/1546-GST.min.js:27:6351)
+[    2462ms] [WARNING] JQMIGRATE: jQuery.trim is deprecated; use String.prototype.trim @ https://cdn.radancy.eu/bundles/jquery-client.js:18
+[    2701ms] [ERROR] Invalid 'X-Frame-Options' header encountered when loading 'https://sidebar.bugherd.com/': '' is not a recognized directive. The header will be ignored. @ https://sidebar.bugherd.com/sidebar/embed_html?apikey=dkjzy7zdpi4kougdfj5qlw:0

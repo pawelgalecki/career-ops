@@ -1,0 +1,122 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: https://www.facebook.com/BottegaItMinds/
+      - generic [ref=e4]: 
+    - link [ref=e5] [cursor=pointer]:
+      - /url: https://twitter.com/bottega_it
+      - generic [ref=e6]: 
+    - link [ref=e7] [cursor=pointer]:
+      - /url: https://www.linkedin.com/company/bottega-it-minds
+      - generic [ref=e8]: 
+    - link [ref=e9] [cursor=pointer]:
+      - /url: https://www.youtube.com/channel/UCNeyWe1dv6dRl9iypnFqHdA/playlists
+      - generic [ref=e10]: 
+  - navigation [ref=e11]:
+    - generic [ref=e14]:
+      - link [ref=e15] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - list [ref=e21]:
+            - listitem [ref=e22]:
+              - link "" [ref=e23] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e24]: 
+          - text: 
+          - list [ref=e25]:
+            - generic [ref=e26]:
+              - listitem [ref=e27]:
+                - link "Katalog szkoleń" [ref=e28] [cursor=pointer]:
+                  - /url: ""
+                - text: • • • • • • • • • • • • • • • • • • • • • • • • • •
+              - listitem [ref=e29]:
+                - link "Zapisy na terminy" [ref=e30] [cursor=pointer]:
+                  - /url: szkolenia-otwarte
+              - listitem [ref=e31]:
+                - link "AI-SDLC" [ref=e32] [cursor=pointer]:
+                  - /url: ai-sdlc
+              - listitem [ref=e33]:
+                - link "Usługi" [ref=e34] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e35]:
+                - link "O nas" [ref=e36] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e37]:
+                - link "Materiały" [ref=e38] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e39]:
+                - link "Nowości" [ref=e40] [cursor=pointer]:
+                  - /url: wydarzenia
+              - listitem [ref=e41]:
+                - link "Kontakt" [ref=e42] [cursor=pointer]:
+                  - /url: kontakt
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - link "PL" [ref=e45] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e46]:
+            - link "EN" [ref=e47] [cursor=pointer]:
+              - /url: index_en
+  - generic [ref=e48]:
+    - generic [ref=e49]:
+      - progressbar
+    - paragraph [ref=e60]:
+      - text: Szkolenia i warsztaty eksperckie -
+      - strong [ref=e61]: bo umysł to Twoje najważniejsze narzędzie
+  - heading "Niepoprawne żądanie" [level=2] [ref=e62]
+  - contentinfo [ref=e63]:
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - paragraph [ref=e66]: Wszelkie prawa zastrzeżone
+        - paragraph [ref=e67]: © Bottega IT Minds 2026
+        - paragraph [ref=e68]:
+          - text: Projekt i wykonanie
+          - link "Hello! Studio" [ref=e69] [cursor=pointer]:
+            - /url: http://hellostudio.eu
+      - list [ref=e71]:
+        - listitem [ref=e72]:
+          - link "Strona główna" [ref=e73] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e74]:
+          - link "Zapisy na szkolenia indywidualne Online" [ref=e75] [cursor=pointer]:
+            - /url: szkolenia-otwarte
+        - listitem [ref=e76]:
+          - link "Szkolenia dla firm" [ref=e77] [cursor=pointer]:
+            - /url: szkolenia
+        - listitem [ref=e78]:
+          - link "Warsztaty eksperckie" [ref=e79] [cursor=pointer]:
+            - /url: warsztaty-eksperckie
+        - listitem [ref=e80]:
+          - link "Klauzula informacyjna (RODO)" [ref=e81] [cursor=pointer]:
+            - /url: rodo
+        - listitem [ref=e82]:
+          - link "Dla HR" [ref=e83] [cursor=pointer]:
+            - /url: hr
+        - listitem [ref=e84]:
+          - link "Dla Managementu" [ref=e85] [cursor=pointer]:
+            - /url: management
+        - listitem [ref=e86]:
+          - link "Trenerzy" [ref=e87] [cursor=pointer]:
+            - /url: trenerzy
+        - listitem [ref=e88]:
+          - link "Artykuły i prezentacje" [ref=e89] [cursor=pointer]:
+            - /url: artykuly-i-prezentacje
+        - listitem [ref=e90]:
+          - link "Nowości" [ref=e91] [cursor=pointer]:
+            - /url: wydarzenia
+      - generic [ref=e92]:
+        - heading "Kontakt" [level=4] [ref=e93]
+        - paragraph [ref=e94]:
+          - link "81 473 29 44" [ref=e95] [cursor=pointer]:
+            - /url: tel:814732944
+            - generic [ref=e96]: 
+            - text: 81 473 29 44
+        - paragraph [ref=e97]:
+          - link "contact@bottega.com.pl" [ref=e98] [cursor=pointer]:
+            - /url: mailto:contact@bottega.com.pl
+            - generic [ref=e99]: 
+            - text: contact@bottega.com.pl
+        - paragraph [ref=e100]:
+          - link "więcej informacji »" [ref=e101] [cursor=pointer]:
+            - /url: kontakt

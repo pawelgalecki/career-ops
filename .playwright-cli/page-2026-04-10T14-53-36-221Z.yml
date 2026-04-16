@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Xebia" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "Artificial Intelligence" [ref=e14] [cursor=pointer]:
+              - /url: https://xebia.com/artificial-intelligence/
+              - text: Artificial Intelligence
+          - listitem [ref=e15]:
+            - link "Intelligent Automation" [ref=e16] [cursor=pointer]:
+              - /url: https://xebia.com/intelligent-automation/
+              - text: Intelligent Automation
+          - listitem [ref=e17]:
+            - link "Cloud & Data" [ref=e18] [cursor=pointer]:
+              - /url: https://xebia.com/cloud-data-modernization/
+              - text: Cloud & Data
+          - listitem [ref=e19]:
+            - link "Products & Platforms" [ref=e20] [cursor=pointer]:
+              - /url: https://xebia.com/digital-products-platforms/
+              - text: Products & Platforms
+      - generic [ref=e21]:
+        - list [ref=e24]:
+          - listitem [ref=e25]:
+            - link "Industries" [ref=e26] [cursor=pointer]:
+              - /url: https://xebia.com/industries/
+              - text: Industries
+          - listitem [ref=e27]:
+            - link "Partners" [ref=e28] [cursor=pointer]:
+              - /url: https://xebia.com/partners/
+              - text: Partners
+          - listitem [ref=e29]:
+            - link "Solutions" [ref=e30] [cursor=pointer]:
+              - /url: https://xebia.com/solutions/
+              - text: Solutions
+          - listitem [ref=e31]:
+            - link "Training" [ref=e32] [cursor=pointer]:
+              - /url: https://academy.xebia.com/
+              - text: Training
+          - listitem [ref=e33]:
+            - link "Careers" [ref=e34] [cursor=pointer]:
+              - /url: https://xebia.com/careers/
+              - text: Careers
+          - listitem [ref=e35]:
+            - link "About" [ref=e36] [cursor=pointer]:
+              - /url: "#"
+              - text: About
+        - link "Contact" [ref=e39] [cursor=pointer]:
+          - /url: /about-us/contact/
+          - generic [ref=e40]: Contact
+        - generic [ref=e42]:
+          - button "Submit Search" [ref=e43] [cursor=pointer]:
+            - img [ref=e45]
+          - textbox [ref=e48]
+        - button "English" [ref=e50] [cursor=pointer]:
+          - img "English" [ref=e51]
+          - img [ref=e53]
+  - main [ref=e56]:
+    - navigation "Breadcrumb navigation" [ref=e57]:
+      - list [ref=e59]:
+        - listitem [ref=e60]:
+          - link "Home" [ref=e61] [cursor=pointer]:
+            - /url: https://xebia.com
+            - generic [ref=e62]: Home
+            - img [ref=e64]
+        - listitem [ref=e67]:
+          - generic [ref=e68]: Careers
+    - generic [ref=e69]:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: ‌
+          - generic:
+            - generic:
+              - generic:
+                - heading "Become a Xebian" [level=2]
+                - paragraph: Joining Xebia means stepping into a culture that values craftsmanship, encourages knowledge sharing, and celebrates curiosity. You’ll work alongside top talent, solve complex challenges, and help some of the world’s leading companies achieve real, lasting impact.
+                - generic:
+                  - link "Join us!":
+                    - /url: "#openpositions"
+                    - generic: Join us!
+      - generic [ref=e71]:
+        - generic [ref=e74]: ‌
+        - generic [ref=e77]:
+          - heading "Become a Xebian" [level=2] [ref=e78]
+          - paragraph [ref=e79]: Joining Xebia means stepping into a culture that values craftsmanship, encourages knowledge sharing, and celebrates curiosity. You’ll work alongside top talent, solve complex challenges, and help some of the world’s leading companies achieve real, lasting impact.
+          - link "Join us!" [ref=e81] [cursor=pointer]:
+            - /url: "#openpositions"
+            - generic [ref=e82]: Join us!
+    - paragraph [ref=e86]:
+      - text: At Xebia, we don’t just consult — we collaborate, innovate, design, build, and scale technology solutions that shape the future. As a global IT consultancy and solutions provider, we help organizations become future-ready by delivering cutting-edge capabilities in digital strategy, AI, software engineering, data, cloud, intelligent automation, and beyond. Our people are trusted advisors, thought leaders, and hands-on experts — united by a passion for technology and a commitment to continuous learning.
+      - text: This isn’t just a job, it’s your next big leap. Ready to grow with us?
+    - generic [ref=e89]:
+      - generic [ref=e91]:
+        - heading "Great Place to Work" [level=3] [ref=e92]
+        - paragraph [ref=e93]: Xebia has been recognized as a certified Great Place to Work for four consecutive years.
+        - paragraph [ref=e95]: 4 years
+      - generic [ref=e97]:
+        - heading "Countries" [level=3] [ref=e98]
+        - paragraph [ref=e99]: With teams in over 16 countries, we combine global scale with local expertise to drive results.
+        - paragraph [ref=e101]: "16"
+      - generic [ref=e103]:
+        - heading "Offices Worldwide" [level=3] [ref=e104]
+        - paragraph [ref=e105]: With 28 offices around the world, we're close to our clients and connected to global innovation hubs.
+        - paragraph [ref=e107]: "28"
+      - generic [ref=e109]:
+        - heading "Global Workforce" [level=3] [ref=e110]
+        - paragraph [ref=e111]: Our team includes over 4,500 experts across disciplines, united by a shared passion for technology and impact.
+        - paragraph [ref=e113]: 4.5k+
+    - generic [ref=e115]:
+      - heading "Our Culture & Global Presence" [level=2] [ref=e117]
+      - generic [ref=e118]:
+        - generic [ref=e120]:
+          - generic [ref=e122]:
+            - heading "Mission, Values, and Principles" [level=3] [ref=e123]:
+              - button "Mission, Values, and Principles" [expanded] [ref=e124] [cursor=pointer]:
+                - generic [ref=e125]: Mission, Values, and Principles
+                - img [ref=e127]
+            - region:
+              - generic [ref=e131]:
+                - paragraph [ref=e132]: Our mission, values, and principles are at the core of everything we do. They guide how we work, grow, and create meaningful impact for our people, clients, and communities.
+                - link "Learn What Drives Us" [ref=e134] [cursor=pointer]:
+                  - /url: https://xebia.com/life-at-xebia/
+                  - generic [ref=e135]: Learn What Drives Us
+                  - img [ref=e137]
+          - generic [ref=e141]:
+            - heading "Life at Xebia" [level=3] [ref=e142]:
+              - button "Life at Xebia" [ref=e143] [cursor=pointer]:
+                - generic [ref=e144]: Life at Xebia
+                - img [ref=e146]
+            - region:
+              - generic [ref=e150]:
+                - paragraph [ref=e151]: Xebia aims to create an environment where people feel inspired to do their best work, supported by a culture of respect that values individuality, learning, and shared success.
+                - link [ref=e153] [cursor=pointer]:
+                  - /url: https://xebia.com/life-at-xebia/
+                  - generic [ref=e154]: Explore Our Culture
+                  - img [ref=e156]
+          - generic [ref=e160]:
+            - heading "Diversity and Inclusion" [level=3] [ref=e161]:
+              - button "Diversity and Inclusion" [ref=e162] [cursor=pointer]:
+                - generic [ref=e163]: Diversity and Inclusion
+                - img [ref=e165]
+            - region:
+              - generic [ref=e169]:
+                - paragraph [ref=e170]: Mutual respect and inclusivity are at the heart of Xebia. We’re committed to amplifying every voice, creating space for growth, and building a workplace where everyone belongs.
+                - link [ref=e172] [cursor=pointer]:
+                  - /url: https://xebia.com/diversity-equity-inclusion/
+                  - generic [ref=e173]: A Place to Belong
+                  - img [ref=e175]
+          - generic [ref=e179]:
+            - heading "Community Engagement & ESG" [level=3] [ref=e180]:
+              - button "Community Engagement & ESG" [ref=e181] [cursor=pointer]:
+                - generic [ref=e182]: Community Engagement & ESG
+                - img [ref=e184]
+            - region:
+              - generic [ref=e188]:
+                - paragraph [ref=e189]: Xebia supports communities through sustainability, education, and opportunity, striving to create lasting impact and a more inclusive future for all.
+                - link [ref=e191] [cursor=pointer]:
+                  - /url: https://xebia.com/xebia-cares/
+                  - generic [ref=e192]: See How We Engage
+                  - img [ref=e194]
+          - generic [ref=e198]:
+            - heading "Our Locations" [level=3] [ref=e199]:
+              - button "Our Locations" [ref=e200] [cursor=pointer]:
+                - generic [ref=e201]: Our Locations
+                - img [ref=e203]
+            - region:
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: Xebia’s global positioning connects diverse talent and perspectives, enabling us to deliver innovative solutions and drive meaningful impact for clients around the world.
+                - link [ref=e210] [cursor=pointer]:
+                  - /url: https://xebia.com/locations/
+                  - generic [ref=e211]: Where We Operate
+                  - img [ref=e213]
+        - generic [ref=e221]: ‌
+    - generic [ref=e222]:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: ‌
+          - generic:
+            - generic:
+              - generic:
+                - heading "Join us!" [level=2]
+                - paragraph: We offer more than just career opportunities; we invest in your personal and professional evolution.
+      - generic [ref=e224]:
+        - generic [ref=e227]: ‌
+        - generic [ref=e230]:
+          - heading "Join us!" [level=2] [ref=e231]
+          - paragraph [ref=e232]: We offer more than just career opportunities; we invest in your personal and professional evolution.
+    - paragraph [ref=e236]: At Xebia, you’ll take part in global projects, grow with top talent, and be part of a company that values people, innovation, and expertise.
+    - generic [ref=e238]:
+      - generic [ref=e239]:
+        - paragraph [ref=e240]: Join Us
+        - heading "Open Positions" [level=2] [ref=e241]
+      - generic [ref=e242]:
+        - link "APAC" [ref=e244] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiaapac
+          - heading "APAC" [level=3] [ref=e245]
+          - img [ref=e248]
+        - link "Benelux" [ref=e252] [cursor=pointer]:
+          - /url: https://xebiacareers.recruitee.com/
+          - heading "Benelux" [level=3] [ref=e253]
+          - img [ref=e256]
+        - link "DACH" [ref=e260] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiadach
+          - heading "DACH" [level=3] [ref=e261]
+          - img [ref=e264]
+        - link "France" [ref=e268] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiafrance
+          - heading "France" [level=3] [ref=e269]
+          - img [ref=e272]
+        - link "Latin America" [ref=e276] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebialatam
+          - heading "Latin America" [level=3] [ref=e277]
+          - img [ref=e280]
+        - link "MEA" [ref=e284] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiamea
+          - heading "MEA" [level=3] [ref=e285]
+          - img [ref=e288]
+        - link "North America (USA / Canada)" [ref=e292] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiausa
+          - heading "North America (USA / Canada)" [level=3] [ref=e293]
+          - img [ref=e296]
+        - link "Poland & Eastern Europe" [ref=e300] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiacee
+          - heading "Poland & Eastern Europe" [level=3] [ref=e301]
+          - img [ref=e304]
+        - link "Portugal" [ref=e308] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiaportugal
+          - heading "Portugal" [level=3] [ref=e309]
+          - img [ref=e312]
+        - link "UK" [ref=e316] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiauk
+          - heading "UK" [level=3] [ref=e317]
+          - img [ref=e320]
+        - link "Spain" [ref=e324] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/xebiaspain
+          - heading "Spain" [level=3] [ref=e325]
+          - img [ref=e328]
+    - generic [ref=e333]:
+      - generic [ref=e334]:
+        - paragraph [ref=e335]: Contact
+        - heading "Let’s discuss how we can support your journey." [level=2] [ref=e336]
+      - generic [ref=e339]:
+        - generic [ref=e342]: ‌
+        - generic [ref=e345]: ‌
+        - generic [ref=e348]: ‌
+        - generic [ref=e351]: ‌
+        - generic [ref=e354]: ‌
+        - generic [ref=e357]: ‌
+        - generic [ref=e360]: ‌
+        - generic [ref=e363]: ‌
+        - generic [ref=e366]: ‌
+  - contentinfo [ref=e367]:
+    - generic [ref=e369]:
+      - link "Xebia" [ref=e370] [cursor=pointer]:
+        - /url: /
+        - img [ref=e371]
+      - generic [ref=e378]:
+        - navigation [ref=e380]:
+          - list [ref=e381]:
+            - listitem [ref=e382]:
+              - link "Industries" [ref=e383] [cursor=pointer]:
+                - /url: https://xebia.com/industries/
+            - listitem [ref=e384]:
+              - link "Solutions" [ref=e385] [cursor=pointer]:
+                - /url: https://xebia.com/solutions/
+            - listitem [ref=e386]:
+              - link "Partner Ecosystem" [ref=e387] [cursor=pointer]:
+                - /url: https://xebia.com/partners/
+            - listitem [ref=e388]:
+              - link "Our Work" [ref=e389] [cursor=pointer]:
+                - /url: https://xebia.com/customer-stories/
+            - listitem [ref=e390]:
+              - link "Our Ideas" [ref=e391] [cursor=pointer]:
+                - /url: https://xebia.com/our-ideas/
+        - navigation [ref=e393]:
+          - list [ref=e394]:
+            - listitem [ref=e395]:
+              - link "Legal" [ref=e396] [cursor=pointer]:
+                - /url: https://xebia.com/legal/
+            - listitem [ref=e397]:
+              - link "Privacy Statement" [ref=e398] [cursor=pointer]:
+                - /url: https://xebia.com/privacy-statement/
+            - listitem [ref=e399]:
+              - link "Cookie Statement" [ref=e400] [cursor=pointer]:
+                - /url: https://xebia.com/cookie-statement/
+            - listitem [ref=e401]:
+              - link "Accessibility Statement" [ref=e402] [cursor=pointer]:
+                - /url: https://xebia.com/accessibility-statement/
+            - listitem [ref=e403]:
+              - link "Accreditations" [ref=e404] [cursor=pointer]:
+                - /url: https://xebia.com/accreditations/
+            - listitem [ref=e405]:
+              - link "Sitemap" [ref=e406] [cursor=pointer]:
+                - /url: /sitemap/
+        - navigation [ref=e408]:
+          - list [ref=e409]:
+            - listitem [ref=e410]:
+              - link "About Us" [ref=e411] [cursor=pointer]:
+                - /url: https://xebia.com/about-us/
+            - listitem [ref=e412]:
+              - link "Leadership" [ref=e413] [cursor=pointer]:
+                - /url: https://xebia.com/team/
+            - listitem [ref=e414]:
+              - link "Contact Us" [ref=e415] [cursor=pointer]:
+                - /url: https://xebia.com/about-us/contact/
+            - listitem [ref=e416]:
+              - link "Life at Xebia" [ref=e417] [cursor=pointer]:
+                - /url: https://xebia.com/life-at-xebia/
+            - listitem [ref=e418]:
+              - link "Newsletters" [ref=e419] [cursor=pointer]:
+                - /url: https://xebia.com/newsletters/
+            - listitem [ref=e420]:
+              - link "We are hiring!" [ref=e421] [cursor=pointer]:
+                - /url: https://xebia.com/careers/
+      - generic [ref=e422]:
+        - paragraph [ref=e424]: © 2025 Xebia. All Rights Reserved.
+        - generic [ref=e426]:
+          - paragraph [ref=e427]: "Connect with Us:"
+          - list [ref=e428]:
+            - listitem [ref=e429]:
+              - link "linkedin" [ref=e430] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/xebia
+                - img [ref=e431]
+            - listitem [ref=e434]:
+              - link "github" [ref=e435] [cursor=pointer]:
+                - /url: https://github.com/xebia
+                - img [ref=e436]
+            - listitem [ref=e440]:
+              - link "twitter" [ref=e441] [cursor=pointer]:
+                - /url: https://x.com/Xebia_Global/
+                - img [ref=e442]
+            - listitem [ref=e447]:
+              - link "facebook" [ref=e448] [cursor=pointer]:
+                - /url: https://www.facebook.com/XebiaGlobal/
+                - img [ref=e449]
+            - listitem [ref=e452]:
+              - link "youtube" [ref=e453] [cursor=pointer]:
+                - /url: https://www.youtube.com/@XebiaGlobal
+                - img [ref=e454]
+            - listitem [ref=e458]:
+              - link "instagram" [ref=e459] [cursor=pointer]:
+                - /url: https://www.instagram.com/life_at_xebia_global
+                - img [ref=e460]
+  - alert [ref=e464]
