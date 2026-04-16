@@ -1,0 +1,73 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Paweł Gałecki"
+  email: "pawel@galecki.pl"
+  phone: "+48 510 300 442"
+  location: "Warsaw, Poland"
+  linkedin: "https://www.linkedin.com/in/pawe%C5%82-ga%C5%82ecki-8a9a558/"           # TODO: add your LinkedIn URL
+  portfolio_url: ""      # TODO: add if you have a portfolio site
+  github: "https://github.com/pawelgalecki"             # TODO: add if relevant
+  # canva_resume_design_id: "DAxxxxxxxxx"
+
+target_roles:
+  # Your North Star roles — what you're optimizing for
+  primary:
+    - "Staff Backend Engineer"
+    - "Principal Engineer"
+    - "Technical Architect"
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    - name: "Staff/Principal Backend Engineer"
+      level: "Staff/Principal"
+      fit: "primary"
+    - name: "Technical Architect / Software Architect"
+      level: "Staff/Principal"
+      fit: "primary"
+    - name: "Senior Backend Engineer (Java/Spring)"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Senior Fullstack Engineer"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Engineering Manager / Head of Engineering"
+      level: "Senior"
+      fit: "adjacent"
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "Staff Backend Engineer & Technical Architect | 21 yrs Java/Spring | Payments, Streaming & Distributed Systems"
+  # What makes you unique vs. other senior Java engineers
+  exit_story: "21+ years of hands-on Java/Spring, always close to production. I've been the technical anchor at Sky (streaming, millions of users), Allegro (largest Polish e-commerce), and now RedCompass Labs (ISO 20022 payments). I combine deep backend engineering with architectural ownership and team leadership — I don't just write code, I set the standards others follow."
+  # Your top 3-5 superpowers
+  superpowers:
+    - "Java/Spring ecosystem depth (Core, Boot, Cloud, Data, Batch, Security) — 21 years production use"
+    - "Distributed systems design: Kafka, Cassandra, Redis at scale"
+    - "Performance and resilience engineering — diagnosing bottlenecks under production load"
+    - "Technical leadership: defining standards, mentoring senior engineers, owning architecture strategy"
+    - "Payments and regulated financial services (ISO 20022, billing systems, identity/access management)"
+  # Proof points — TODO: add specific URLs or articles if you have them
+  proof_points: []
+  # proof_points:
+  #   - name: "Article / project title"
+  #     url: "https://..."
+  #     hero_metric: "Measurable impact"
+
+compensation:
+  target_range: "€9800-11000/month"        # TODO: fill in your target (e.g. "25 000–35 000 PLN/month" or "€80K–110K/year")
+  currency: "PLN"         # or EUR for international roles
+  minimum: "€9500/month"             # TODO: your walk-away number
+  location_flexibility: "Remote or hybrid in Warsaw. Not open to relocation."
+
+location:
+  country: "Poland"
+  city: "Warsaw"
+  timezone: "CET (UTC+1)"
+  visa_status: "EU citizen, no sponsorship needed"
+  availability: "1 calendar month notice"
+  relocation: "No — Warsaw only. Hybrid/on-site must be in Warsaw."
+
+# Language settings
+language:
+  modes_dir: modes   # use modes/de for German JDs, modes/fr for French JDs

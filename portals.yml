@@ -1,0 +1,916 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# Tailored for: Staff/Principal Backend Engineer, Technical Architect,
+#               Senior Backend/Fullstack — Java/Spring, distributed systems,
+#               fintech/payments/e-commerce/streaming. Warsaw-based, EU/remote.
+
+# -- Title filter --
+
+title_filter:
+  positive:
+    # -- Backend / Software Engineer --
+    - "Backend Engineer"
+    - "Backend Developer"
+    - "Software Engineer"
+    - "Software Developer"
+    - "Platform Engineer"
+    - "Java"
+    - "Java Developer"
+    - "Java Engineer"
+    - "Spring"
+    - "Spring Boot"
+    - "JVM"
+    - "Kotlin"
+    # -- Fullstack --
+    - "Fullstack"
+    - "Full Stack"
+    - "Full-Stack"
+    # -- Architecture / Leadership --
+    - "Technical Architect"
+    - "Software Architect"
+    - "Solutions Architect"
+    - "System Architect"
+    - "Tech Lead"
+    - "Engineering Lead"
+    # -- Infrastructure / Distributed Systems --
+    - "Distributed Systems"
+    - "Microservices"
+    - "Infrastructure Engineer"
+    # -- Payments / Fintech --
+    - "Payments Engineer"
+    - "Payments"
+    - "Fintech"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Graduate"
+    - ".NET"
+    - "C#"
+    - "PHP"
+    - "Ruby"
+    - "Rails"
+    - "iOS"
+    - "Android"
+    - "Mobile"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+    - "COBOL"
+    - "Data Scientist"
+    - "Machine Learning"
+    - "ML Engineer"
+    - "AI Engineer"
+    - "NLP"
+    - "Computer Vision"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Architect"
+
+# -- Search queries --
+
+search_queries:
+
+  # -- Ashby --
+  - name: Ashby — Senior/Staff Backend Java
+    query: 'site:jobs.ashbyhq.com "Staff Backend Engineer" OR "Senior Backend Engineer" OR "Java" OR "Spring" remote Europe'
+    enabled: true
+
+  - name: Ashby — Technical Architect
+    query: 'site:jobs.ashbyhq.com "Technical Architect" OR "Software Architect" OR "Solutions Architect" remote Europe'
+    enabled: true
+
+  - name: Ashby — Platform Engineer
+    query: 'site:jobs.ashbyhq.com "Platform Engineer" OR "Infrastructure Engineer" OR "Staff Engineer" Java OR Kotlin remote'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — Backend Java/Spring
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Backend Engineer" OR "Software Engineer" "Java" OR "Spring" remote Europe'
+    enabled: true
+
+  - name: Greenhouse — Staff/Principal Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Staff Engineer" OR "Principal Engineer" backend remote Europe'
+    enabled: true
+
+  - name: Greenhouse — Technical Architect
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Technical Architect" OR "Software Architect" OR "System Architect" remote Europe'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Backend Senior/Staff
+    query: 'site:jobs.lever.co "Senior Backend" OR "Staff Backend" OR "Senior Software Engineer" Java OR Kotlin remote Europe'
+    enabled: true
+
+  - name: Lever — Architect roles
+    query: 'site:jobs.lever.co "Technical Architect" OR "Software Architect" OR "Principal Engineer" remote Europe'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — Senior Backend
+    query: 'site:wellfound.com "Senior Backend Engineer" OR "Staff Engineer" Java OR Spring remote Europe'
+    enabled: true
+
+  # -- Workable --
+  - name: Workable — Backend/Architect
+    query: 'site:apply.workable.com "Backend Engineer" OR "Software Architect" OR "Technical Architect" Java OR Spring remote Europe'
+    enabled: true
+
+  # -- Payments / Fintech specific --
+  - name: Payments Backend — All portals
+    query: '"Payments Engineer" OR "Payment Systems" "Backend" OR "Java" OR "Spring" remote Europe'
+    enabled: true
+
+  - name: Fintech Backend — All portals
+    query: '"fintech" "Senior Backend" OR "Staff Engineer" OR "Technical Architect" Java OR Spring remote Europe'
+    enabled: true
+
+  # -- Remote-friendly Europe boards --
+
+  - name: Remotive — Backend/Architect
+    query: 'site:remotive.com "Backend Engineer" OR "Software Architect" OR "Technical Architect" OR "Staff Engineer" Java Europe'
+    enabled: true
+
+  - name: WeWorkRemotely — Backend Senior
+    query: 'site:weworkremotely.com "Backend" OR "Fullstack" "Senior" OR "Staff" OR "Architect" Java OR Kotlin'
+    enabled: true
+
+  - name: RemoteOK — Java Backend
+    query: 'site:remoteok.com "Backend Engineer" OR "Java" OR "Software Architect" OR "Staff Engineer"'
+    enabled: true
+
+  - name: EU Remote Jobs — Backend
+    query: 'site:euremotejobs.com "Backend" OR "Java" OR "Spring" "Engineer" OR "Architect" remote Europe'
+    enabled: true
+
+  # -- Polish job boards --
+
+  - name: NoFluffJobs — Java Backend
+    query: 'site:nofluffjobs.com Java OR Spring OR "Backend" senior OR staff OR architect remote OR Warsaw'
+    enabled: true
+
+  - name: JustJoinIT — Java Senior
+    query: 'site:justjoin.it Java OR Spring OR Kotlin "senior" OR "staff" OR "architect" OR "lead" Warsaw OR remote'
+    enabled: true
+
+  - name: Bulldogjob — Java/Spring
+    query: 'site:bulldogjob.pl Java OR Spring OR Kotlin senior OR architect'
+    enabled: true
+
+  - name: Pracuj.pl — Java Senior Warsaw
+    query: 'site:pracuj.pl Java OR Spring OR "Backend" OR "Fullstack" senior OR architect Warszawa OR Warsaw OR remote'
+    enabled: true
+
+  - name: Pracuj.pl — Architect/Lead
+    query: 'site:pracuj.pl "Technical Architect" OR "Software Architect" OR "Tech Lead" OR "Principal" Java Warszawa'
+    enabled: true
+
+  - name: theprotocol.it — Java Backend
+    query: 'site:theprotocol.it Java OR Spring OR Kotlin senior OR architect Warsaw OR remote'
+    enabled: true
+
+  - name: Inhire — Java Senior
+    query: 'site:inhire.io Java OR Spring OR "Backend Engineer" OR "Fullstack" senior OR staff Warsaw OR remote'
+    enabled: true
+
+  - name: Solid.Jobs — Java/Spring
+    query: 'site:solid.jobs Java OR Spring OR Kotlin senior OR architect Warsaw OR remote'
+    enabled: true
+
+  # -- Polish & EU recruitment agencies --
+
+  - name: Devire — Java/Backend Warsaw
+    query: 'site:devire.pl Java OR Spring OR "Backend" OR "Architect" OR "Software Engineer" Warszawa OR Warsaw'
+    enabled: true
+
+  - name: Avenga — Java/Backend Poland
+    query: 'site:avenga.com/careers OR site:avenga.com/jobs Java OR Spring OR "Backend" OR "Architect" Poland OR Warsaw OR remote'
+    enabled: true
+
+  - name: TEKsystems — Java Warsaw
+    query: 'site:teksystems.com Java OR Spring OR "Backend" OR "Software Engineer" Warsaw OR Poland'
+    enabled: true
+
+  - name: Hays Poland — Java/Backend
+    query: 'site:hays.pl Java OR Spring OR "Backend" OR "Fullstack" OR "Architect" senior Warszawa OR Warsaw'
+    enabled: true
+
+  - name: Michael Page — IT Poland
+    query: 'site:michaelpage.pl Java OR Spring OR "Backend" OR "Software" OR "Architect" Warszawa OR Warsaw'
+    enabled: true
+
+  - name: Randstad — IT Poland
+    query: 'site:randstad.pl Java OR Spring OR "Backend" OR "Software" OR "Architect" Warszawa OR Warsaw'
+    enabled: true
+
+  - name: Antal — IT Poland
+    query: 'site:antal.pl Java OR Spring OR "Backend" OR "Software" OR "Architect" Warszawa OR Warsaw'
+    enabled: true
+
+  # -- European aggregators & boards --
+
+  - name: LinkedIn — Java Backend Warsaw/Remote
+    query: 'site:linkedin.com/jobs "Java" OR "Spring Boot" "Senior" OR "Staff" OR "Architect" Warsaw OR remote Poland'
+    enabled: true
+
+  - name: Glassdoor — Java Backend Warsaw
+    query: 'site:glassdoor.com/job Java OR Spring "Backend" OR "Software Engineer" OR "Architect" Warsaw OR Poland remote'
+    enabled: true
+
+  - name: Indeed — Java Poland
+    query: 'site:indeed.com Java OR Spring "Backend" OR "Architect" OR "Software Engineer" Poland OR Warsaw remote'
+    enabled: true
+
+  # -- HN Who's Hiring --
+  - name: HN Who's Hiring — Backend/Java
+    query: 'site:news.ycombinator.com "who is hiring" "Java" OR "Kotlin" OR "Backend" OR "Spring" remote Europe'
+    enabled: true
+
+  # -- YC --
+  - name: YC Jobs — Backend/Infra
+    query: 'site:workatastartup.com "Backend Engineer" OR "Staff Engineer" OR "Founding Engineer" Java OR Kotlin remote Europe'
+    enabled: true
+
+# -- Tracked companies --
+
+tracked_companies:
+
+  # ==========================================
+  # FINTECH / PAYMENTS / BANKING
+  # ==========================================
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs "Backend" OR "Staff" OR "Infrastructure" OR "Payments" Europe OR remote'
+    notes: "Global payments infrastructure. Java/Ruby/Go backend. Remote-friendly EU."
+    enabled: true
+
+  - name: Adyen
+    careers_url: https://careers.adyen.com
+    scan_method: websearch
+    scan_query: 'site:careers.adyen.com "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Amsterdam. Payments platform. Java-heavy backend."
+    enabled: true
+
+  - name: Klarna
+    careers_url: https://jobs.lever.co/klarna
+    notes: "Stockholm. Buy-now-pay-later. Java/Spring backend."
+    enabled: true
+
+  - name: Revolut
+    careers_url: https://jobs.lever.co/revolut
+    notes: "London/Remote. Neobank. Java/Kotlin backend, large eng org."
+    enabled: true
+
+  - name: Wise (TransferWise)
+    careers_url: https://job-boards.greenhouse.io/transferwise
+    api: https://boards-api.greenhouse.io/v1/boards/transferwise/jobs
+    notes: "London/Tallinn. International transfers. Java/Kotlin."
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://job-boards.greenhouse.io/checkout
+    api: https://boards-api.greenhouse.io/v1/boards/checkout/jobs
+    notes: "London. Payments processing. Large Java backend."
+    enabled: true
+
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+    api: https://boards-api.greenhouse.io/v1/boards/gocardless/jobs
+    notes: "London. Bank-to-bank payments. Remote-friendly."
+    enabled: true
+
+  - name: Mollie
+    careers_url: https://jobs.mollie.com
+    scan_method: websearch
+    scan_query: 'site:jobs.mollie.com "Backend" OR "Java" OR "Engineer" OR "Architect"'
+    notes: "Amsterdam. European payments. Growing eng team."
+    enabled: true
+
+  - name: Form3
+    careers_url: https://job-boards.greenhouse.io/form3
+    api: https://boards-api.greenhouse.io/v1/boards/form3/jobs
+    notes: "London/Remote. Cloud-native payments API. Go/Java."
+    enabled: true
+
+  - name: Thought Machine
+    careers_url: https://job-boards.greenhouse.io/thoughtmachine
+    api: https://boards-api.greenhouse.io/v1/boards/thoughtmachine/jobs
+    notes: "London. Cloud-native core banking (Vault). Java backend."
+    enabled: true
+
+  - name: Mambu
+    careers_url: https://job-boards.greenhouse.io/mamaborlin
+    api: https://boards-api.greenhouse.io/v1/boards/mamaborlin/jobs
+    notes: "Berlin/Amsterdam/Remote. SaaS core banking platform. Java."
+    enabled: true
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin/Barcelona. Mobile bank. ~50 roles."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin. Neobroker. Platform & backend."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin/London. Payments fintech."
+    enabled: true
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris/Berlin/Barcelona/Milan. SMB neobank."
+    enabled: true
+
+  # ==========================================
+  # E-COMMERCE / MARKETPLACE
+  # ==========================================
+
+  - name: Allegro
+    careers_url: https://job-boards.greenhouse.io/allegro
+    api: https://boards-api.greenhouse.io/v1/boards/allegro/jobs
+    notes: "Warsaw/Poznań. Largest PL e-commerce. Java/Kotlin. Paweł worked here 2017-2018."
+    enabled: true
+
+  - name: Zalando
+    careers_url: https://jobs.zalando.com
+    scan_method: websearch
+    scan_query: 'site:jobs.zalando.com "Backend" OR "Java" OR "Kotlin" OR "Staff" OR "Architect"'
+    notes: "Berlin. Fashion e-commerce. Large Java/Kotlin backend org."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel marketplace."
+    enabled: true
+
+  - name: Vinted
+    careers_url: https://jobs.lever.co/vinted
+    notes: "Vilnius/Berlin. C2C marketplace unicorn."
+    enabled: true
+
+  - name: About You
+    careers_url: https://corporate.aboutyou.de/en/jobs
+    scan_method: websearch
+    scan_query: 'site:corporate.aboutyou.de/en/jobs "Backend" OR "Java" OR "Engineer" OR "Architect"'
+    notes: "Hamburg. Fashion e-commerce. Java/Kotlin."
+    enabled: true
+
+  - name: Shopify
+    careers_url: https://job-boards.greenhouse.io/shopify
+    api: https://boards-api.greenhouse.io/v1/boards/shopify/jobs
+    notes: "Remote. Global e-commerce platform."
+    enabled: true
+
+  # ==========================================
+  # STREAMING / MEDIA
+  # ==========================================
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm/London. Audio platform. Java/Spring backend. Large eng org."
+    enabled: true
+
+  - name: DAZN
+    careers_url: https://jobs.lever.co/dazn
+    notes: "London/Amsterdam. Sports streaming. Microservices at scale."
+    enabled: true
+
+  # ==========================================
+  # DEVELOPER TOOLS / INFRASTRUCTURE
+  # ==========================================
+
+  - name: Confluent
+    careers_url: https://job-boards.greenhouse.io/confluent
+    api: https://boards-api.greenhouse.io/v1/boards/confluent/jobs
+    notes: "Remote. Apache Kafka company. Java core. Highly relevant."
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://jobs.elastic.co
+    scan_method: websearch
+    scan_query: 'site:jobs.elastic.co "Backend" OR "Java" OR "Distributed Systems" OR "Staff" remote'
+    notes: "Remote-first. Elasticsearch. Java core."
+    enabled: true
+
+  - name: Grafana Labs
+    careers_url: https://job-boards.greenhouse.io/grafanalabs
+    api: https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs
+    notes: "Remote. Observability stack. Go/Java."
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    api: https://boards-api.greenhouse.io/v1/boards/datadog/jobs
+    notes: "NYC/Paris/Remote. Observability. Java/Go backend."
+    enabled: true
+
+  - name: Temporal
+    careers_url: https://job-boards.greenhouse.io/temporal
+    api: https://boards-api.greenhouse.io/v1/boards/temporal/jobs
+    notes: "Remote. Workflow orchestration. Java SDK is core."
+    enabled: true
+
+  - name: JetBrains
+    careers_url: https://www.jetbrains.com/careers/jobs/
+    scan_method: websearch
+    scan_query: 'site:jetbrains.com/careers "Backend" OR "Java" OR "Kotlin" OR "Staff" OR "Architect" Europe'
+    notes: "Prague/Amsterdam/Remote. IDE maker. JVM ecosystem."
+    enabled: true
+
+  - name: MongoDB
+    careers_url: https://job-boards.greenhouse.io/mongodb
+    api: https://boards-api.greenhouse.io/v1/boards/mongodb/jobs
+    notes: "NYC/Dublin/Remote. Database platform."
+    enabled: true
+
+  - name: Redis
+    careers_url: https://job-boards.greenhouse.io/redis
+    api: https://boards-api.greenhouse.io/v1/boards/redis/jobs
+    notes: "Tel Aviv/London/Remote. In-memory data store."
+    enabled: true
+
+  - name: PlanetScale
+    careers_url: https://job-boards.greenhouse.io/planetscale
+    api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
+    notes: "Remote. Serverless MySQL platform."
+    enabled: true
+
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/supabase'
+    notes: "Remote. Open-source Firebase alternative. Postgres-based."
+    enabled: true
+
+  # ==========================================
+  # BIG TECH WITH EU / POLAND PRESENCE
+  # ==========================================
+
+  - name: Google
+    careers_url: https://www.google.com/about/careers/applications/jobs/results
+    scan_method: websearch
+    scan_query: 'site:google.com/about/careers "Software Engineer" OR "Backend" OR "Staff" Warsaw OR Poland OR remote'
+    notes: "Warsaw office. Large backend org."
+    enabled: true
+
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Software Engineer" OR "Backend" OR "Architect" Warsaw OR Poland Java'
+    notes: "Warsaw office."
+    enabled: true
+
+  - name: Oracle
+    careers_url: https://careers.oracle.com
+    scan_method: websearch
+    scan_query: 'site:careers.oracle.com "Java" OR "Backend" OR "Staff" OR "Architect" Warsaw OR Poland OR remote'
+    notes: "Warsaw office. Java creator."
+    enabled: true
+
+  - name: Red Hat (IBM)
+    careers_url: https://careers-redhat.icims.com
+    scan_method: websearch
+    scan_query: 'site:careers-redhat.icims.com "Java" OR "Backend" OR "Architect" OR "Middleware" Europe OR remote'
+    notes: "Remote EU. Enterprise Java middleware. Quarkus."
+    enabled: true
+
+  - name: Atlassian
+    careers_url: https://job-boards.greenhouse.io/atlassian
+    api: https://boards-api.greenhouse.io/v1/boards/atlassian/jobs
+    notes: "Sydney/Remote. Dev tools. Java backend."
+    enabled: true
+
+  # ==========================================
+  # EUROPEAN TECH / SaaS
+  # ==========================================
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin/Denver. Headless CMS."
+    enabled: true
+
+  - name: HelloFresh
+    careers_url: https://job-boards.greenhouse.io/hellofresh
+    api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
+    notes: "Berlin. Meal-kit company. Large backend org."
+    enabled: true
+
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+    notes: "Munich/NYC. Process intelligence. Java backend."
+    enabled: true
+
+  - name: DeepL
+    careers_url: https://jobs.ashbyhq.com/DeepL
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/DeepL "Backend" OR "Java" OR "Software Engineer"'
+    notes: "Cologne. Translation platform. DACH. 60+ open roles."
+    enabled: true
+
+  - name: Factorial
+    careers_url: https://job-boards.greenhouse.io/factorial
+    scan_method: websearch
+    scan_query: 'site:jobs.greenhouse.io/factorial "Backend" OR "Software Engineer"'
+    notes: "Barcelona. HR SaaS unicorn."
+    enabled: true
+
+  - name: Travelperk
+    careers_url: https://jobs.ashbyhq.com/travelperk
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/travelperk "Backend" OR "Java" OR "Engineer"'
+    notes: "Barcelona. Business travel unicorn."
+    enabled: true
+
+  - name: Tinybird
+    careers_url: https://jobs.ashbyhq.com/tinybird
+    scan_method: websearch
+    scan_query: 'site:tinybird.co/careers OR site:jobs.ashbyhq.com/tinybird'
+    notes: "Remote. Real-time data platform."
+    enabled: true
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    scan_method: websearch
+    scan_query: 'site:attio.com/careers OR site:jobs.ashbyhq.com/attio'
+    notes: "Remote EU. CRM. Series B $52M."
+    enabled: true
+
+  # ==========================================
+  # POLAND-BASED / PL-FRIENDLY COMPANIES
+  # ==========================================
+
+  - name: OLX Group
+    careers_url: https://jobs.lever.co/olxgroup
+    notes: "Poznań/Warsaw. Classifieds platform. Java/Kotlin backend."
+    enabled: true
+
+  - name: Docplanner
+    careers_url: https://job-boards.greenhouse.io/docplanner
+    api: https://boards-api.greenhouse.io/v1/boards/docplanner/jobs
+    notes: "Warsaw/Barcelona. Healthcare marketplace. Java backend."
+    enabled: true
+
+  - name: Epassi (Benefit Systems)
+    careers_url: https://www.epassi.com/careers
+    scan_method: websearch
+    scan_query: 'site:epassi.com/careers "Backend" OR "Java" OR "Engineer" Poland OR Warsaw OR remote'
+    notes: "Helsinki/Warsaw. Employee benefits platform."
+    enabled: true
+
+  - name: MBank
+    careers_url: https://www.mbank.pl/kariera
+    scan_method: websearch
+    scan_query: 'site:mbank.pl/kariera "Java" OR "Backend" OR "Architect" OR "Software Engineer"'
+    notes: "Warsaw. Polish bank. Java backend."
+    enabled: true
+
+  - name: ING Tech Poland
+    careers_url: https://careers.ing.com/polska
+    scan_method: websearch
+    scan_query: 'site:careers.ing.com/polska "Java" OR "Backend" OR "Architect" OR "Software" Warsaw OR Katowice'
+    notes: "Warsaw/Katowice. ING Bank tech hub. Java-heavy."
+    enabled: true
+
+  - name: Samsung R&D Poland
+    careers_url: https://www.samsung.com/pl/about-us/careers/
+    scan_method: websearch
+    scan_query: 'site:samsung.com/pl "Java" OR "Backend" OR "Software Engineer" OR "Architect" Warsaw'
+    notes: "Warsaw. R&D center. Backend and platform roles."
+    enabled: true
+
+  - name: CD Projekt RED
+    careers_url: https://job-boards.greenhouse.io/cdprojektred
+    api: https://boards-api.greenhouse.io/v1/boards/cdprojektred/jobs
+    notes: "Warsaw. Game studio, but has backend/platform/tools eng."
+    enabled: true
+
+  - name: PZU (Group)
+    careers_url: https://www.pzu.pl/kariera
+    scan_method: websearch
+    scan_query: 'site:pzu.pl/kariera "Java" OR "Backend" OR "Architect" OR "programista"'
+    notes: "Warsaw. Largest PL insurer. Digital transformation, hybrid work."
+    enabled: true
+
+  - name: Citi Poland
+    careers_url: https://jobs.citi.com
+    scan_method: websearch
+    scan_query: 'site:jobs.citi.com "Java" OR "Backend" OR "Software Engineer" OR "Architect" Warsaw OR Poland'
+    notes: "Warsaw. Citibank tech hub. Java/Spring backend."
+    enabled: true
+
+  - name: Credit Suisse / UBS Poland
+    careers_url: https://www.ubs.com/global/en/careers.html
+    scan_method: websearch
+    scan_query: 'site:ubs.com/global/en/careers "Java" OR "Backend" OR "Software" OR "Architect" Poland OR Wroclaw'
+    notes: "Wrocław. Investment banking tech. Java."
+    enabled: true
+
+  - name: Dynatrace Poland
+    careers_url: https://www.dynatrace.com/careers/
+    scan_method: websearch
+    scan_query: 'site:dynatrace.com/careers "Java" OR "Backend" OR "Software Engineer" Gdansk OR Poland'
+    notes: "Gdańsk. Observability platform. Java backend."
+    enabled: true
+
+  # ==========================================
+  # PHARMA / LIFE SCIENCES (ROCHE + SIMILAR)
+  # ==========================================
+
+  - name: Roche
+    careers_url: https://careers.roche.com/global/en
+    scan_method: websearch
+    scan_query: 'site:careers.roche.com "Software Engineer" OR "Backend" OR "Java" OR "Architect" Poland OR Warsaw OR remote'
+    notes: "Basel. Global pharma. Tech center in Warsaw. Java/Spring backend."
+    enabled: true
+
+  - name: Novartis
+    careers_url: https://www.novartis.com/careers
+    scan_method: websearch
+    scan_query: 'site:novartis.com/careers "Software Engineer" OR "Backend" OR "Java" OR "Architect" Poland OR Warsaw OR remote'
+    notes: "Basel. Global pharma. Poland tech presence. Java backend."
+    enabled: true
+
+  - name: AstraZeneca
+    careers_url: https://careers.astrazeneca.com
+    scan_method: websearch
+    scan_query: 'site:careers.astrazeneca.com "Software Engineer" OR "Backend" OR "Java" OR "Architect" Warsaw OR Poland OR remote'
+    notes: "Cambridge/Warsaw. Global pharma. Warsaw tech office. Java/Spring."
+    enabled: true
+
+  - name: GSK (GlaxoSmithKline)
+    careers_url: https://www.gsk.com/en-gb/careers/
+    scan_method: websearch
+    scan_query: 'site:gsk.com/en-gb/careers "Software Engineer" OR "Backend" OR "Java" OR "Architect" Poland OR Warsaw OR remote'
+    notes: "London. Global pharma. Poland tech hub. Java backend."
+    enabled: true
+
+  - name: Sanofi
+    careers_url: https://jobs.sanofi.com/en
+    scan_method: websearch
+    scan_query: 'site:jobs.sanofi.com "Software Engineer" OR "Backend" OR "Java" OR "Architect" Poland OR Warsaw OR remote'
+    notes: "Paris. Global pharma. Warsaw tech hub. Java/Spring."
+    enabled: true
+
+  - name: Bayer
+    careers_url: https://jobs.bayer.com
+    scan_method: websearch
+    scan_query: 'site:jobs.bayer.com "Software Engineer" OR "Backend" OR "Java" OR "Architect" Poland OR Warsaw OR remote'
+    notes: "Leverkusen. Pharma/agri. Warsaw/Kraków presence. Java backend."
+    enabled: true
+
+  # ==========================================
+  # POLISH SOFTWARE HOUSES / CONSULTANCIES
+  # (similar to SoftwareMill — NOT SoftwareMill)
+  # ==========================================
+
+  - name: VirtusLab
+    careers_url: https://virtuslab.com/careers
+    scan_method: websearch
+    scan_query: 'site:virtuslab.com/careers "Backend" OR "Java" OR "Kotlin" OR "Scala" OR "Software Engineer" OR "Architect"'
+    notes: "Kraków/Remote. JVM experts (Scala/Kotlin/Java). Cloud-native, OSS contributors."
+    enabled: true
+
+  - name: TouK
+    careers_url: https://touk.pl/kariera
+    scan_method: websearch
+    scan_query: 'site:touk.pl/kariera "Java" OR "Backend" OR "Kotlin" OR "Architect" OR "Software Engineer"'
+    notes: "Warsaw. Software house. Java/Spring, distributed systems. Strong tech culture."
+    enabled: true
+
+  - name: Bottega IT
+    careers_url: https://bottega.com.pl/praca
+    scan_method: websearch
+    scan_query: 'site:bottega.com.pl "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Warsaw/Remote. Polish software house & training. Java/Spring."
+    enabled: true
+
+  - name: Xebia
+    careers_url: https://xebia.com/careers/
+    scan_method: websearch
+    scan_query: 'site:xebia.com/careers "Java" OR "Backend" OR "Software Engineer" OR "Architect" Poland OR remote'
+    notes: "Amsterdam + Warsaw. IT consultancy. Java/Spring. Agile/craftsmanship culture."
+    enabled: true
+
+  - name: Netcompany
+    careers_url: https://netcompany.com/careers/
+    scan_method: websearch
+    scan_query: 'site:netcompany.com/careers "Java" OR "Backend" OR "Software Engineer" OR "Architect" Poland OR remote'
+    notes: "Copenhagen + Warsaw. IT services. Java/Spring enterprise. GeeCON sponsor."
+    enabled: true
+
+  # ==========================================
+  # CONFERENCE SPONSORS (PL JAVA COMMUNITY)
+  # ==========================================
+
+  - name: InPost
+    careers_url: https://inpost.pl/kariera
+    scan_method: websearch
+    scan_query: 'site:inpost.pl/kariera "Java" OR "Backend" OR "Software Engineer" OR "Architect" OR "Kotlin"'
+    notes: "Kraków. Poland's largest parcel delivery. Large Java/Spring backend org. Confitura gold sponsor."
+    enabled: true
+
+  - name: XTB
+    careers_url: https://www.xtb.com/pl/kariera
+    scan_method: websearch
+    scan_query: 'site:xtb.com/pl/kariera "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Warsaw. Polish online broker. Big tech team. BoilingFrogs & Confitura sponsor."
+    enabled: true
+
+  - name: Sportradar
+    careers_url: https://sportradar.com/careers/
+    scan_method: websearch
+    scan_query: 'site:sportradar.com/careers "Java" OR "Backend" OR "Software Engineer" OR "Architect" Poland OR remote'
+    notes: "St. Gallen + Kraków/Warsaw. Sports data. Java/Kotlin backend at scale. BoilingFrogs sponsor."
+    enabled: true
+
+  - name: Tesco Technology Poland
+    careers_url: https://www.tesco.com/careers/en-PL/poland
+    scan_method: websearch
+    scan_query: 'site:tesco.com/careers/en-PL "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Kraków. Tesco's global tech hub. Java/Spring at scale. GeeCON platinum & Devoxx Gold Plus sponsor."
+    enabled: true
+
+  - name: Capgemini Poland
+    careers_url: https://www.capgemini.com/pl-pl/kariera/
+    scan_method: websearch
+    scan_query: 'site:capgemini.com/pl-pl "Java" OR "Backend" OR "Software Engineer" OR "Architect" OR "Spring" Warszawa OR Wrocław OR Kraków'
+    notes: "Global consultancy. Poland offices (Warsaw/Wrocław/Kraków). Java/Spring roles. BoilingFrogs sponsor."
+    enabled: true
+
+  - name: Sabre
+    careers_url: https://www.sabre.com/careers/
+    scan_method: websearch
+    scan_query: 'site:sabre.com/careers "Java" OR "Backend" OR "Software Engineer" OR "Architect" Poland OR Kraków OR Warsaw OR remote'
+    notes: "Southlake TX + Kraków. Travel tech. Java/Spring at scale. GeeCON silver sponsor."
+    enabled: true
+
+  - name: Match-Trade Technologies
+    careers_url: https://match-trade.com/career/
+    scan_method: websearch
+    scan_query: 'site:match-trade.com/career "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Warsaw. Polish fintech. FX/crypto trading platform. Java/Spring. Confitura silver sponsor."
+    enabled: true
+
+  - name: Decerto
+    careers_url: https://www.decerto.com/eu/career
+    scan_method: websearch
+    scan_query: 'site:decerto.com "Java" OR "Backend" OR "Software Engineer" OR "Architect"'
+    notes: "Warsaw. Polish insurtech/software house. Java/Spring. Confitura gold sponsor."
+    enabled: true
+
+  # ==========================================
+  # RECRUITMENT AGENCIES / STAFFING (POLAND)
+  # ==========================================
+
+  - name: Avenga
+    careers_url: https://career.avenga.com/
+    scan_method: websearch
+    scan_query: 'site:career.avenga.com OR site:avenga.com/careers "Java" OR "Backend" OR "Architect" OR "Spring" Poland OR Warsaw'
+    notes: "IT consulting/staffing. EU presence, PL offices."
+    enabled: true
+
+  - name: TEKsystems
+    careers_url: https://careers.teksystems.com/us/en
+    scan_method: websearch
+    scan_query: 'site:teksystems.com "Java" OR "Backend" OR "Software Engineer" Warsaw OR Poland'
+    notes: "Global IT staffing. Warsaw contracts."
+    enabled: true
+
+  - name: Devire
+    careers_url: https://www.devire.pl/oferty-pracy/
+    scan_method: websearch
+    scan_query: 'site:devire.pl "Java" OR "Backend" OR "Fullstack" OR "Architect" Warszawa OR Warsaw'
+    notes: "Polish recruitment agency. IT & engineering."
+    enabled: true
+
+  - name: Hays Poland
+    careers_url: https://www.hays.pl/znajdz-prace
+    scan_method: websearch
+    scan_query: 'site:hays.pl "Java" OR "Backend" OR "Software" OR "Architect" Warszawa OR Warsaw'
+    notes: "Major IT recruitment agency. Strong PL presence."
+    enabled: true
+
+  - name: Michael Page Poland
+    careers_url: https://www.michaelpage.pl/en/jobs
+    scan_method: websearch
+    scan_query: 'site:michaelpage.pl "Java" OR "Backend" OR "Software" OR "Architect" Warszawa'
+    notes: "Global recruitment. IT & tech division PL."
+    enabled: true
+
+  - name: Randstad Poland
+    careers_url: https://www.randstad.pl/znajdz-prace/
+    scan_method: websearch
+    scan_query: 'site:randstad.pl "Java" OR "Backend" OR "Software" OR "Architect" Warszawa'
+    notes: "Global staffing. IT division in Warsaw."
+    enabled: true
+
+  - name: Antal Poland
+    careers_url: https://antal.pl/dla-kandydata/oferty
+    scan_method: websearch
+    scan_query: 'site:antal.pl "Java" OR "Backend" OR "Software" OR "Architect" Warsaw'
+    notes: "Polish IT/eng recruitment. Warsaw focus. 400+ active offers."
+    enabled: true
+
+  # ==========================================
+  # POLISH JOB BOARDS (DIRECT)
+  # ==========================================
+
+  - name: NoFluffJobs
+    careers_url: https://nofluffjobs.com/pl/Java
+    scan_method: websearch
+    scan_query: 'site:nofluffjobs.com Java senior OR staff OR architect OR lead Warsaw OR remote'
+    notes: "Top PL tech job board. No-BS salary ranges."
+    enabled: true
+
+  - name: JustJoinIT
+    careers_url: https://justjoin.it/all-locations/java/senior
+    scan_method: websearch
+    scan_query: 'site:justjoin.it Java OR Spring senior OR staff OR architect Warsaw OR remote'
+    notes: "Largest PL IT job board."
+    enabled: true
+
+  - name: Pracuj.pl
+    careers_url: https://www.pracuj.pl
+    scan_method: websearch
+    scan_query: 'site:pracuj.pl Java OR Spring OR "Backend" OR "Software Engineer" senior OR architect Warszawa'
+    notes: "Biggest PL general job board. IT section strong."
+    enabled: true
+
+  - name: theprotocol.it
+    careers_url: https://theprotocol.it
+    scan_method: websearch
+    scan_query: 'site:theprotocol.it Java OR Spring OR Kotlin senior OR architect Warsaw OR remote'
+    notes: "PL tech job board by Pracuj Group."
+    enabled: true
+
+  - name: Inhire
+    careers_url: https://inhire.io
+    scan_method: websearch
+    scan_query: 'site:inhire.io Java OR Spring OR "Backend" senior OR staff Warsaw OR remote'
+    notes: "PL tech job board. Direct employer contact."
+    enabled: true
+
+  - name: Solid.Jobs
+    careers_url: https://solid.jobs
+    scan_method: websearch
+    scan_query: 'site:solid.jobs Java OR Spring OR Kotlin senior OR architect Warsaw OR remote'
+    notes: "PL tech job board. Transparent salaries."
+    enabled: true
+
+  - name: Bulldogjob
+    careers_url: https://bulldogjob.pl
+    scan_method: websearch
+    scan_query: 'site:bulldogjob.pl Java OR Spring OR Kotlin senior OR architect'
+    notes: "PL tech job board."
+    enabled: true
+
+  # ==========================================
+  # NORDICS (REMOTE-FRIENDLY)
+  # ==========================================
+
+  - name: Forto
+    careers_url: https://jobs.lever.co/forto
+    notes: "Berlin. Digital freight forwarder. Product & backend."
+    enabled: true
+
+  - name: Pleo
+    careers_url: https://jobs.lever.co/pleo
+    notes: "Copenhagen/London/Remote. Business spend management. Backend eng."
+    enabled: true
+
+  - name: Lunar
+    careers_url: https://lunar.app/careers
+    scan_method: websearch
+    scan_query: 'site:lunar.app/careers "Backend" OR "Java" OR "Engineer"'
+    notes: "Aarhus. Nordic neobank."
+    enabled: true
