@@ -1,4 +1,0 @@
-[     254ms] [WARNING] Failed parsing 'srcset' attribute value since it has an unknown descriptor. @ https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.5.0/dist/lazyload.min.js:0
-[     254ms] [WARNING] Dropped srcset candidate "/user/themes/softwaremill/assets/cover/Background" @ https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.5.0/dist/lazyload.min.js:0
-[     254ms] [WARNING] Failed parsing 'srcset' attribute value since it has an unknown descriptor. @ https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.5.0/dist/lazyload.min.js:0
-[     254ms] [WARNING] Dropped srcset candidate "/user/themes/softwaremill/assets/cover/Background" @ https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.5.0/dist/lazyload.min.js:0

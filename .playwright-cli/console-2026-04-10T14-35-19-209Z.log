@@ -1,8 +1,0 @@
-[    1604ms] Uncaught TypeError: Cannot read properties of null (reading 'removeAttribute')
-    at initPage (https://cdn.phenompeople.com/CareerConnectResources/pp/ROCHGLOBAL/en_global/desktop/assets/scripts/1746787706454-custom.js:111:44)
-    at <anonymous> (https://cdn.phenompeople.com/CareerConnectResources/pp/ROCHGLOBAL/en_global/desktop/assets/scripts/1746787706454-custom.js:105:16)
-[    2078ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36 @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[    2553ms] [ERROR] Invalid widget id: ph-import-resume-v1-upload-new @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[    2770ms] [ERROR] Invalid widget id: ph-social-connect-v1-view5-new @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[    3787ms] [WARNING] A11y autocomplete setup is improper.Check errors  [Missing aria-haspopup attribute on parent div, Missing  aria-owns attribute on parent div, Missing  aria-owns attribute on parent div, Missing widget elem] @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[   12380ms] [WARNING] The resource https://cdn.phenompeople.com/CareerConnectResources/pp/ROCHGLOBAL/images/Argentina-1687268036769.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://careers.roche.com/global/en:0

@@ -1,6 +1,0 @@
-[    1721ms] Uncaught TypeError: Cannot read properties of null (reading 'removeAttribute')
-    at initPage (https://cdn.phenompeople.com/CareerConnectResources/pp/ROCHGLOBAL/en_global/desktop/assets/scripts/1746787706454-custom.js:111:44)
-    at <anonymous> (https://cdn.phenompeople.com/CareerConnectResources/pp/ROCHGLOBAL/en_global/desktop/assets/scripts/1746787706454-custom.js:105:16)
-[    2796ms] [ERROR] Invalid widget id: ph-page-state-data-v1-no-results-ROCHGLOBAL-en_global-page11 @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[    2907ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36 @ https://careers.roche.com/global/en/phenomtrack.min.js:1
-[    3149ms] [WARNING] A11y autocomplete setup is improper.Check errors  [Missing aria-haspopup attribute on parent div, Missing  aria-owns attribute on parent div, Missing  aria-owns attribute on parent div, Missing widget elem] @ https://careers.roche.com/global/en/phenomtrack.min.js:1

@@ -1,2 +1,0 @@
-[     507ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://static1.clutch.co/sites/all/modules/custom/clutch_widget/js/widget.js:0
-[    5583ms] [WARNING] [iFrameSizer][Host page: iframe-0.2591309058493855] IFrame has not responded within 5 seconds. Check iFrameResizer.contentWindow.js has been loaded in iFrame. This message can be ignored if everything is working, or you can set the warningTimeout option to a higher value or zero to suppress this warning. @ https://widget.clutch.co/static/js/widget.js:1

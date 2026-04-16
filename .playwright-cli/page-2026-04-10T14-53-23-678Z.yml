@@ -1,8 +1,0 @@
-- generic [ref=e2]:
-  - paragraph [ref=e3]:
-    - text: "Your bot have been rated as a harmful activity and will be blocked to prevent potential damage, please get in touch with support team:"
-    - img [ref=e4]
-    - text: to start registration process of a harmless bot.
-  - generic [ref=e7]:
-    - separator [ref=e8]
-    - paragraph [ref=e9]: "Please supply bot IP address: 170.85.28.119 and error code: 0.20ce2e17.1775832803.ba63d2ea."

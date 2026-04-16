@@ -1,2 +1,0 @@
-[    1754ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.decerto.com/eu:730
-[   31242ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://connect.facebook.net/en_US/fbevents.js:0
