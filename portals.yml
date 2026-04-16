@@ -86,6 +86,79 @@ title_filter:
     - "Head"
     - "Architect"
 
+# -- Location filter --
+# Applied by scan.mjs (API-sourced jobs) and the agent (Playwright/WebSearch scans).
+#
+# Logic:
+#   1. Empty location → allowed (unknown, keep for manual review)
+#   2. Any `blocked` term present → rejected (even if `allowed` term also present)
+#   3. Any `allowed` term present → accepted
+#   4. No `allowed` term → rejected
+#
+# Target: Warsaw on-site/hybrid  —OR—  Remote within CET (Europe).
+# Other Polish cities = NOT acceptable for on-site/hybrid.
+
+location_filter:
+  allowed:
+    - remote
+    - warsaw
+    - europe
+    - worldwide
+    - anywhere
+  blocked:
+    # CET-incompatible remote restrictions (US/Americas/Asia-only remote)
+    - "remote - us"
+    - "remote, us"
+    - "remote (us)"
+    - "remote - usa"
+    - "remote - united states"
+    - "remote, united states"
+    - "remote (united states)"
+    - "remote - north america"
+    - "remote - canada"
+    - "remote - latam"
+    - "remote - asia"
+    - "remote - apac"
+    - "us only"
+    - "usa only"
+    - "united states only"
+    - "north america only"
+    - "americas only"
+    - "apac only"
+    # Polish cities other than Warsaw (on-site not commutable)
+    - kraków
+    - krakow
+    - wrocław
+    - wroclaw
+    - gdańsk
+    - gdansk
+    - poznań
+    - poznan
+    - łódź
+    - lodz
+    - katowice
+    - lublin
+    - szczecin
+    - bydgoszcz
+    # US cities (on-site)
+    - "new york"
+    - "san francisco"
+    - "los angeles"
+    - "seattle"
+    - "boston"
+    - "chicago"
+    - "austin"
+    - "denver"
+    - "washington, dc"
+    # Non-EU on-site
+    - toronto
+    - bangalore
+    - india
+    - singapore
+    - tokyo
+    - sydney
+    - australia
+
 # -- Search queries --
 
 search_queries:
@@ -228,8 +301,16 @@ search_queries:
 
   # -- European aggregators & boards --
 
-  - name: LinkedIn — Java Backend Warsaw/Remote
-    query: 'site:linkedin.com/jobs "Java" OR "Spring Boot" "Senior" OR "Staff" OR "Architect" Warsaw OR remote Poland'
+  - name: LinkedIn — Senior Java/Spring Backend Warsaw
+    query: 'site:linkedin.com/jobs "Senior" OR "Staff" OR "Principal" "Java" OR "Spring Boot" OR "Kotlin" Backend Warsaw Poland'
+    enabled: true
+
+  - name: LinkedIn — Technical Architect Poland
+    query: 'site:linkedin.com/jobs "Technical Architect" OR "Software Architect" OR "Solutions Architect" Java OR Spring Poland OR Warsaw remote'
+    enabled: true
+
+  - name: LinkedIn — Staff/Principal Engineer Remote EU
+    query: 'site:linkedin.com/jobs "Staff Engineer" OR "Principal Engineer" OR "Senior Backend" Java OR Kotlin remote Europe'
     enabled: true
 
   - name: Glassdoor — Java Backend Warsaw
@@ -839,6 +920,36 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:antal.pl "Java" OR "Backend" OR "Software" OR "Architect" Warsaw'
     notes: "Polish IT/eng recruitment. Warsaw focus. 400+ active offers."
+    enabled: true
+
+  # ==========================================
+  # LINKEDIN JOBS (PUBLIC — no login needed)
+  # ==========================================
+  # LinkedIn's public job search pages are accessible without authentication.
+  # Use careers_url for Playwright direct scan; search_queries also has site: filters.
+
+  - name: LinkedIn — Senior Java/Backend Warsaw
+    careers_url: https://www.linkedin.com/jobs/senior-java-developer-jobs-warsaw-poland/
+    scan_method: playwright
+    notes: "Public LinkedIn search: Senior Java Developer, Warsaw. No login required."
+    enabled: true
+
+  - name: LinkedIn — Senior Backend Engineer Poland
+    careers_url: https://www.linkedin.com/jobs/senior-backend-engineer-jobs-poland/
+    scan_method: playwright
+    notes: "Public LinkedIn search: Senior Backend Engineer, Poland (covers remote)."
+    enabled: true
+
+  - name: LinkedIn — Software Architect Warsaw
+    careers_url: https://www.linkedin.com/jobs/software-architect-jobs-warsaw-poland/
+    scan_method: playwright
+    notes: "Public LinkedIn search: Software Architect, Warsaw."
+    enabled: true
+
+  - name: LinkedIn — Java Spring Remote Europe
+    careers_url: https://www.linkedin.com/jobs/spring-boot-developer-jobs-europe/
+    scan_method: playwright
+    notes: "Public LinkedIn search: Spring Boot Developer, Europe (remote-first)."
     enabled: true
 
   # ==========================================

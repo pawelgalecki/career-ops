@@ -107,6 +107,17 @@ Los niveles son aditivos — se ejecutan todos, los resultados se mezclan y dedu
    - 0 keywords de `negative` deben aparecer
    - `seniority_boost` keywords dan prioridad pero no son obligatorios
 
+6.5. **Filtrar por ubicación** usando `location_filter` de `portals.yml` (si el campo location está disponible):
+   - Lógica (en orden):
+     1. Ubicación vacía/desconocida → permitir (revisar manualmente)
+     2. Contiene algún término de `blocked` → rechazar (incluso si hay término `allowed`)
+     3. Contiene algún término de `allowed` → aceptar
+     4. Sin término `allowed` → rechazar
+   - Objetivo: Warsaw on-site/hybrid —O— Remote dentro de CET (Europa)
+   - Ciudades polacas fuera de Warsaw (Kraków, Wrocław, etc.) están en `blocked` → rechazar on-site allí
+   - Roles "Remote - United States" o "Remote - US" están en `blocked` → rechazar
+   - Roles "Remote", "Remote - Europe", "Warsaw, Poland" → aceptar
+
 7. **Deduplicar** contra 3 fuentes:
    - `scan-history.tsv` → URL exacta ya vista
    - `applications.md` → empresa + rol normalizado ya evaluado
