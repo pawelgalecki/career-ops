@@ -40,6 +40,7 @@ title_filter:
     - "System Architect"
     - "Tech Lead"
     - "Engineering Lead"
+    - "Product Engineer"
     # -- Infrastructure / Distributed Systems --
     - "Distributed Systems"
     - "Microservices"
@@ -102,6 +103,7 @@ location_filter:
   allowed:
     - remote
     - warsaw
+    - poland
     - europe
     - worldwide
     - anywhere

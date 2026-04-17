@@ -1,0 +1,518 @@
+- generic [ref=e1]:
+  - alert [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e9]:
+        - heading [level=2] [ref=e10]: LinkedIn respects your privacy
+        - generic [ref=e12]:
+          - paragraph [ref=e13]:
+            - text: LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/cookie-policy
+              - text: Cookie Policy
+            - text: .
+          - paragraph [ref=e15]:
+            - text: Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://www.linkedin.com/mypreferences/g/guest-cookies
+              - text: settings
+            - text: .
+        - generic [ref=e17]:
+          - button [ref=e18] [cursor=pointer]: Accept
+          - button [ref=e19] [cursor=pointer]: Reject
+  - link [ref=e20] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [ref=e21]:
+    - navigation [ref=e22]:
+      - link [ref=e23] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=e24]: LinkedIn
+        - img [ref=e26]
+      - generic [ref=e37]:
+        - button [ref=e39] [cursor=pointer]:
+          - generic [ref=e40]: Jobs
+          - generic:
+            - img
+        - tabpanel [ref=e41]:
+          - search [ref=e42]:
+            - generic [ref=e43]:
+              - combobox [ref=e44]: Java Developer (API)
+              - button [ref=e45] [cursor=pointer]:
+                - generic [ref=e46]: Clear text
+                - img [ref=e48]
+            - generic [ref=e52]:
+              - combobox [ref=e53]: Warsaw
+              - button [ref=e54] [cursor=pointer]:
+                - generic [ref=e55]: Clear text
+                - img [ref=e57]
+            - button [ref=e61] [cursor=pointer]:
+              - img [ref=e63]
+        - status [ref=e65]
+      - generic [ref=e66]:
+        - link [ref=e67] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4387119622%2F&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=e68] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4387119622%2F&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [ref=e69]:
+    - generic [ref=e71]:
+      - generic [ref=e73]:
+        - link [ref=e74] [cursor=pointer]:
+          - /url: https://ph.linkedin.com/company/salmonphilippines?trk=public_jobs_topcard_logo
+          - img [ref=e75]
+        - generic [ref=e77]:
+          - heading [level=1] [ref=e78]: Java Developer (API)
+          - heading [level=4] [ref=e79]:
+            - generic [ref=e80]:
+              - link [ref=e82] [cursor=pointer]:
+                - /url: https://ph.linkedin.com/company/salmonphilippines?trk=public_jobs_topcard-org-name
+                - text: Salmon Group Ltd
+              - text: · European Union
+            - generic [ref=e83]:
+              - text: 1 week ago
+              - figure [ref=e84]:
+                - text: ·
+                - text: Over 200 applicants
+            - link [ref=e86] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D87080380%26title%3DJava%2BSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - generic [ref=e87]:
+                - img [ref=e88]
+                - img [ref=e89]
+                - img [ref=e90]
+              - paragraph [ref=e92]: See who Salmon Group Ltd has hired for this role
+          - generic [ref=e93]:
+            - button [ref=e94] [cursor=pointer]:
+              - text: Apply
+              - img [ref=e96]
+            - link [ref=e98] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fjava-developer-api-at-salmon-group-ltd-4387119622&trk=public_jobs
+              - text: Save
+        - button [ref=e101] [cursor=pointer]:
+          - img [ref=e103]
+        - generic [ref=e106]:
+          - img [ref=e108]
+          - heading [level=3] [ref=e112]: Use AI to assess how you fit
+          - paragraph [ref=e113]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=e114]:
+            - button [ref=e115] [cursor=pointer]:
+              - img [ref=e117]
+            - button [ref=e119] [cursor=pointer]:
+              - img [ref=e121]
+              - generic [ref=e123]: Am I a good fit for this job?
+            - button [ref=e124] [cursor=pointer]:
+              - img [ref=e126]
+              - generic [ref=e128]: Tailor my resume
+      - generic [ref=e129]:
+        - generic [ref=e131]:
+          - generic [ref=e133]:
+            - generic [ref=e134]:
+              - text: "Salmon is a next-generation fintech company with a clear mission: to reshape the banking landscape in the Philippines and demonstrate that people deserve better financial services. Founded by visionary leaders Pavel Fedorov, George Chesakov, and Raffy Montemayor, Salmon is more than just a fast-growing technology company – we’re a bank with over 60 years of heritage. In 2024, we proudly transformed the Rural Bank of Sta. Rosa (Laguna), Inc. into"
+              - strong [ref=e135]: Salmon Bank (Rural Bank) Inc.
+              - text: With over 1 million Filipinos already trusting Salmon, we are continuously expanding our offerings and aiming to become a true
+              - strong [ref=e136]: financial super app
+              - text: for millions more.
+              - strong [ref=e137]: Why Salmon?
+              - list [ref=e138]:
+                - listitem [ref=e139]: "Exponential Growth: In 2025, we more than doubled our deposits, loans, and net income."
+                - listitem [ref=e140]: "Loved by Users: Our app is rated 4.8★, with 92% of users recommending us to friends and family."
+                - listitem [ref=e141]: "Top-Tier Team: Work alongside experts from fintech, banking, startups, and global companies."
+                - listitem [ref=e142]: "Innovation: We are at the intersection of finance and technology, shaping the future with bold ideas every day."
+              - text: We are looking for an experienced
+              - strong [ref=e143]: Java Engineer (readiness to switch to Kotlin)
+              - text: to help us design, build, and scale the core banking and partner platforms that power Salmon’s products. In this role, you will work on high-load, mission-critical systems, design robust APIs, and contribute to shared platform components used across the company. You will have a high level of ownership and influence over architectural decisions.
+              - strong [ref=e144]: Your Future Tasks
+              - list [ref=e145]:
+                - listitem [ref=e146]: Design and evolve banking APIs for mobile applications and internal/external services.
+                - listitem [ref=e147]: Build scalable backend solutions using Kotlin (readiness to switch to Kotlin) and modern JVM technologies (Ktor, jOOQ, coroutines, Arrow).
+                - listitem [ref=e148]: Develop and improve public APIs, internal SDKs, and shared platform components.
+                - listitem [ref=e149]: Implement high-performance integrations with partners and third-party systems.
+                - listitem [ref=e150]: Contribute to the architecture, scalability, and reliability of core banking and partner platforms.
+              - strong [ref=e151]: What We Expect
+              - list [ref=e152]:
+                - listitem [ref=e153]: 5+ years of experience in the JVM ecosystem, with strong expertise in Kotlin or Java.
+                - listitem [ref=e154]: Deep understanding of concurrency and asynchronous programming.
+                - listitem [ref=e155]: Experience designing systems using clean architectures (DDD, event-driven approaches).
+                - listitem [ref=e156]: Solid knowledge of distributed systems and their trade-offs.
+                - listitem [ref=e157]: Hands-on experience with Docker and Kubernetes, preferably in an AWS environment.
+                - listitem [ref=e158]: Strong sense of ownership, continuous learning, and a willingness to share knowledge within the team.
+              - strong [ref=e159]: Nice To Have / Bonus
+              - list [ref=e160]:
+                - listitem [ref=e161]: Interest or experience in platform engineering.
+                - listitem [ref=e162]: Close collaboration with business and product requirements.
+                - listitem [ref=e163]: Experience with database performance optimization.
+                - listitem [ref=e164]: Background in functional programming.
+                - listitem [ref=e165]: Experience building internal libraries, SDKs, or developer tools.
+              - strong [ref=e166]: Why It’s Great To Work With Us
+              - list [ref=e167]:
+                - listitem [ref=e168]: We build modern banking services used by millions of Filipinos.
+                - listitem [ref=e169]: We develop cutting-edge solutions based on global best practices and AI technologies.
+                - listitem [ref=e170]: We are a licensed neobank aiming to become a unicorn and a leading fintech player in Southeast Asia.
+                - listitem [ref=e171]: Backed by over $60MM from ADQ (Abu Dhabi sovereign wealth fund), the World Bank Group, and other investors, even in challenging market conditions.
+                - listitem [ref=e172]: We operate in an environment where new products are launched in 3–4 months.
+                - listitem [ref=e173]: We have a strong foundation for international expansion.
+              - strong [ref=e174]: What We Offer
+              - list [ref=e175]:
+                - listitem [ref=e176]: A passionate international team working across multiple regions.
+                - listitem [ref=e177]: Rapid professional growth in a true merit-based environment.
+                - listitem [ref=e178]: Performance-based rewards and long-term participation in Salmon’s success.
+                - listitem [ref=e179]: A fast track for international growth.
+                - listitem [ref=e180]: New office in Manila, Philippines.
+                - listitem [ref=e181]: Relocation support for eligible candidates.
+                - listitem [ref=e182]: Remote and hybrid work options.
+                - listitem [ref=e183]: Medical insurance and health & wellness benefits.
+                - listitem [ref=e184]: A rich program of events and activities, both online and in person.
+              - text: If you want to work on large-scale banking platforms, influence architecture, and build systems used by millions — we would be happy to hear from you.
+            - button [ref=e185] [cursor=pointer]: Show more
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - heading [level=3] [ref=e189]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=e190]:
+              - heading [level=3] [ref=e191]: Employment type
+              - text: Full-time
+            - listitem [ref=e192]:
+              - heading [level=3] [ref=e193]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=e194]:
+              - heading [level=3] [ref=e195]: Industries
+              - text: Financial Services
+        - generic [ref=e200]:
+          - paragraph [ref=e201]: Referrals increase your chances of interviewing at Salmon Group Ltd by 2x
+          - link [ref=e202] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D87080380&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=e204]:
+        - generic [ref=e207]: Get notified when a new job is posted.
+        - generic [ref=e208]:
+          - button [ref=e209]
+          - generic [ref=e210]: Set alert
+      - generic [ref=e211]:
+        - heading [level=2] [ref=e212]: Similar jobs
+        - generic [ref=e214]:
+          - list [ref=e215]:
+            - listitem [ref=e216]:
+              - generic [ref=e217]:
+                - link [ref=e218] [cursor=pointer]:
+                  - /url: https://es.linkedin.com/jobs/view/software-engineer-java-relocation-to-poland-spain-or-uae-at-revolut-3845486505?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=FW3iKLOza7fV9hXfM4eL%2FQ%3D%3D
+                  - generic [ref=e219]: Software Engineer (Java) - Relocation to Poland, Spain, or UAE
+                - generic [ref=e220]:
+                  - heading [level=3] [ref=e221]: Software Engineer (Java) - Relocation to Poland, Spain, or UAE
+                  - heading [level=4] [ref=e222]:
+                    - link [ref=e223] [cursor=pointer]:
+                      - /url: https://uk.linkedin.com/company/revolut?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Revolut
+                  - generic [ref=e224]:
+                    - generic [ref=e225]: Spain
+                    - time [ref=e226]: 2 weeks ago
+            - listitem [ref=e227]:
+              - generic [ref=e228]:
+                - link [ref=e229] [cursor=pointer]:
+                  - /url: https://pl.linkedin.com/jobs/view/java-developer-freelance-at-netguru-4399856815?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=mHW53hhpx5r78Fl%2FD70XCg%3D%3D
+                  - generic [ref=e230]: Java Developer (Freelance)
+                - generic [ref=e231]:
+                  - heading [level=3] [ref=e232]: Java Developer (Freelance)
+                  - heading [level=4] [ref=e233]:
+                    - link [ref=e234] [cursor=pointer]:
+                      - /url: https://pl.linkedin.com/company/netguru?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Netguru
+                  - generic [ref=e235]:
+                    - generic [ref=e236]: Poland
+                    - time [ref=e237]: 1 month ago
+            - listitem [ref=e238]:
+              - generic [ref=e239]:
+                - link [ref=e240] [cursor=pointer]:
+                  - /url: https://es.linkedin.com/jobs/view/junior-java-developer-sector-textil-remoto-at-knowmad-mood-4397662058?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=ehN5SBQbsi2Xq6R%2FRwqZ%2BA%3D%3D
+                  - generic [ref=e241]: Junior Java Developer - Sector textil (Remoto)
+                - generic [ref=e242]:
+                  - heading [level=3] [ref=e243]: Junior Java Developer - Sector textil (Remoto)
+                  - heading [level=4] [ref=e244]:
+                    - link [ref=e245] [cursor=pointer]:
+                      - /url: https://es.linkedin.com/company/knowmad-mood?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: knowmad mood
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: A Coruña, Galicia, Spain
+                    - time [ref=e248]: 1 week ago
+            - listitem [ref=e249]:
+              - generic [ref=e250]:
+                - link [ref=e251] [cursor=pointer]:
+                  - /url: https://pl.linkedin.com/jobs/view/software-engineer-java-relocation-to-poland-spain-or-uae-at-revolut-3845490363?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=2mUYvUPQE1kV0baVuayFpg%3D%3D
+                  - generic [ref=e252]: Software Engineer (Java) - Relocation to Poland, Spain, or UAE
+                - generic [ref=e253]:
+                  - heading [level=3] [ref=e254]: Software Engineer (Java) - Relocation to Poland, Spain, or UAE
+                  - heading [level=4] [ref=e255]:
+                    - link [ref=e256] [cursor=pointer]:
+                      - /url: https://uk.linkedin.com/company/revolut?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Revolut
+                  - generic [ref=e257]:
+                    - generic [ref=e258]: Poland
+                    - generic [ref=e259]: PLN 28,300 - PLN 33,300
+                    - time [ref=e260]: 2 weeks ago
+            - listitem [ref=e261]:
+              - generic [ref=e262]:
+                - link [ref=e263] [cursor=pointer]:
+                  - /url: https://pl.linkedin.com/jobs/view/backend-engineer-java-at-sonalake-4366314077?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=6uKUY7AUt7BaMUBRhoRNpQ%3D%3D
+                  - generic [ref=e264]: Backend Engineer (Java)
+                - generic [ref=e265]:
+                  - heading [level=3] [ref=e266]: Backend Engineer (Java)
+                  - heading [level=4] [ref=e267]:
+                    - link [ref=e268] [cursor=pointer]:
+                      - /url: https://ie.linkedin.com/company/sonalake?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Sonalake
+                  - generic [ref=e269]:
+                    - generic [ref=e270]: Poznań, Wielkopolskie, Poland
+                    - time [ref=e271]: 3 months ago
+            - listitem [ref=e272]:
+              - generic [ref=e273]:
+                - link [ref=e274] [cursor=pointer]:
+                  - /url: https://hu.linkedin.com/jobs/view/backend-engineer-java-at-sonalake-4366321045?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=k1U1C88KIZ9HE5zKeDcy7g%3D%3D
+                  - generic [ref=e275]: Backend Engineer (Java)
+                - generic [ref=e276]:
+                  - heading [level=3] [ref=e277]: Backend Engineer (Java)
+                  - heading [level=4] [ref=e278]:
+                    - link [ref=e279] [cursor=pointer]:
+                      - /url: https://ie.linkedin.com/company/sonalake?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Sonalake
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: Hungary
+                    - time [ref=e282]: 3 months ago
+          - button [ref=e283] [cursor=pointer]: Show more jobs like this
+    - generic [ref=e285]:
+      - generic [ref=e286]:
+        - heading [level=2] [ref=e287]: People also viewed
+        - list [ref=e289]:
+          - listitem [ref=e290]:
+            - generic [ref=e291]:
+              - link [ref=e292] [cursor=pointer]:
+                - /url: https://nl.linkedin.com/jobs/view/java-developer-at-european-dynamics-4341031569?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=tRnQ%2BD00NHeT8ldVjUZ8Pw%3D%3D
+                - generic [ref=e293]: Java Developer
+              - generic [ref=e294]:
+                - heading [level=3] [ref=e295]: Java Developer
+                - paragraph [ref=e296]:
+                  - link [ref=e297] [cursor=pointer]:
+                    - /url: https://gr.linkedin.com/company/european-dynamics?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: EUROPEAN DYNAMICS
+                - generic [ref=e298]:
+                  - generic [ref=e299]: The Hague, South Holland, Netherlands
+                  - time [ref=e300]: 5 months ago
+          - listitem [ref=e301]:
+            - generic [ref=e302]:
+              - link [ref=e303] [cursor=pointer]:
+                - /url: https://it.linkedin.com/jobs/view/java-developer-at-dpway-s-r-l-4308246042?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=%2ByTwqk%2FFSE%2BvqvhfO%2FgOIQ%3D%3D
+                - generic [ref=e304]: Java Developer
+              - generic [ref=e305]:
+                - heading [level=3] [ref=e306]: Java Developer
+                - paragraph [ref=e307]:
+                  - link [ref=e308] [cursor=pointer]:
+                    - /url: https://it.linkedin.com/company/dpway-srl?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: DPWAY S.r.l.
+                - generic [ref=e309]:
+                  - generic [ref=e310]: Rome, Latium, Italy
+                  - time [ref=e311]: 6 months ago
+          - listitem [ref=e312]:
+            - generic [ref=e313]:
+              - link [ref=e314] [cursor=pointer]:
+                - /url: https://pl.linkedin.com/jobs/view/senior-java-software-engineer-at-re-partners-4392464144?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=h8PXZgV1XVq%2BfYChFGy14g%3D%3D
+                - generic [ref=e315]: Senior Java Software Engineer
+              - generic [ref=e316]:
+                - heading [level=3] [ref=e317]: Senior Java Software Engineer
+                - paragraph [ref=e318]:
+                  - link [ref=e319] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/re-partners?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: RE Partners
+                - generic [ref=e320]:
+                  - generic [ref=e321]: Poland
+                  - time [ref=e322]: 2 weeks ago
+          - listitem [ref=e323]:
+            - generic [ref=e324]:
+              - link [ref=e325] [cursor=pointer]:
+                - /url: https://es.linkedin.com/jobs/view/java-software-engineer-100%25-remote-at-akens-nordburg-4395069245?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=vyk16lF3UVdBYzRDYCNvYg%3D%3D
+                - generic [ref=e326]: Java Software Engineer (100% remote)
+              - generic [ref=e327]:
+                - heading [level=3] [ref=e328]: Java Software Engineer (100% remote)
+                - paragraph [ref=e329]:
+                  - link [ref=e330] [cursor=pointer]:
+                    - /url: https://es.linkedin.com/company/akens-nordburg?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Akens\Nordburg
+                - generic [ref=e331]:
+                  - generic [ref=e332]: Spain
+                  - time [ref=e333]: 2 weeks ago
+          - listitem [ref=e334]:
+            - generic [ref=e335]:
+              - link [ref=e336] [cursor=pointer]:
+                - /url: https://pl.linkedin.com/jobs/view/junior-software-engineer-angular%2Bjava-at-inpost-4391071218?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=n11Fz%2FQTYT5ZoUNilg55Bw%3D%3D
+                - generic [ref=e337]: Junior Software Engineer (Angular+Java)
+              - generic [ref=e338]:
+                - heading [level=3] [ref=e339]: Junior Software Engineer (Angular+Java)
+                - paragraph [ref=e340]:
+                  - link [ref=e341] [cursor=pointer]:
+                    - /url: https://pl.linkedin.com/company/inpost?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: InPost
+                - generic [ref=e342]:
+                  - generic [ref=e343]: Cracow, Małopolskie, Poland
+                  - time [ref=e344]: 3 weeks ago
+          - listitem [ref=e345]:
+            - generic [ref=e346]:
+              - link [ref=e347] [cursor=pointer]:
+                - /url: https://pl.linkedin.com/jobs/view/full-stack-software-engineer-at-lightdash-4113910083?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=eYYoW2APoy%2FMkSQf3pIk0g%3D%3D
+                - generic [ref=e348]: Full Stack Software Engineer
+              - generic [ref=e349]:
+                - heading [level=3] [ref=e350]: Full Stack Software Engineer
+                - paragraph [ref=e351]:
+                  - link [ref=e352] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lightdash?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lightdash
+                - generic [ref=e353]:
+                  - generic [ref=e354]: Poland
+                  - generic [ref=e355]: $100,000 - $170,000
+                  - time [ref=e356]: 1 year ago
+          - listitem [ref=e357]:
+            - generic [ref=e358]:
+              - link [ref=e359] [cursor=pointer]:
+                - /url: https://pt.linkedin.com/jobs/view/java-developer-%2B3-anos-at-grupo-data-portugal-4380647097?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=eKfZN%2BK4FwG5dT0eiUI6zQ%3D%3D
+                - generic [ref=e360]: Java Developer (+3 anos)
+              - generic [ref=e361]:
+                - heading [level=3] [ref=e362]: Java Developer (+3 anos)
+                - paragraph [ref=e363]:
+                  - link [ref=e364] [cursor=pointer]:
+                    - /url: https://pt.linkedin.com/company/grupo-data-portugal?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Grupo Data Portugal
+                - generic [ref=e365]:
+                  - generic [ref=e366]: Lisbon, Lisbon, Portugal
+                  - time [ref=e367]: 1 month ago
+          - listitem [ref=e368]:
+            - generic [ref=e369]:
+              - link [ref=e370] [cursor=pointer]:
+                - /url: https://pl.linkedin.com/jobs/view/senior-java-software-engineer-at-intellias-4389205989?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=sFSuXkQIfDzOTGct%2BJHF1g%3D%3D
+                - generic [ref=e371]: Senior Java Software Engineer
+              - generic [ref=e372]:
+                - heading [level=3] [ref=e373]: Senior Java Software Engineer
+                - paragraph [ref=e374]:
+                  - link [ref=e375] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/intellias?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Intellias
+                - generic [ref=e376]:
+                  - generic [ref=e377]: Poland
+                  - time [ref=e378]: 3 weeks ago
+          - listitem [ref=e379]:
+            - generic [ref=e380]:
+              - link [ref=e381] [cursor=pointer]:
+                - /url: https://ee.linkedin.com/jobs/view/full-stack-software-engineer-at-lightdash-4113905688?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=2kcE27qVKKWEv%2BIB6j7jXQ%3D%3D
+                - generic [ref=e382]: Full Stack Software Engineer
+              - generic [ref=e383]:
+                - heading [level=3] [ref=e384]: Full Stack Software Engineer
+                - paragraph [ref=e385]:
+                  - link [ref=e386] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lightdash?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lightdash
+                - generic [ref=e387]:
+                  - generic [ref=e388]: Estonia
+                  - generic [ref=e389]: $100,000 - $170,000
+                  - time [ref=e390]: 1 year ago
+          - listitem [ref=e391]:
+            - generic [ref=e392]:
+              - link [ref=e393] [cursor=pointer]:
+                - /url: https://cz.linkedin.com/jobs/view/full-stack-software-engineer-at-lightdash-4113901987?refId=kqHlmo1QoljvOyMgnjwQig%3D%3D&trackingId=rS3kJ71NvHtFJUtqmjoGtQ%3D%3D
+                - generic [ref=e394]: Full Stack Software Engineer
+              - generic [ref=e395]:
+                - heading [level=3] [ref=e396]: Full Stack Software Engineer
+                - paragraph [ref=e397]:
+                  - link [ref=e398] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lightdash?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lightdash
+                - generic [ref=e399]:
+                  - generic [ref=e400]: Czechia
+                  - generic [ref=e401]: $100,000 - $170,000
+                  - time [ref=e402]: 1 year ago
+      - generic [ref=e405]:
+        - heading [level=2] [ref=e407]: Explore top content on LinkedIn
+        - paragraph [ref=e408]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=e409] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - contentinfo [ref=e410]:
+    - list [ref=e411]:
+      - listitem [ref=e412]:
+        - generic [ref=e413]: LinkedIn
+        - generic [ref=e415]: © 2026
+      - listitem [ref=e416]:
+        - link [ref=e417] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=e418]:
+        - link [ref=e419] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=e420]:
+        - link [ref=e421] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=e422]:
+        - link [ref=e423] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=e424]:
+        - link [ref=e425] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=e426]:
+        - link [ref=e427] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=e428]:
+        - link [ref=e429] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=e430]:
+        - link [ref=e431] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=e432]:
+        - link [ref=e433] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=e434]:
+        - button [ref=e436]: Language
+  - dialog "Join now to see who you already know at Salmon Group Ltd" [active] [ref=e439]:
+    - button "Dismiss" [ref=e440] [cursor=pointer]:
+      - img [ref=e442]
+    - generic [ref=e445]:
+      - generic [ref=e446]:
+        - img [ref=e447]
+        - heading "Join now to see who you already know at Salmon Group Ltd" [level=2] [ref=e448]
+      - generic [ref=e449]:
+        - button "Continue with google" [ref=e452]:
+          - generic [ref=e453]:
+            - button "Continue with Google" [ref=e455] [cursor=pointer]:
+              - generic [ref=e457]:
+                - img [ref=e460]
+                - generic [ref=e467]: Continue with Google
+            - iframe
+        - link "Join with email" [ref=e468] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-with-email-cta
+          - img [ref=e470]
+          - generic [ref=e472]: Join with email
+        - paragraph [ref=e474]: or
+        - button "Continue with google" [ref=e476]:
+          - generic [ref=e477]:
+            - button "Continue with Google" [ref=e479] [cursor=pointer]:
+              - generic [ref=e481]:
+                - img [ref=e483]
+                - generic [ref=e490]: Continue with Google
+            - iframe
+        - paragraph [ref=e491]:
+          - text: Already on LinkedIn?
+          - link "Sign in" [ref=e492] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?trk=public_jobs_contextual-sign-in-modal_sign-in-link
+        - paragraph [ref=e493]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e494] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e495] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e496] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

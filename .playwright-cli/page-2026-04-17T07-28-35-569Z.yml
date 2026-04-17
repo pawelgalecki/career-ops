@@ -1,0 +1,1045 @@
+- generic [ref=e1]:
+  - alert [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e9]:
+        - heading [level=2] [ref=e10]: LinkedIn respects your privacy
+        - generic [ref=e12]:
+          - paragraph [ref=e13]:
+            - text: LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/cookie-policy
+              - text: Cookie Policy
+            - text: .
+          - paragraph [ref=e15]:
+            - text: Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://www.linkedin.com/mypreferences/g/guest-cookies
+              - text: settings
+            - text: .
+        - generic [ref=e17]:
+          - button [ref=e18] [cursor=pointer]: Accept
+          - button [ref=e19] [cursor=pointer]: Reject
+  - generic [ref=e20]:
+    - link [ref=e21] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=e22]:
+      - navigation [ref=e23]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=e25]: LinkedIn
+          - img [ref=e939]
+        - generic [ref=e27]:
+          - button [ref=e29] [cursor=pointer]:
+            - generic:
+              - img
+          - tabpanel [ref=e30]:
+            - search [ref=e31]:
+              - generic [ref=e32]:
+                - combobox [ref=e33]
+                - button [ref=e34]:
+                  - generic [ref=e35]: Clear text
+                  - img [ref=e951]
+              - generic [ref=e36]:
+                - combobox [ref=e37]: United States
+                - button [ref=e38]:
+                  - generic [ref=e39]: Clear text
+                  - img [ref=e956]
+              - button [ref=e40] [cursor=pointer]:
+                - img [ref=e961]
+          - status [ref=e41]
+        - generic [ref=e42]:
+          - link [ref=e43] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3FcurrentJobId%3D4387119622%26f_WT%3D2%26origin%3DJOB_SEARCH_PAGE_LOCATION_SUGGESTION%26refresh%3Dtrue&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=e44] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3FcurrentJobId%3D4387119622%26f_WT%3D2%26origin%3DJOB_SEARCH_PAGE_LOCATION_SUGGESTION%26refresh%3Dtrue&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=e48]:
+      - list [ref=e50]:
+        - listitem [ref=e51]:
+          - button [ref=e54] [cursor=pointer]:
+            - text: Any time
+            - img [ref=e963]
+        - listitem [ref=e56]:
+          - button [ref=e59] [cursor=pointer]:
+            - text: Remote
+            - img [ref=e965]
+        - listitem [ref=e61]:
+          - button [ref=e64] [cursor=pointer]:
+            - text: Company
+            - img [ref=e967]
+        - listitem [ref=e66]:
+          - button [ref=e69] [cursor=pointer]:
+            - text: Job type
+            - img [ref=e969]
+        - listitem [ref=e71]:
+          - button [ref=e74] [cursor=pointer]:
+            - text: Experience level
+            - img [ref=e971]
+        - listitem [ref=e76]:
+          - button [ref=e79] [cursor=pointer]:
+            - text: Location
+            - img [ref=e973]
+        - listitem [ref=e81]:
+          - button [ref=e84] [cursor=pointer]:
+            - text: Salary
+            - img [ref=e975]
+      - button [ref=e87] [cursor=pointer]: Reset
+    - main [ref=e89]:
+      - heading [level=1] [ref=e91]: 339,000+ Jobs in United States
+      - list [ref=e93]:
+        - listitem [ref=e94]:
+          - generic [ref=e95]:
+            - link [ref=e96] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/associate-program-manager-podcasts-at-spotify-4402632277?position=1&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=aX72ZxRmcF1aetqFP%2BqtYw%3D%3D
+              - generic [ref=e97]: Associate Program Manager - Podcasts
+            - img [ref=e99]
+            - generic [ref=e100]:
+              - heading [level=3] [ref=e101]: Associate Program Manager - Podcasts
+              - heading [level=4] [ref=e102]:
+                - link [ref=e103] [cursor=pointer]:
+                  - /url: https://se.linkedin.com/company/spotify?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Spotify
+              - generic [ref=e104]:
+                - generic [ref=e105]: New York, NY
+                - time [ref=e106]: 1 day ago
+        - listitem [ref=e107]:
+          - generic [ref=e108]:
+            - link [ref=e109] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-procurement-at-hint-inc-4402532762?position=2&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=EncRhOFpUUiTlZI2eFX9ug%3D%3D
+              - generic [ref=e110]: Manager, Procurement
+            - img [ref=e112]
+            - generic [ref=e113]:
+              - heading [level=3] [ref=e114]: Manager, Procurement
+              - heading [level=4] [ref=e115]:
+                - link [ref=e116] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/drinkhint?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Hint Inc.
+              - generic [ref=e117]:
+                - generic [ref=e118]: Pennsylvania, United States
+                - time [ref=e119]: 1 day ago
+        - listitem [ref=e120]:
+          - generic [ref=e121]:
+            - link [ref=e122] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/talent-acquisition-specialist-at-swell-partners-4402614181?position=3&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=5Y8BiSuufFnjm3Ld62rNZQ%3D%3D
+              - generic [ref=e123]: Talent Acquisition Specialist
+            - img [ref=e125]
+            - generic [ref=e126]:
+              - heading [level=3] [ref=e127]: Talent Acquisition Specialist
+              - heading [level=4] [ref=e128]:
+                - link [ref=e129] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/swell-partners?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Swell Partners
+              - generic [ref=e130]:
+                - generic [ref=e131]: United States
+                - generic [ref=e132]:
+                  - img [ref=e977]
+                  - generic [ref=e134]: Medical insurance +3 benefits
+                - time [ref=e135]: 1 day ago
+        - listitem [ref=e136]:
+          - generic [ref=e137]:
+            - link [ref=e138] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/customer-success-associate-at-sana-4402527888?position=4&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=MugB%2Bd7%2F93Z2RyewP6n7IA%3D%3D
+              - generic [ref=e139]: Customer Success Associate
+            - img [ref=e141]
+            - generic [ref=e142]:
+              - heading [level=3] [ref=e143]: Customer Success Associate
+              - heading [level=4] [ref=e144]:
+                - link [ref=e145] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sana-benefits?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sana
+              - generic [ref=e146]:
+                - generic [ref=e147]: United States
+                - time [ref=e148]: 1 day ago
+        - listitem [ref=e149]:
+          - generic [ref=e150]:
+            - link [ref=e151] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-procurement-at-hint-inc-4402530994?position=5&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=arEGONTboIrnvj%2BTwWMKnQ%3D%3D
+              - generic [ref=e152]: Manager, Procurement
+            - generic [ref=e154]:
+              - heading [level=3] [ref=e155]: Manager, Procurement
+              - heading [level=4] [ref=e156]:
+                - link [ref=e157] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/drinkhint?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Hint Inc.
+              - generic [ref=e158]:
+                - generic [ref=e159]: Illinois, United States
+                - time [ref=e160]: 1 day ago
+        - listitem [ref=e161]:
+          - generic [ref=e162]:
+            - link [ref=e163] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-procurement-at-hint-inc-4402542414?position=6&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=rRqkSFARNZo5QGWPpQdfjg%3D%3D
+              - generic [ref=e164]: Manager, Procurement
+            - generic [ref=e166]:
+              - heading [level=3] [ref=e167]: Manager, Procurement
+              - heading [level=4] [ref=e168]:
+                - link [ref=e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/drinkhint?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Hint Inc.
+              - generic [ref=e170]:
+                - generic [ref=e171]: California, United States
+                - time [ref=e172]: 1 day ago
+        - listitem [ref=e173]:
+          - generic [ref=e174]:
+            - link [ref=e175] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/wholesale-operations-coordinator-at-ellsworth-%2B-ivey-4402588061?position=7&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=aRFtxYZxWnVmXN1xGm4C1Q%3D%3D
+              - generic [ref=e176]: Wholesale Operations Coordinator
+            - generic [ref=e178]:
+              - heading [level=3] [ref=e179]: Wholesale Operations Coordinator
+              - heading [level=4] [ref=e180]:
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ellsworth-ivey?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Ellsworth + Ivey
+              - generic [ref=e182]:
+                - generic [ref=e183]: United States
+                - time [ref=e184]: 1 day ago
+        - listitem [ref=e185]:
+          - generic [ref=e186]:
+            - link [ref=e187] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/customer-experience-senior-specialist-at-sortly-4403132164?position=8&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=Gxcukk7MBnsQFJkzlxlsiA%3D%3D
+              - generic [ref=e188]: Customer Experience Senior Specialist
+            - generic [ref=e190]:
+              - heading [level=3] [ref=e191]: Customer Experience Senior Specialist
+              - heading [level=4] [ref=e192]:
+                - link [ref=e193] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sortly.com?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sortly
+              - generic [ref=e194]:
+                - generic [ref=e195]: United States
+                - time [ref=e196]: 9 hours ago
+        - listitem [ref=e197]:
+          - generic [ref=e198]:
+            - link [ref=e199] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-sales-executive-at-wally-4401829067?position=9&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=gYk0jPZC%2FtjiMuBLu%2BhHMA%3D%3D
+              - generic [ref=e200]: Senior Sales Executive
+            - generic [ref=e202]:
+              - heading [level=3] [ref=e203]: Senior Sales Executive
+              - heading [level=4] [ref=e204]:
+                - link [ref=e205] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wallyprojects?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: WALLY
+              - generic [ref=e206]:
+                - generic [ref=e207]: United States
+                - generic [ref=e210]: Be an early applicant
+                - time [ref=e211]: 1 day ago
+        - listitem [ref=e212]:
+          - generic [ref=e213]:
+            - link [ref=e214] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/social-media-manager-at-academy-of-nutrition-and-dietetics-4403167278?position=10&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=X3nPEJkeybI08vkQvStsUg%3D%3D
+              - generic [ref=e215]: Social Media Manager
+            - generic [ref=e217]:
+              - heading [level=3] [ref=e218]: Social Media Manager
+              - heading [level=4] [ref=e219]:
+                - link [ref=e220] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/eatrightpro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Academy of Nutrition and Dietetics
+              - generic [ref=e221]:
+                - generic [ref=e222]: United States
+                - generic [ref=e225]: Be an early applicant
+                - time [ref=e226]: 1 day ago
+        - listitem [ref=e227]:
+          - generic [ref=e228]:
+            - link [ref=e229] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-talent-acquisition-specialist-at-the-value-maximizer-4402625019?position=11&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=qX6oLuHd4ZcNonzxInSG1Q%3D%3D
+              - generic [ref=e230]: Senior Talent Acquisition Specialist
+            - generic [ref=e232]:
+              - heading [level=3] [ref=e233]: Senior Talent Acquisition Specialist
+              - heading [level=4] [ref=e234]:
+                - link [ref=e235] [cursor=pointer]:
+                  - /url: https://vn.linkedin.com/company/the-value-maximizer?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: The Value Maximizer
+              - generic [ref=e236]:
+                - generic [ref=e237]: Pennsylvania, United States
+                - time [ref=e238]: 1 day ago
+        - listitem [ref=e239]:
+          - generic [ref=e240]:
+            - link [ref=e241] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/human-resources-specialist-hr-generalist-at-jobgether-4401856671?position=12&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=4nZvew9RNU7LWeGph3O%2F0g%3D%3D
+              - generic [ref=e242]: Human Resources Specialist (HR Generalist)
+            - generic [ref=e244]:
+              - heading [level=3] [ref=e245]: Human Resources Specialist (HR Generalist)
+              - heading [level=4] [ref=e246]:
+                - link [ref=e247] [cursor=pointer]:
+                  - /url: https://be.linkedin.com/company/jobgether?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobgether
+              - generic [ref=e248]:
+                - generic [ref=e249]: United States
+                - time [ref=e250]: 1 day ago
+        - listitem [ref=e251]:
+          - generic [ref=e252]:
+            - link [ref=e253] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/mortgage-loan-officer-assistant-at-gorascal-4401811141?position=13&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=09i9RxLwEN30fHAEcx747g%3D%3D
+              - generic [ref=e254]: Mortgage Loan Officer Assistant
+            - generic [ref=e256]:
+              - heading [level=3] [ref=e257]: Mortgage Loan Officer Assistant
+              - heading [level=4] [ref=e258]:
+                - link [ref=e259] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/gorascal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: GoRascal
+              - generic [ref=e260]:
+                - generic [ref=e261]: United States
+                - generic [ref=e264]: Actively Hiring
+                - time [ref=e265]: 1 day ago
+        - listitem [ref=e266]:
+          - generic [ref=e267]:
+            - link [ref=e268] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/data-entry-operator-at-medical-marijuana-clinic-4402137783?position=14&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=89XNTcoKymoCruCIOSnVbA%3D%3D
+              - generic [ref=e269]: Data Entry Operator
+            - generic [ref=e271]:
+              - heading [level=3] [ref=e272]: Data Entry Operator
+              - heading [level=4] [ref=e273]:
+                - link [ref=e274] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/medical-marijuana-clinic?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Medical Marijuana Clinic
+              - generic [ref=e275]:
+                - generic [ref=e276]: United States
+                - time [ref=e277]: 1 day ago
+        - listitem [ref=e278]:
+          - generic [ref=e279]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/surgery-scheduler-full-time-at-diana-health-4402166645?position=15&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=S9CqGhNef0eRYNeHSbC7aQ%3D%3D
+              - generic [ref=e281]: Surgery Scheduler (Full-Time)
+            - generic [ref=e283]:
+              - heading [level=3] [ref=e284]: Surgery Scheduler (Full-Time)
+              - heading [level=4] [ref=e285]:
+                - link [ref=e286] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/diana-health?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Diana Health
+              - generic [ref=e287]:
+                - generic [ref=e288]: United States
+                - time [ref=e289]: 13 hours ago
+        - listitem [ref=e290]:
+          - generic [ref=e291]:
+            - link [ref=e292] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/human-resources-coordinator-at-shown-media-4402528420?position=16&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=HX9fiVhIbcikVd7Cl6zILw%3D%3D
+              - generic [ref=e293]: Human Resources Coordinator
+            - generic [ref=e295]:
+              - heading [level=3] [ref=e296]: Human Resources Coordinator
+              - heading [level=4] [ref=e297]:
+                - link [ref=e298] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/shown-media-ads?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Shown Media
+              - generic [ref=e299]:
+                - generic [ref=e300]: United States
+                - time [ref=e301]: 1 day ago
+        - listitem [ref=e302]:
+          - generic [ref=e303]:
+            - link [ref=e304] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/clinical-recruiter-contract-at-blackbird-health-4403114441?position=17&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=JFtHfgCuRTfuvaQlVq6Kcw%3D%3D
+              - generic [ref=e305]: Clinical Recruiter - Contract
+            - generic [ref=e307]:
+              - heading [level=3] [ref=e308]: Clinical Recruiter - Contract
+              - heading [level=4] [ref=e309]:
+                - link [ref=e310] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/blackbird-health?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Blackbird Health
+              - generic [ref=e311]:
+                - generic [ref=e312]: United States
+                - time [ref=e313]: 12 hours ago
+        - listitem [ref=e314]:
+          - generic [ref=e315]:
+            - link [ref=e316] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/resume-review-operator-native-english-part-time-at-jobhire-ai-4402927550?position=18&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=A%2FVimIVIUekgErT6me2vfg%3D%3D
+              - generic [ref=e317]: Resume Review Operator (native English) part-time
+            - generic [ref=e319]:
+              - heading [level=3] [ref=e320]: Resume Review Operator (native English) part-time
+              - heading [level=4] [ref=e321]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jobhire-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: JobHire.AI
+              - generic [ref=e323]:
+                - generic [ref=e324]: United States
+                - time [ref=e325]: 20 hours ago
+        - listitem [ref=e326]:
+          - generic [ref=e327]:
+            - link [ref=e328] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/chat-support-associate-at-vetcove-4402613274?position=19&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=eUNAParWl0cH0mJkcgg4MA%3D%3D
+              - generic [ref=e329]: Chat Support Associate
+            - generic [ref=e331]:
+              - heading [level=3] [ref=e332]: Chat Support Associate
+              - heading [level=4] [ref=e333]:
+                - link [ref=e334] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/vetcove?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Vetcove
+              - generic [ref=e335]:
+                - generic [ref=e336]: United States
+                - time [ref=e337]: 1 day ago
+        - listitem [ref=e338]:
+          - generic [ref=e339]:
+            - link [ref=e340] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/buyer-purchasing-agent-%E2%80%93-supply-chain-procurement-remote-at-crossing-hurdles-4401877612?position=20&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=HaE6L7g5ZND4pos4dtZxVQ%3D%3D
+              - generic [ref=e341]: Buyer / Purchasing Agent – Supply Chain & Procurement | Remote
+            - generic [ref=e343]:
+              - heading [level=3] [ref=e344]: Buyer / Purchasing Agent – Supply Chain & Procurement | Remote
+              - heading [level=4] [ref=e345]:
+                - link [ref=e346] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crossinghurdles?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crossing Hurdles
+              - generic [ref=e347]:
+                - generic [ref=e348]: United States
+                - time [ref=e349]: 20 hours ago
+        - listitem [ref=e350]:
+          - generic [ref=e351]:
+            - link [ref=e352] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/associate-social-media-content-at-girl-scouts-of-the-usa-4402168312?position=21&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=ymBJBC%2FKiwyvGZLQmhjdYw%3D%3D
+              - generic [ref=e353]: Associate, Social Media & Content
+            - generic [ref=e355]:
+              - heading [level=3] [ref=e356]: Associate, Social Media & Content
+              - heading [level=4] [ref=e357]:
+                - link [ref=e358] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/girlscouts?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Girl Scouts of the USA
+              - generic [ref=e359]:
+                - generic [ref=e360]: United States
+                - generic [ref=e363]: Actively Hiring
+                - time [ref=e364]: 13 hours ago
+        - listitem [ref=e365]:
+          - generic [ref=e366]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/administrative-business-partner-junior-ii-209383-at-aquent-4402527518?position=22&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=2b2aHky%2FpwSwqEorKAxaGA%3D%3D
+              - generic [ref=e368]: Administrative Business Partner (Junior II) [209383]
+            - generic [ref=e370]:
+              - heading [level=3] [ref=e371]: Administrative Business Partner (Junior II) [209383]
+              - heading [level=4] [ref=e372]:
+                - link [ref=e373] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/aquent?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Aquent
+              - generic [ref=e374]:
+                - generic [ref=e375]: United States
+                - generic [ref=e378]: Actively Hiring
+                - time [ref=e379]: 1 day ago
+        - listitem [ref=e380]:
+          - generic [ref=e381]:
+            - link [ref=e382] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/admissions-counselor-at-monte-nido-4402674685?position=23&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=LOLgJ6FFJVA2E713%2B15mNw%3D%3D
+              - generic [ref=e383]: Admissions Counselor
+            - generic [ref=e385]:
+              - heading [level=3] [ref=e386]: Admissions Counselor
+              - heading [level=4] [ref=e387]:
+                - link [ref=e388] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/monte-nido?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Monte Nido
+              - generic [ref=e389]:
+                - generic [ref=e390]: United States
+                - time [ref=e391]: 1 day ago
+        - listitem [ref=e392]:
+          - generic [ref=e393]:
+            - link [ref=e394] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/head-director-of-inventory-supply-chain-at-rho-nutrition-4402567855?position=24&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=rcpePS7GDasOuLqhdpjECQ%3D%3D
+              - generic [ref=e395]: Head/Director of Inventory & Supply Chain
+            - generic [ref=e397]:
+              - heading [level=3] [ref=e398]: Head/Director of Inventory & Supply Chain
+              - heading [level=4] [ref=e399]:
+                - link [ref=e400] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rho-nutrition?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rho Nutrition
+              - generic [ref=e401]:
+                - generic [ref=e402]: United States
+                - time [ref=e403]: 1 day ago
+        - listitem [ref=e404]:
+          - generic [ref=e405]:
+            - link [ref=e406] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/head-of-people-operations-at-slate-4402644551?position=25&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=9e7GuXvN2Hwpi6awwIt4Dw%3D%3D
+              - generic [ref=e407]: Head of People Operations
+            - generic [ref=e409]:
+              - heading [level=3] [ref=e410]: Head of People Operations
+              - heading [level=4] [ref=e411]:
+                - link [ref=e412] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/slateusa?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Slate
+              - generic [ref=e413]:
+                - generic [ref=e414]: San Diego, CA
+                - generic [ref=e417]: Be an early applicant
+                - time [ref=e418]: 1 day ago
+        - listitem [ref=e419]:
+          - generic [ref=e420]:
+            - link [ref=e421] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/records-management-assistant-at-medical-marijuana-clinic-4402149516?position=26&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=%2B0RNypoDNkVYwlIK8Knljg%3D%3D
+              - generic [ref=e422]: Records Management Assistant
+            - generic [ref=e424]:
+              - heading [level=3] [ref=e425]: Records Management Assistant
+              - heading [level=4] [ref=e426]:
+                - link [ref=e427] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/medical-marijuana-clinic?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Medical Marijuana Clinic
+              - generic [ref=e428]:
+                - generic [ref=e429]: United States
+                - time [ref=e430]: 1 day ago
+        - listitem [ref=e431]:
+          - generic [ref=e432]:
+            - link [ref=e433] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/investment-banking-analyst-remote-at-crossing-hurdles-4401864040?position=27&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=PMRnh8nvzN3vRObI4J%2F6hw%3D%3D
+              - generic [ref=e434]: Investment Banking Analyst | Remote
+            - generic [ref=e436]:
+              - heading [level=3] [ref=e437]: Investment Banking Analyst | Remote
+              - heading [level=4] [ref=e438]:
+                - link [ref=e439] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crossinghurdles?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crossing Hurdles
+              - generic [ref=e440]:
+                - generic [ref=e441]: United States
+                - time [ref=e442]: 1 day ago
+        - listitem [ref=e443]:
+          - generic [ref=e444]:
+            - link [ref=e445] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/head-of-people-operations-at-slate-4402644550?position=28&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=Yl8Okz70Hpyh7qIo%2F%2BFoUg%3D%3D
+              - generic [ref=e446]: Head of People Operations
+            - generic [ref=e448]:
+              - heading [level=3] [ref=e449]: Head of People Operations
+              - heading [level=4] [ref=e450]:
+                - link [ref=e451] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/slateusa?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Slate
+              - generic [ref=e452]:
+                - generic [ref=e453]: Phoenix, AZ
+                - generic [ref=e456]: Be an early applicant
+                - time [ref=e457]: 1 day ago
+        - listitem [ref=e458]:
+          - generic [ref=e459]:
+            - link [ref=e460] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/filmmaker-at-mercor-4402116591?position=29&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=bOeSEYKtCetbSHVSf%2BVLIQ%3D%3D
+              - generic [ref=e461]: Filmmaker
+            - generic [ref=e463]:
+              - heading [level=3] [ref=e464]: Filmmaker
+              - heading [level=4] [ref=e465]:
+                - link [ref=e466] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mercor-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mercor
+              - generic [ref=e467]:
+                - generic [ref=e468]: New York, NY
+                - generic [ref=e471]: Be an early applicant
+                - time [ref=e472]: 17 hours ago
+        - listitem [ref=e473]:
+          - generic [ref=e474]:
+            - link [ref=e475] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/project-manager-at-nhs-scotland-4403113523?position=30&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=YfPmhGa5mjO09q7RPwrT6Q%3D%3D
+              - generic [ref=e476]: Project Manager
+            - generic [ref=e478]:
+              - heading [level=3] [ref=e479]: Project Manager
+              - heading [level=4] [ref=e480]:
+                - link [ref=e481] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/nhsscotland?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: NHS Scotland
+              - generic [ref=e482]:
+                - generic [ref=e483]: United States
+                - generic [ref=e486]: Be an early applicant
+                - time [ref=e487]: 10 hours ago
+        - listitem [ref=e488]:
+          - generic [ref=e489]:
+            - link [ref=e490] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/data-analyst-at-stripe-4402666521?position=31&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=BvG8uXh22rEFtflVHvHZmA%3D%3D
+              - generic [ref=e491]: Data Analyst
+            - generic [ref=e493]:
+              - heading [level=3] [ref=e494]: Data Analyst
+              - heading [level=4] [ref=e495]:
+                - link [ref=e496] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stripe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stripe
+              - generic [ref=e497]:
+                - generic [ref=e498]: United States
+                - generic [ref=e501]: Actively Hiring
+                - time [ref=e502]: 1 day ago
+        - listitem [ref=e503]:
+          - generic [ref=e504]:
+            - link [ref=e505] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-of-customer-onboarding-at-steer-4403178480?position=32&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=UDZS4XvVqgeJ5TnEspfEyA%3D%3D
+              - generic [ref=e506]: Manager of Customer Onboarding
+            - generic [ref=e508]:
+              - heading [level=3] [ref=e509]: Manager of Customer Onboarding
+              - heading [level=4] [ref=e510]:
+                - link [ref=e511] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/drivenbysteer?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Steer
+              - generic [ref=e512]:
+                - generic [ref=e513]: United States
+                - generic [ref=e516]: Be an early applicant
+                - time [ref=e517]: 2 hours ago
+        - listitem [ref=e518]:
+          - generic [ref=e519]:
+            - link [ref=e520] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/supply-planner-at-forcebrands-4402539238?position=33&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=Steul4%2B8yj6C%2FBeYk2GYKg%3D%3D
+              - generic [ref=e521]: Supply Planner
+            - generic [ref=e523]:
+              - heading [level=3] [ref=e524]: Supply Planner
+              - heading [level=4] [ref=e525]:
+                - link [ref=e526] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/forcebrands?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ForceBrands
+              - generic [ref=e527]:
+                - generic [ref=e528]: United States
+                - generic [ref=e531]: Actively Hiring
+                - time [ref=e532]: 1 day ago
+        - listitem [ref=e533]:
+          - generic [ref=e534]:
+            - link [ref=e535] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-operational-excellence-at-jobgether-4401867565?position=34&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=gH0jd0RwJkUT7XLvZH5Esw%3D%3D
+              - generic [ref=e536]: Manager, Operational Excellence
+            - generic [ref=e538]:
+              - heading [level=3] [ref=e539]: Manager, Operational Excellence
+              - heading [level=4] [ref=e540]:
+                - link [ref=e541] [cursor=pointer]:
+                  - /url: https://be.linkedin.com/company/jobgether?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobgether
+              - generic [ref=e542]:
+                - generic [ref=e543]: United States
+                - time [ref=e544]: 21 hours ago
+        - listitem [ref=e545]:
+          - generic [ref=e546]:
+            - link [ref=e547] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/creative-director-%E2%80%94-snoozy-remote-at-snoozy-4402954567?position=35&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=RHygymxmySClranlmHbp1w%3D%3D
+              - generic [ref=e548]: Creative Director — Snoozy (Remote)
+            - generic [ref=e550]:
+              - heading [level=3] [ref=e551]: Creative Director — Snoozy (Remote)
+              - heading [level=4] [ref=e552]:
+                - link [ref=e553] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/snoozygummy?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Snoozy
+              - generic [ref=e554]:
+                - generic [ref=e555]: United States
+                - time [ref=e556]: 17 hours ago
+        - listitem [ref=e557]:
+          - generic [ref=e558]:
+            - link [ref=e559] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/event-coordinator-remote-at-codegeniusrecruit-4402135239?position=36&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=Eu%2BA2H79LvA37sv1UDCNmA%3D%3D
+              - generic [ref=e560]: Event Coordinator | Remote
+            - generic [ref=e562]:
+              - heading [level=3] [ref=e563]: Event Coordinator | Remote
+              - heading [level=4] [ref=e564]:
+                - link [ref=e565] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/code-genius-recruit?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: CodeGeniusRecruit
+              - generic [ref=e566]:
+                - generic [ref=e567]: United States
+                - time [ref=e568]: 16 hours ago
+        - listitem [ref=e569]:
+          - generic [ref=e570]:
+            - link [ref=e571] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/law-specialist-remote-at-legaltrustai-4402119984?position=37&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=LlvtT60HRBy7TMcE3CajgA%3D%3D
+              - generic [ref=e572]: Law Specialist (Remote)
+            - generic [ref=e574]:
+              - heading [level=3] [ref=e575]: Law Specialist (Remote)
+              - heading [level=4] [ref=e576]:
+                - link [ref=e577] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/legaltrustai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: LegalTrustAI
+              - generic [ref=e578]:
+                - generic [ref=e579]: United States
+                - time [ref=e580]: 16 hours ago
+        - listitem [ref=e581]:
+          - generic [ref=e582]:
+            - link [ref=e583] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/mortgage-loan-assistant-nmls-at-u-s-bank-4403102080?position=38&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=FCTyHN10MjvpLudwOFbmuQ%3D%3D
+              - generic [ref=e584]: Mortgage Loan Assistant - NMLS
+            - generic [ref=e586]:
+              - heading [level=3] [ref=e587]: Mortgage Loan Assistant - NMLS
+              - heading [level=4] [ref=e588]:
+                - link [ref=e589] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/us-bank?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: U.S. Bank
+              - generic [ref=e590]:
+                - generic [ref=e591]: United States
+                - generic [ref=e594]: Actively Hiring
+                - time [ref=e595]: 11 hours ago
+        - listitem [ref=e596]:
+          - generic [ref=e597]:
+            - link [ref=e598] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/manager-of-onboarding-at-steer-4403180468?position=39&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=3gqx%2Bmkr2E7eQITqMypBNA%3D%3D
+              - generic [ref=e599]: Manager of Onboarding
+            - generic [ref=e601]:
+              - heading [level=3] [ref=e602]: Manager of Onboarding
+              - heading [level=4] [ref=e603]:
+                - link [ref=e604] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/drivenbysteer?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Steer
+              - generic [ref=e605]:
+                - generic [ref=e606]: United States
+                - generic [ref=e609]: Be an early applicant
+                - time [ref=e610]: 2 hours ago
+        - listitem [ref=e611]:
+          - generic [ref=e612]:
+            - link [ref=e613] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/customer-success-manager-at-onit-4402568642?position=40&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=6PECFZYV%2BAJTdW6dAdSUwA%3D%3D
+              - generic [ref=e614]: Customer Success Manager
+            - generic [ref=e616]:
+              - heading [level=3] [ref=e617]: Customer Success Manager
+              - heading [level=4] [ref=e618]:
+                - link [ref=e619] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/onit?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Onit
+              - generic [ref=e620]:
+                - generic [ref=e621]: United States
+                - generic [ref=e624]: Actively Hiring
+                - time [ref=e625]: 1 day ago
+        - listitem [ref=e626]:
+          - generic [ref=e627]:
+            - link [ref=e628] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/talent-acquisition-coordinator-at-jobgether-4401863392?position=41&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=yybLbQXq6Sa%2F8B64Bgl1Og%3D%3D
+              - generic [ref=e629]: Talent Acquisition Coordinator
+            - generic [ref=e631]:
+              - heading [level=3] [ref=e632]: Talent Acquisition Coordinator
+              - heading [level=4] [ref=e633]:
+                - link [ref=e634] [cursor=pointer]:
+                  - /url: https://be.linkedin.com/company/jobgether?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobgether
+              - generic [ref=e635]:
+                - generic [ref=e636]: United States
+                - time [ref=e637]: 21 hours ago
+        - listitem [ref=e638]:
+          - generic [ref=e639]:
+            - link [ref=e640] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-designer-at-stripe-4402659574?position=42&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=sRFk4dHuYZssM8Ij0JH3RA%3D%3D
+              - generic [ref=e641]: Product Designer
+            - generic [ref=e643]:
+              - heading [level=3] [ref=e644]: Product Designer
+              - heading [level=4] [ref=e645]:
+                - link [ref=e646] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stripe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stripe
+              - generic [ref=e647]:
+                - generic [ref=e648]: United States
+                - generic [ref=e651]: Actively Hiring
+                - time [ref=e652]: 1 day ago
+        - listitem [ref=e653]:
+          - generic [ref=e654]:
+            - link [ref=e655] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/corporate-counsel-at-finalsite-4402298817?position=43&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=xTcjOSj%2BEj9oyvIlutmh6A%3D%3D
+              - generic [ref=e656]: Corporate Counsel
+            - generic [ref=e658]:
+              - heading [level=3] [ref=e659]: Corporate Counsel
+              - heading [level=4] [ref=e660]:
+                - link [ref=e661] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/finalsite?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Finalsite
+              - generic [ref=e662]:
+                - generic [ref=e663]: United States
+                - generic [ref=e666]: Actively Hiring
+                - time [ref=e667]: 1 day ago
+        - listitem [ref=e668]:
+          - generic [ref=e669]:
+            - link [ref=e670] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/insurance-verification-specialist-at-taj-technologies-inc-4403118358?position=44&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=Vr1gXpXH%2F%2FlA0HOkpqd3cg%3D%3D
+              - generic [ref=e671]: Insurance Verification Specialist
+            - generic [ref=e673]:
+              - heading [level=3] [ref=e674]: Insurance Verification Specialist
+              - heading [level=4] [ref=e675]:
+                - link [ref=e676] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tajtech1?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TAJ Technologies, Inc.
+              - generic [ref=e677]:
+                - generic [ref=e678]: United States
+                - time [ref=e679]: 11 hours ago
+        - listitem [ref=e680]:
+          - generic [ref=e681]:
+            - link [ref=e682] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/event-planning-assistant-remote-at-aisles-abroad-4402956579?position=45&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=wzjlGVsYDPBZUO5Uc5%2Besw%3D%3D
+              - generic [ref=e683]: Event Planning Assistant (Remote)
+            - generic [ref=e685]:
+              - heading [level=3] [ref=e686]: Event Planning Assistant (Remote)
+              - heading [level=4] [ref=e687]:
+                - link [ref=e688] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/aisles-abroad?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Aisles & Abroad
+              - generic [ref=e689]:
+                - generic [ref=e690]: Atlanta, GA
+                - time [ref=e691]: 17 hours ago
+        - listitem [ref=e692]:
+          - generic [ref=e693]:
+            - link [ref=e694] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/administrative-assistant-at-imaginate-your-space-4402951721?position=46&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=HVkRZ9vVwgDs0%2FQ1qY6UsQ%3D%3D
+              - generic [ref=e695]: Administrative Assistant
+            - generic [ref=e697]:
+              - heading [level=3] [ref=e698]: Administrative Assistant
+              - heading [level=4] [ref=e699]:
+                - link [ref=e700] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/imaginate-your-space?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Imaginate Your Space
+              - generic [ref=e701]:
+                - generic [ref=e702]: United States
+                - time [ref=e703]: 17 hours ago
+        - listitem [ref=e704]:
+          - generic [ref=e705]:
+            - link [ref=e706] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4403168575?position=47&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=JBa61Nki73tBGmmsPaKj9A%3D%3D
+              - generic [ref=e707]: Junior Data Analyst
+            - generic [ref=e709]:
+              - heading [level=3] [ref=e710]: Junior Data Analyst
+              - heading [level=4] [ref=e711]:
+                - link [ref=e712] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/wearehaystack?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Haystack
+              - generic [ref=e713]:
+                - generic [ref=e714]: Greater Minneapolis-St. Paul Area
+                - generic [ref=e717]: Actively Hiring
+                - time [ref=e718]: 4 hours ago
+        - listitem [ref=e719]:
+          - generic [ref=e720]:
+            - link [ref=e721] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/remote-talent-acquisition-generalist-at-alliance-animal-health-4402158056?position=48&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=aa5h%2B4X61%2FhSrzY%2B%2Fo7i4g%3D%3D
+              - generic [ref=e722]: Remote Talent Acquisition Generalist
+            - generic [ref=e724]:
+              - heading [level=3] [ref=e725]: Remote Talent Acquisition Generalist
+              - heading [level=4] [ref=e726]:
+                - link [ref=e727] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/allianceanimal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Alliance Animal Health
+              - generic [ref=e728]:
+                - generic [ref=e729]: Charlotte, NC
+                - generic [ref=e732]: Actively Hiring
+                - time [ref=e733]: 14 hours ago
+        - listitem [ref=e734]:
+          - generic [ref=e735]:
+            - link [ref=e736] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/creator-influencer-marketing-manager-at-mint-lily-4401865433?position=49&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=qxHcpl1jCPclHah%2Fz8yStw%3D%3D
+              - generic [ref=e737]: Creator & Influencer Marketing Manager
+            - generic [ref=e739]:
+              - heading [level=3] [ref=e740]: Creator & Influencer Marketing Manager
+              - heading [level=4] [ref=e741]:
+                - link [ref=e742] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mintandlily?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mint & Lily
+              - generic [ref=e743]:
+                - generic [ref=e744]: United States
+                - time [ref=e745]: 22 hours ago
+        - listitem [ref=e746]:
+          - generic [ref=e747]:
+            - link [ref=e748] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/visual-designer-at-ridge-4403165930?position=50&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=GfQFZvMObdR1LefZTux08Q%3D%3D
+              - generic [ref=e749]: Visual Designer
+            - generic [ref=e751]:
+              - heading [level=3] [ref=e752]: Visual Designer
+              - heading [level=4] [ref=e753]:
+                - link [ref=e754] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/the-ridge-wallet?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Ridge
+              - generic [ref=e755]:
+                - generic [ref=e756]: San Marino, CA
+                - generic [ref=e759]: Be an early applicant
+                - time [ref=e760]: 4 hours ago
+        - listitem [ref=e761]:
+          - generic [ref=e762]:
+            - link [ref=e763] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/junior-data-analyst-at-helic-co-4402981631?position=51&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=0it0m5C22HhOlMYVYU6raw%3D%3D
+              - generic [ref=e764]: Junior Data Analyst
+            - generic [ref=e766]:
+              - heading [level=3] [ref=e767]: Junior Data Analyst
+              - heading [level=4] [ref=e768]:
+                - link [ref=e769] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/helicco?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Helic & Co.
+              - generic [ref=e770]:
+                - generic [ref=e771]: United States
+                - time [ref=e772]: 12 hours ago
+        - listitem [ref=e773]:
+          - generic [ref=e774]:
+            - link [ref=e775] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/health-data-analyst-remote-at-prime-therapeutics-4401807082?position=52&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=qNlqYJdjpo4qTyzN80NXhA%3D%3D
+              - generic [ref=e776]: Health Data Analyst - Remote
+            - generic [ref=e778]:
+              - heading [level=3] [ref=e779]: Health Data Analyst - Remote
+              - heading [level=4] [ref=e780]:
+                - link [ref=e781] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/prime-therapeutics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Prime Therapeutics
+              - generic [ref=e782]:
+                - generic [ref=e783]: Minneapolis, MN
+                - generic [ref=e786]: Actively Hiring
+                - time [ref=e787]: 1 day ago
+        - listitem [ref=e788]:
+          - generic [ref=e789]:
+            - link [ref=e790] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/procurement-specialist-%E2%80%93-purchasing-sourcing-expert-remote-at-crossing-hurdles-4401865805?position=53&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=ZEKxP4EmeRCv7X706vUeJg%3D%3D
+              - generic [ref=e791]: Procurement Specialist – Purchasing & Sourcing Expert | Remote
+            - generic [ref=e793]:
+              - heading [level=3] [ref=e794]: Procurement Specialist – Purchasing & Sourcing Expert | Remote
+              - heading [level=4] [ref=e795]:
+                - link [ref=e796] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crossinghurdles?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crossing Hurdles
+              - generic [ref=e797]:
+                - generic [ref=e798]: United States
+                - time [ref=e799]: 20 hours ago
+        - listitem [ref=e800]:
+          - generic [ref=e801]:
+            - link [ref=e802] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/graphic-production-artist-at-workgenius-group-4402322107?position=54&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=xl7hiTPkGW6qtyXmYW8pVw%3D%3D
+              - generic [ref=e803]: Graphic Production Artist
+            - generic [ref=e805]:
+              - heading [level=3] [ref=e806]: Graphic Production Artist
+              - heading [level=4] [ref=e807]:
+                - link [ref=e808] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/workgenius-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: WorkGenius Group
+              - generic [ref=e809]:
+                - generic [ref=e810]: United States
+                - generic [ref=e813]: Actively Hiring
+                - time [ref=e814]: 9 hours ago
+        - listitem [ref=e815]:
+          - generic [ref=e816]:
+            - link [ref=e817] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/procurement-specialist-contract-role-at-lexeo-therapeutics-4402645717?position=55&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=jmmkoVaAiZjBjgV1yD0TEw%3D%3D
+              - generic [ref=e818]: Procurement Specialist (Contract Role)
+            - generic [ref=e820]:
+              - heading [level=3] [ref=e821]: Procurement Specialist (Contract Role)
+              - heading [level=4] [ref=e822]:
+                - link [ref=e823] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lexeo-therapeutics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lexeo Therapeutics
+              - generic [ref=e824]:
+                - generic [ref=e825]: New York, NY
+                - time [ref=e826]: 1 day ago
+        - listitem [ref=e827]:
+          - generic [ref=e828]:
+            - link [ref=e829] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/junior-human-resources-assistant-at-helic-co-4402993492?position=56&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=zR9gp4a%2FjV5HyTau58Fywg%3D%3D
+              - generic [ref=e830]: Junior Human Resources Assistant
+            - generic [ref=e832]:
+              - heading [level=3] [ref=e833]: Junior Human Resources Assistant
+              - heading [level=4] [ref=e834]:
+                - link [ref=e835] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/helicco?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Helic & Co.
+              - generic [ref=e836]:
+                - generic [ref=e837]: United States
+                - generic [ref=e840]: Medical insurance +7 benefits
+                - time [ref=e841]: 12 hours ago
+        - listitem [ref=e842]:
+          - generic [ref=e843]:
+            - link [ref=e844] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/director-of-admissions-at-jobgether-4402119769?position=57&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=KlDnnVCwBLW9eThr9U0bnA%3D%3D
+              - generic [ref=e845]: Director of Admissions
+            - generic [ref=e847]:
+              - heading [level=3] [ref=e848]: Director of Admissions
+              - heading [level=4] [ref=e849]:
+                - link [ref=e850] [cursor=pointer]:
+                  - /url: https://be.linkedin.com/company/jobgether?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobgether
+              - generic [ref=e851]:
+                - generic [ref=e852]: United States
+                - time [ref=e853]: 17 hours ago
+        - listitem [ref=e854]:
+          - generic [ref=e855]:
+            - link [ref=e856] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/talent-acquisition-specialist-at-elite-clinical-network-4401481805?position=58&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=MVPZrlTBMiE1zoO4YM6%2BDQ%3D%3D
+              - generic [ref=e857]: Talent Acquisition Specialist
+            - generic [ref=e859]:
+              - heading [level=3] [ref=e860]: Talent Acquisition Specialist
+              - heading [level=4] [ref=e861]:
+                - link [ref=e862] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/elite-clinical-network?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Elite Clinical Network
+              - generic [ref=e863]:
+                - generic [ref=e864]: United States
+                - time [ref=e865]: 1 day ago
+        - listitem [ref=e866]:
+          - generic [ref=e867]:
+            - link [ref=e868] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/scrum-master-at-tradecafe-4402550077?position=59&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=5b8Rcti669RZ8wJuQFLF%2Bg%3D%3D
+              - generic [ref=e869]: Scrum Master
+            - generic [ref=e871]:
+              - heading [level=3] [ref=e872]: Scrum Master
+              - heading [level=4] [ref=e873]:
+                - link [ref=e874] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/tradecafe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TradeCafe
+              - generic [ref=e875]:
+                - generic [ref=e876]: United States
+                - time [ref=e877]: 1 day ago
+        - listitem [ref=e878]:
+          - generic [ref=e879]:
+            - link [ref=e880] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/client-experience-coordinator-at-jobgether-4402118779?position=60&pageNum=0&refId=dIFpAlrCDkCsiBr1OZYUYg%3D%3D&trackingId=lPc5lD%2BpR2t7gALSadeRmw%3D%3D
+              - generic [ref=e881]: Client Experience Coordinator
+            - generic [ref=e883]:
+              - heading [level=3] [ref=e884]: Client Experience Coordinator
+              - heading [level=4] [ref=e885]:
+                - link [ref=e886] [cursor=pointer]:
+                  - /url: https://be.linkedin.com/company/jobgether?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobgether
+              - generic [ref=e887]:
+                - generic [ref=e888]: United States
+                - time [ref=e889]: 16 hours ago
+    - contentinfo [ref=e891]:
+      - list [ref=e892]:
+        - listitem [ref=e893]:
+          - generic [ref=e894]: LinkedIn
+          - generic [ref=e896]: © 2026
+        - listitem [ref=e897]:
+          - link [ref=e898] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=e899]:
+          - link [ref=e900] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=e901]:
+          - link [ref=e902] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=e903]:
+          - link [ref=e904] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=e905]:
+          - link [ref=e906] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=e907]:
+          - link [ref=e908] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=e909]:
+          - link [ref=e910] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=e911]:
+          - link [ref=e912] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=e913]:
+          - link [ref=e914] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=e915]:
+          - button [ref=e917]: Language
+  - dialog "Join now to view more jobs" [active] [ref=e920]:
+    - button "Dismiss" [ref=e921] [cursor=pointer]:
+      - img [ref=e980]
+    - generic [ref=e923]:
+      - generic [ref=e924]:
+        - img [ref=e925]
+        - heading "Join now to view more jobs" [level=2] [ref=e926]
+      - generic [ref=e927]:
+        - button "Continue with google" [ref=e984]:
+          - iframe [ref=e986]:
+            - button "Continue with Google. Opens in new tab" [ref=f2e3] [cursor=pointer]:
+              - generic [ref=f2e5]:
+                - img [ref=f2e8]
+                - generic [ref=f2e15]: Continue with Google
+        - link "Join with email" [ref=e928] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-with-email-cta
+          - img [ref=e987]
+          - generic [ref=e930]: Join with email
+        - paragraph [ref=e932]: or
+        - button "Continue with google" [ref=e990]:
+          - iframe [ref=e992]:
+            - button "Continue with Google. Opens in new tab" [ref=f3e3] [cursor=pointer]:
+              - generic [ref=f3e5]:
+                - img [ref=f3e7]
+                - generic [ref=f3e14]: Continue with Google
+        - paragraph [ref=e933]:
+          - text: Already on LinkedIn?
+          - link "Sign in" [ref=e934] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?trk=public_jobs_contextual-sign-in-modal_sign-in-link
+        - paragraph [ref=e935]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e936] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e937] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e938] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .
