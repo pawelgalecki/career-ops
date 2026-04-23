@@ -1,0 +1,6 @@
+id	url	status	started_at	completed_at	report_num	score	error	retries
+1	https://www.linkedin.com/jobs/view/4387119622/	completed	2026-04-18T08:32:21Z	2026-04-18T08:39:02Z	046	3.4	-	0
+5	https://jobs.ashbyhq.com/oscilar/90a8856a-2b26-4bac-add6-8eb246f868f3	completed	2026-04-18T08:39:03Z	2026-04-18T08:45:04Z	047	3.6	-	0
+7	https://jobs.lever.co/miinto/df741263-b39b-4b8b-b1dc-4476e3e1a049	completed	2026-04-18T08:45:04Z	2026-04-18T08:50:25Z	048	3.4	-	0
+8	https://job-boards.greenhouse.io/convera/jobs/4559104101	completed	2026-04-18T08:50:25Z	2026-04-18T08:52:36Z	049	-	-	0
+15	https://www.pracuj.pl/praca/senior-backend-developer-java-warszawa,oferta,1004468303	completed	2026-04-18T08:52:36Z	2026-04-18T08:53:33Z	050	-	-	0

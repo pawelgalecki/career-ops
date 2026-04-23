@@ -356,8 +356,10 @@ tracked_companies:
     enabled: true
 
   - name: Klarna
-    careers_url: https://jobs.lever.co/klarna
-    notes: "Stockholm. Buy-now-pay-later. Java/Spring backend."
+    careers_url: https://jobs.deel.com/job-boards/klarna
+    scan_method: websearch
+    scan_query: 'site:jobs.deel.com/job-boards/klarna "Java" OR "Backend" OR "Senior" OR "Staff" Warsaw OR Stockholm OR remote'
+    notes: "Stockholm + Warsaw hub (opened Nov 2024, active Java hiring). Moved from Lever to Deel ATS; Deel board is JS-rendered — websearch only."
     enabled: true
 
   - name: Revolut
@@ -1007,6 +1009,20 @@ tracked_companies:
     notes: "PL tech job board."
     enabled: true
 
+  - name: OLX Praca
+    careers_url: https://www.olx.pl/praca/
+    scan_method: websearch
+    scan_query: 'site:olx.pl/praca Java OR Spring OR "Backend" OR "Software Engineer" OR "Architect" senior OR staff Warszawa OR Warsaw OR remote'
+    notes: "PL classifieds — jobs section. Lower signal-to-noise; scan for direct-employer Warsaw Java postings."
+    enabled: true
+
+  - name: BeBee
+    careers_url: https://pl.bebee.com
+    scan_method: websearch
+    scan_query: 'site:bebee.com Java OR Spring OR "Backend Engineer" OR "Software Architect" senior OR staff Warsaw OR Poland OR remote Europe'
+    notes: "International affinity/jobs aggregator. Noisy — many syndicated listings. Scan for unique direct employers."
+    enabled: true
+
   # ==========================================
   # NORDICS (REMOTE-FRIENDLY)
   # ==========================================
@@ -1026,4 +1042,117 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:lunar.app/careers "Backend" OR "Java" OR "Engineer"'
     notes: "Aarhus. Nordic neobank."
+    enabled: true
+
+  # ==========================================
+  # ADDED 2026-04-20 (Bulk research batch)
+  # ==========================================
+
+  - name: Kalepa
+    careers_url: https://boards.greenhouse.io/kalepa
+    api: https://boards-api.greenhouse.io/v1/boards/kalepa/jobs
+    notes: "InsurTech/AI underwriting. Europe Full Remote. Multiple Sr/Staff backend + Tech Lead Mgr roles. Verify Java vs Python in JDs."
+    enabled: true
+
+  - name: Awin
+    careers_url: https://job-boards.greenhouse.io/awin
+    api: https://boards-api.greenhouse.io/v1/boards/awin/jobs
+    notes: "Affiliate marketing. Warsaw-eligible Eng Mgr roles; fullstack IC roles mostly Iași (Romania)."
+    enabled: true
+
+  - name: Fanatics (Betting & Gaming)
+    careers_url: https://job-boards.greenhouse.io/fanaticsfbg
+    api: https://boards-api.greenhouse.io/v1/boards/fanaticsfbg/jobs
+    notes: "Dublin/London eng hub. Java backend (iCasino/Promotions/Trading). Gambling domain flag. Previously eval'd 2.8/5."
+    enabled: true
+
+  - name: Gong
+    careers_url: https://job-boards.greenhouse.io/gongio
+    api: https://boards-api.greenhouse.io/v1/boards/gongio/jobs
+    notes: "Revenue intelligence. JVM (Java/Scala/Kotlin). Dublin is the only EU eng hub; senior roles sit in Tel Aviv."
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://job-boards.greenhouse.io/twilio
+    api: https://boards-api.greenhouse.io/v1/boards/twilio/jobs
+    notes: "Comms APIs. EU-remote restricted to Spain/UK/Ireland (not pan-EU). Historically flexible with recruiters."
+    enabled: true
+
+  - name: Prove (Prove Identity)
+    careers_url: https://job-boards.greenhouse.io/prove
+    api: https://boards-api.greenhouse.io/v1/boards/prove/jobs
+    notes: "Identity verification. Sparse EU hiring (mostly US). Check periodically."
+    enabled: true
+
+  - name: Sytac
+    careers_url: https://jobs.lever.co/sytac
+    notes: "NL IT consultancy (Haarlem/Amsterdam). Java/Spring/Kotlin. On-site NL with relocation support — no Poland-remote."
+    enabled: true
+
+  - name: Ashby
+    careers_url: https://jobs.ashbyhq.com/ashby
+    notes: "ATS vendor. Tiny hiring surface (~4 roles total). Watch for EU Eng Mgmt/Tech Lead."
+    enabled: true
+
+  - name: Visa
+    careers_url: https://careers.smartrecruiters.com/Visa/polandcareers
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Visa "Java" OR "Backend" OR "Software Engineer" OR "Architect" Warsaw OR Poland'
+    notes: "Warsaw CEE tech hub. SmartRecruiters ATS. Historically hires Sr/Staff Java; dry right now."
+    enabled: true
+
+  - name: Nortal
+    careers_url: https://careers.nortal.com/poland/
+    scan_method: websearch
+    scan_query: 'site:careers.nortal.com Java OR Spring OR Kotlin "senior" OR "lead" OR "architect" Poland OR Warsaw OR remote'
+    notes: "EE/PL IT consultancy. Warsaw office hires Senior Java. Career page JS-rendered — websearch only."
+    enabled: true
+
+  - name: TietoEVRY
+    careers_url: https://careers.tieto.com/jobs
+    scan_method: websearch
+    scan_query: 'site:careers.tieto.com OR site:careers.tietoevry.com Java OR Spring "senior" OR "lead" OR "architect" Poland OR Warsaw'
+    notes: "Nordic IT services. Workday ATS (no API). 50+ Poland roles claimed; Warsaw + Poznań Java. Payments domain overlap."
+    enabled: true
+
+  - name: Picnic Technologies
+    careers_url: https://jobs.picnic.app/en/vacancies
+    scan_method: websearch
+    scan_query: 'site:jobs.picnic.app Java OR Spring OR Kotlin "staff" OR "senior" OR "tech lead" backend'
+    notes: "Amsterdam online grocer. Java 21/Spring 6/Kafka/K8s. On-site Amsterdam; relocation support but no PL-remote."
+    enabled: true
+
+  - name: Redcare Pharmacy
+    careers_url: https://jobs.smartrecruiters.com/redcare-pharmacy
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/redcare-pharmacy "Java" OR "Backend" OR "Architect" OR "Senior"'
+    notes: "Berlin. Online pharmacy. Java/Spring/Mongo/Rabbit. Remote restricted to Germany (20 EU days/year)."
+    enabled: true
+
+  - name: Luminor Group
+    careers_url: https://luminorbank.teamtailor.com/jobs
+    scan_method: websearch
+    scan_query: 'site:luminorbank.teamtailor.com "Java" OR "Backend" OR "Tech Lead" OR "Architect"'
+    notes: "Baltic bank (EE/LV/LT). Teamtailor ATS. Hybrid Riga/Tallinn/Vilnius; 90-day EU work-from-anywhere policy."
+    enabled: true
+
+  - name: Bet365
+    careers_url: https://careers.smartrecruiters.com/Bet3651
+    scan_method: websearch
+    scan_query: 'site:jobs.smartrecruiters.com/Bet3651 "Java" OR "Backend" OR "Senior" OR "Lead"'
+    notes: "Manchester UK on-site. Java stack. Gambling domain. No Poland office."
+    enabled: true
+
+  - name: Albert Heijn
+    careers_url: https://werk.ah.nl/AH-technology
+    scan_method: websearch
+    scan_query: 'site:werk.ah.nl "Senior Backend" OR "Java" OR "Kotlin" OR "Tech Lead"'
+    notes: "Dutch supermarket (Ahold Delhaize). Strong Java/Kotlin/Spring Boot/Kafka/Azure match. Zaandam hybrid (NL relocation)."
+    enabled: true
+
+  - name: pawaTech
+    careers_url: https://careers.pawatech.com/
+    scan_method: websearch
+    scan_query: 'site:linkedin.com/jobs pawatech "Java" OR "Spring" OR "Backend" OR "Senior"'
+    notes: "Estonia (betPawa Africa sportsbook). Java/Spring/microservices. EEA-remote variant available. iGaming flag."
     enabled: true

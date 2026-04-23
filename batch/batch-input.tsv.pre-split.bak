@@ -1,0 +1,56 @@
+id	url	source	notes
+1	https://www.linkedin.com/jobs/view/4387119622/	LinkedIn	Salmon Group Ltd - Java Developer (API) - EU Remote
+2	https://www.linkedin.com/jobs/view/4394633244/	LinkedIn	Sprint and Partners - Backend Engineer (Payments startup) - EU Remote
+3	https://www.linkedin.com/jobs/view/4385437814/	LinkedIn	Turnitin - Principal/Senior Software Engineer Fullstack/Backend - Poland Remote
+4	https://www.linkedin.com/jobs/view/4388086452/	LinkedIn	CKEditor (CKSource) - Principal Product Engineer - Poland Remote
+5	https://jobs.ashbyhq.com/oscilar/90a8856a-2b26-4bac-add6-8eb246f868f3	Ashby	Oscilar - Sr./Staff Backend Engineer - Java
+6	https://jobs.ashbyhq.com/oscilar/f0af6a8f-08bd-448d-9b6a-1a10ebe933bf	Ashby	Oscilar - Sr./Staff Backend Engineer - Java/Kafka
+7	https://jobs.lever.co/miinto/df741263-b39b-4b8b-b1dc-4476e3e1a049	Lever	Miinto - Senior Backend Developer - Java (Remote/Warsaw)
+8	https://job-boards.greenhouse.io/convera/jobs/4559104101	Greenhouse	Convera - Senior Software Engineer - Java/Spring Boot/Microservices Remote
+9	https://jobs.smartrecruiters.com/Visa/743999991624582-senior-software-engineer-java-backend	SmartRecruiters	Visa - Senior Software Engineer - Java Backend Warsaw
+10	https://jobs.smartrecruiters.com/smartrecruiters/744000033939292-senior-software-engineer-backend	SmartRecruiters	SmartRecruiters - Senior Software Engineer Backend - Poland Remote
+11	https://jobs.ashbyhq.com/helpscout/b917ffb5-425d-44cf-9321-651a81c5ecba	Ashby	Help Scout - Sr. Java/Kotlin Engineer - Search (Remote, $156k-$168k)
+12	https://join.com/companies/kerno/15837258-senior-kotlin-java-backend-engineer-europe	Join	Kerno - Senior Kotlin/Java Backend Engineer - Europe Remote
+13	https://www.pracuj.pl/praca/tech-lead-solution-architect-warszawa-twarda-18,oferta,1003733839	Pracuj	ALGOTEQUE - Tech Lead / Solution Architect - Warsaw
+14	https://www.pracuj.pl/praca/solution-architect-technical-lead-warszawa,oferta,1001192440	Pracuj	Roche - Solution Architect - Technical Lead - Warsaw
+15	https://www.pracuj.pl/praca/senior-backend-developer-java-warszawa,oferta,1004468303	Pracuj	ITDS Polska - Senior Backend Developer (Java) - Warsaw
+16	https://justjoin.it/job-offer/the-software-house-java-solution-architect-warszawa-java	JustJoin	The Software House - Java Solution Architect - Warsaw
+17	https://sumup.com/careers/positions/8222274002?gh_jid=8222274002	SumUp	SumUp - Senior Backend Engineer - Fiscalization
+18	https://job-boards.greenhouse.io/grafanalabs/jobs/5853481004	Greenhouse	Grafana Labs - Senior Backend SWE - Alerting (Germany Remote; representative of 5 EU locations)
+19	https://job-boards.greenhouse.io/grafanalabs/jobs/5968641004	Greenhouse	Grafana Labs - Senior SWE - Databases Managed Services (Spain Remote; representative of 3 EU locations)
+20	https://job-boards.greenhouse.io/grafanalabs/jobs/5764241004	Greenhouse	Grafana Labs - Senior SWE - k6 (Germany Remote; representative of 4 EU locations)
+21	https://job-boards.greenhouse.io/grafanalabs/jobs/5801256004	Greenhouse	Grafana Labs - Staff Backend SWE - Adaptive Telemetry (Germany Remote; representative of 4 EU locations)
+22	https://job-boards.greenhouse.io/grafanalabs/jobs/5809261004	Greenhouse	Grafana Labs - Staff SWE - Grafana Cloud Observability K8s Monitoring (Germany Remote; representative of 4 EU locations)
+23	https://job-boards.greenhouse.io/grafanalabs/jobs/5968613004	Greenhouse	Grafana Labs - Staff SWE - Databases Managed Services (Spain Remote; representative of 3 EU locations)
+24	https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726	Datadog	Datadog - Partner Solutions Architect (EMEA)
+25	https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5	Ashby	Supabase - Platform Engineer: Data
+26	https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8	Ashby	Supabase - SDK Engineer - Kotlin
+27	https://jobs.ashbyhq.com/supabase/8a49c4b3-a48b-4d6a-9c3c-36943fcd0dfb	Ashby	Supabase - Software Engineer - Supavisor
+28	https://jobs.ashbyhq.com/supabase/64085bde-a5c2-4198-a2e1-d76f5a78f56f	Ashby	Supabase - Strategic Customer Solutions Architect (EMEA)
+29	https://www.mongodb.com/careers/job/?gh_jid=7557618	MongoDB	MongoDB - Solutions Architect, German speaker (language req may be blocker)
+30	https://careers.hellofresh.com/global/en/job/7364459?gh_jid=7364459	HelloFresh	HelloFresh - Senior Backend Engineer, Active Journey
+31	https://careers.hellofresh.com/global/en/job/7618894?gh_jid=7618894	HelloFresh	HelloFresh - Senior Backend Engineer, Active Journey Alliance
+32	https://careers.hellofresh.com/global/en/job/7601774?gh_jid=7601774	HelloFresh	HelloFresh - Senior Backend Engineer, Cart
+33	https://careers.hellofresh.com/global/en/job/7641270?gh_jid=7641270	HelloFresh	HelloFresh - Senior Backend Engineer, Data
+34	https://careers.hellofresh.com/global/en/job/7757845?gh_jid=7757845	HelloFresh	HelloFresh - Senior Backend Engineer, Deliveries and Orders
+35	https://careers.hellofresh.com/global/en/job/7774546?gh_jid=7774546	HelloFresh	HelloFresh - Senior Backend Engineer, Finance Tech
+36	https://careers.hellofresh.com/global/en/job/7668433?gh_jid=7668433	HelloFresh	HelloFresh - Senior Backend Engineer, Growth Alliance
+37	https://careers.hellofresh.com/global/en/job/7806851?gh_jid=7806851	HelloFresh	HelloFresh - Senior Backend Engineer, Menu Personalization
+38	https://careers.hellofresh.com/global/en/job/7757846?gh_jid=7757846	HelloFresh	HelloFresh - Senior Backend Engineer, Plans Squad (f/m/x)
+39	https://careers.hellofresh.com/global/en/job/7618910?gh_jid=7618910	HelloFresh	HelloFresh - Staff Backend Engineer, Active Journey Alliance
+40	https://careers.hellofresh.com/global/en/job/7807207?gh_jid=7807207	HelloFresh	HelloFresh - Staff Backend Engineer, Plans Squad (f/m/x)
+41	https://jobs.ashbyhq.com/attio/433cfa12-a43d-435e-9f69-8fb8688d1b10	Ashby	Attio - Senior Product Engineer [Backend]
+42	https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9	Ashby	Attio - Senior Platform Engineer
+43	https://jobs.ashbyhq.com/attio/12b5faed-50b9-4b7a-80e8-af17b621cbe2	Ashby	Attio - Engineering Lead
+44	https://jobs.ashbyhq.com/attio/a7ef676f-ba62-4316-afd6-43e9ff619378	Ashby	Attio - Staff Product Engineer
+45	https://job-boards.greenhouse.io/kalepa/jobs/5737333004	Greenhouse	Kalepa - Senior Backend Engineer - Client Integrations - Europe Remote
+46	https://job-boards.greenhouse.io/kalepa/jobs/5755011004	Greenhouse	Kalepa - Senior Backend Engineer - Submission Processing - Europe Remote
+47	https://job-boards.greenhouse.io/kalepa/jobs/5737445004	Greenhouse	Kalepa - Staff Backend Engineer - New Products - Europe Remote
+48	https://job-boards.greenhouse.io/kalepa/jobs/5737411004	Greenhouse	Kalepa - Senior Fullstack Engineer - Core UX - Europe Remote
+49	https://job-boards.greenhouse.io/kalepa/jobs/5796047004	Greenhouse	Kalepa - Tech Lead Manager - Client Integrations - Europe Remote
+50	https://careers.tieto.com/job/software-engineer-java-tietoevry-create-m-f-d-in-warsaw-poland-jid-146	Tieto	TietoEVRY - Software Engineer Java - Warsaw (payments domain overlap with RedCompass)
+51	https://careers.tieto.com/job/lead-software-engineer-java-c-wcs-tietoevry-create-m-f-d-in-poznan-poland-jid-1218	Tieto	TietoEVRY - Lead Software Engineer Java/C# - Poznań
+52	https://job-boards.greenhouse.io/awin/jobs/7647229003	Greenhouse	Awin - Engineering Manager - Enterprise Integrations - Warsaw (+Berlin/Amsterdam/London/Madrid/Milan/Munich/Iași/Hannover)
+53	https://opportunities.northzone.com/companies/klarna/jobs/42752146-senior-software-engineer-java	Mirror	Klarna - Senior SWE Java - Warsaw — VERIFY live via jobs.deel.com/job-boards/klarna (mirror shows closed but Warsaw hub is hiring)
+54	https://www.linkedin.com/jobs/view/senior-software-engineer-sports-feed-domain-at-pawatech-4402262620	LinkedIn	pawaTech - Senior SWE - Sports Feed - EEA Remote (iGaming/sportsbook — moral fit check)
+55	https://es.linkedin.com/jobs/view/principal-engineer-backend-at-epassi-4383972147	LinkedIn	Epassi - Principal Engineer Backend - Remote-first EU (confirm Poland eligibility on LinkedIn)

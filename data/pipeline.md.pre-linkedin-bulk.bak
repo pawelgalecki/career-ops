@@ -1,0 +1,189 @@
+# Job Pipeline — Inbox
+
+Add URLs here to be processed by /career-ops pipeline.
+
+## Pendientes
+
+<!-- 2026-04-17: dedupe + filter pass. Cross-location Grafana dupes collapsed to 1 eval per unique role.
+     US/Canada-only, Go-primary, non-Senior, off-target-role entries marked [!] with reason. -->
+
+### Warsaw / EU Remote — Java backend (high priority)
+- [!] https://www.linkedin.com/jobs/view/4400248387/ | Banank | Lead Data Engineer - Warsaw — Filtered: Data Engineer off-target (user targets backend/fullstack/architect)
+
+### SumUp
+- [!] https://sumup.com/careers/positions/8236280002?gh_jid=8236280002 | SumUp | Senior Backend Engineer - Golang — Filtered: Go-primary (user targets Java/Kotlin)
+
+### Form3
+- [!] https://www.form3.tech/careers/vacancies/8395526002?gh_jid=8395526002 | Form3 | Senior Business Analyst - UK Payments — Filtered: analyst role off-target (user is engineer/architect)
+- [!] https://www.form3.tech/careers/vacancies/7680146002?gh_jid=7680146002 | Form3 | Senior Software Developer (Go) - US Instant Payments — Filtered: Go + US-only
+
+### Grafana Labs — deduped (cross-location dupes collapsed; Go-primary kept for documentation)
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5853841004 | Grafana Labs | Alerting (Ireland) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5853832004 | Grafana Labs | Alerting (Spain) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5853850004 | Grafana Labs | Alerting (Sweden) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5853856004 | Grafana Labs | Alerting (UK) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5968692004 | Grafana Labs | Databases Managed Services Senior (Ireland) — Dupe of Spain
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5968666004 | Grafana Labs | Databases Managed Services Senior (UK) — Dupe of Spain
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5764239004 | Grafana Labs | k6 Senior (Spain) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5764236004 | Grafana Labs | k6 Senior (Sweden) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5764163004 | Grafana Labs | k6 Senior (UK) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5840517004 | Grafana Labs | Observability Knowledge Graph Backend (Canada) — Filtered: Canada-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5840512004 | Grafana Labs | Observability Knowledge Graph Backend (US) — Filtered: US-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5801259004 | Grafana Labs | Adaptive Telemetry Staff (Spain) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5801260004 | Grafana Labs | Adaptive Telemetry Staff (Sweden) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5801257004 | Grafana Labs | Adaptive Telemetry Staff (UK) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5807088004 | Grafana Labs | Databases Pyroscope Staff (Canada) — Filtered: Canada-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5807096004 | Grafana Labs | Databases Pyroscope Staff (US) — Filtered: US-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5825938004 | Grafana Labs | Developer Advocacy Staff (Canada) — Filtered: Canada-only + DevRel off-target
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5800230004 | Grafana Labs | Grafana Cloud k6 Staff (Canada) — Filtered: Canada-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5800213004 | Grafana Labs | Grafana Cloud k6 Staff (USA) — Filtered: US-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5811265004 | Grafana Labs | K8s Monitoring Staff (Canada) — Filtered: Canada-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5809258004 | Grafana Labs | K8s Monitoring Staff (Spain) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5809259004 | Grafana Labs | K8s Monitoring Staff (Sweden) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5809260004 | Grafana Labs | K8s Monitoring Staff (UK) — Dupe of Germany
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5811262004 | Grafana Labs | K8s Monitoring Staff (USA EST-only) — Filtered: US-only
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5968728004 | Grafana Labs | Databases Managed Services Staff (Ireland) — Dupe of Spain
+- [!] https://job-boards.greenhouse.io/grafanalabs/jobs/5968693004 | Grafana Labs | Databases Managed Services Staff (UK) — Dupe of Spain
+
+### Datadog
+- [!] https://careers.datadoghq.com/detail/7776476/?gh_jid=7776476 | Datadog | Partner Solutions Architect (LATAM) — Filtered: LATAM-only
+- [!] https://careers.datadoghq.com/detail/7820814/?gh_jid=7820814 | Datadog | Senior SWE, macOS Specialist — Filtered: macOS specialist (Swift/Obj-C, not Java backend)
+
+### Supabase
+- [!] https://jobs.ashbyhq.com/supabase/2ed5e80d-438b-47a5-9efe-12d168b8de81 | Supabase | Software Engineer - Support Tooling (APAC/AMER) — Filtered: APAC/AMER excludes EMEA/Warsaw
+- [!] https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d | Supabase | Software Engineer (Go) - Auth Product — Filtered: Go-primary
+- [!] https://jobs.ashbyhq.com/supabase/77439e1c-e4eb-483c-aa8e-7686913886e3 | Supabase | Software Engineer (Go) - Auth — Filtered: Go-primary
+
+### MongoDB
+
+### HelloFresh
+- [!] https://careers.hellofresh.com/global/en/job/7633956?gh_jid=7633956 | HelloFresh | Backend Engineer, Consumer — Filtered: non-Senior (below target level)
+- [!] https://careers.hellofresh.com/global/en/job/7653839?gh_jid=7653839 | HelloFresh | Backend Engineer, Growth Alliance(m/f/d) — Filtered: non-Senior
+- [!] https://careers.hellofresh.com/global/en/job/7758211?gh_jid=7758211 | HelloFresh | Senior Backend Engineer, Deliveries & Orders (f/m/x) — Dupe of 7757845
+- [!] https://careers.hellofresh.com/global/en/job/7618797?gh_jid=7618797 | HelloFresh | Senior Backend Engineer, Growth Alliance (f/m/x) — Dupe of 7668433
+
+### Attio
+
+### 2026-04-20 Research pass (Tier 1)
+
+### 2026-04-22 LinkedIn discovery pass
+- [ ] https://www.linkedin.com/jobs/view/4402073168/ | Oscilar | Sr./Staff Backend Engineer - Java - Warsaw (live LinkedIn URL; prior batch used stale Ashby)
+- [ ] https://www.linkedin.com/jobs/view/4401721606/ | InPost | (Senior) Software Engineer Java+Angular - Warsaw
+- [ ] https://www.linkedin.com/jobs/view/4387302419/ | Epassi | Staff Software Engineer (Java) - Poland
+- [ ] https://www.linkedin.com/jobs/view/4398492404/ | OEC | Senior Software Engineer (Java/Kotlin) - Poland
+- [ ] https://www.linkedin.com/jobs/view/4388222583/ | Capco | Senior Java Developer (AWS, microservices) - Poland
+- [ ] https://www.linkedin.com/jobs/view/4324639172/ | Patrianna | Senior Java Engineer (Fin-tech) - Poland
+- [ ] https://www.linkedin.com/jobs/view/4398483611/ | Oliver Bernard | Senior Java Dev (API & Legacy Modernisation) - Remote Poland (staffing agency)
+- [ ] https://www.linkedin.com/jobs/view/4371392312/ | Sport Alliance | Senior Backend Engineer Java - Warsaw
+- [ ] https://www.linkedin.com/jobs/view/4400815680/ | Zartis | Senior Software Engineer - Poland (consultancy; Java + Node.js mixed)
+- [ ] https://www.linkedin.com/jobs/view/4399773296/ | RemoteStar | Senior Java Engineer - Poland (agentic-AI focus: MCP/Claude Code/Copilot)
+- [ ] https://www.linkedin.com/jobs/view/4370818093/ | Housecall Pro | Senior Software Engineer (Fullstack) - Warsaw (AI tools heavy; stack vague)
+- [ ] https://www.linkedin.com/jobs/view/4401637704/ | Masabi | Software Engineer - Romania (Java/Kotlin/Kafka/AWS; borderline geo)
+- [ ] https://www.linkedin.com/jobs/view/4395056940/ | Southend Pharmacy | Senior Backend Developer - Portugal (mixed Node/Java/Kotlin/Python)
+- [ ] https://www.linkedin.com/jobs/view/4404387322/ | Haystack | Senior Software Developer - UK (fintech, vague cloud stack)
+- [ ] https://www.linkedin.com/jobs/view/4404553921/ | ecosio | Full Stack Developer Java+React - Austria (Java/Spring/React/Cassandra/K8s)
+- [ ] https://www.linkedin.com/jobs/view/4403675942/ | Vermont Solutions | Java Backend Developer (Java 17/Spring Boot) - Remote Spain (Murex fintech)
+- [ ] https://www.linkedin.com/jobs/view/4404563950/ | RJC Group | Java Software Engineer - Germany (Java 17/Spring/Azure, Mid-Senior)
+
+## Procesados
+
+- [x] #001 | https://boards.greenhouse.io/freenow/jobs/3557841 | FREE NOW | Backend Engineer (Multi Mobility) - remote EU | 3.6/5 | PDF ❌
+- [x] #002 | https://job-boards.greenhouse.io/xebiacee/jobs/5965206004 | Xebia CEE | Senior Java Developer - Poland/Eastern Europe | 3.5/5 | PDF ❌
+- [x] #003 | https://job-boards.greenhouse.io/jetbrains/jobs/4785398101 | JetBrains | Software Architect (Platform Architecture) - Remote Europe | 4.2/5 | PDF ❌
+- [x] #004 | https://job-boards.greenhouse.io/jetbrains/jobs/4787910101 | JetBrains | Software Architect (Product Architecture) - Remote Europe | 4.3/5 | PDF ❌
+- [x] #005 | https://job-boards.greenhouse.io/jetbrains/jobs/4814975101 | JetBrains | Staff Engineer (Platform Architecture) - Remote Europe | 4.3/5 | PDF ❌
+- [x] #006 | https://job-boards.greenhouse.io/jetbrains/jobs/4696975101 | JetBrains | Senior Backend Developer (Java/Kotlin) - Warsaw/Remote Europe | 3.9/5 | PDF ❌
+- [x] #007 | https://job-boards.greenhouse.io/gr8tech/jobs/4823469101 | GR8 Tech | Software Architect - Poland/Prague | 3.8/5 | PDF ❌
+- [x] #008 | https://job-boards.greenhouse.io/testlio/jobs/6559667 | Testlio | Sr. Software Architect - Remote EMEA | 2.8/5 | PDF ❌
+- [x] #009 | https://boards.greenhouse.io/grafanalabs/jobs/5239834004 | Grafana Labs | Principal Backend Engineer - Remote UK | 3.8/5 | PDF ❌
+- [x] #010 | https://jobs.lever.co/jobandtalent/43becf0a-0f5d-41f1-b4e8-2b40d06a6207 | Job&Talent | Senior Backend Engineer (Kotlin) - EMEA Remote | 3.7/5 | PDF ❌
+- [x] #011 | https://jobs.lever.co/qonto/cb08b718-ee57-4a19-bff5-b97ad448b7a0 | Qonto | Senior/Staff Backend Engineer - Remote Friendly | 3.5/5 | PDF ❌
+- [x] #012 | https://jobs.lever.co/bee-talents/62a91470-1a92-4aa5-9d21-2d16b5f33699 | Bee Talents | Senior Backend Engineer (Java/Kotlin) - Warsaw | 3.4/5 | PDF ❌
+- [x] #013 | https://jobs.lever.co/brevo/d2e638b4-6818-460d-bbf0-d430ad4a0816 | Brevo | Principal Architect - Hybrid (Berlin/Paris/Sofia) | 3.9/5 | PDF ❌
+- [x] #014 | https://jobs.ashbyhq.com/secfix/32dec1d2-0e04-4563-bae7-afad01629cd2 | Secfix | Senior Product Engineer (Backend, Java) - EMEA Remote | 3.6/5 | PDF ❌
+- [x] #015 | https://jobs.ashbyhq.com/lemfi/e3fc0d96-e45d-48c8-aaa2-679119d7dd85 | LemFi | Senior Backend Engineer (Java) | 3.7/5 | PDF ❌
+- [x] #016 | https://jobs.ashbyhq.com/li.fi/41ec6850-0344-4df8-8519-d857e34566a9 | LI.FI | Senior Backend Engineer - Remote Europe | 2.5/5 | PDF ❌
+- [x] #017 | https://jobs.ashbyhq.com/starbridge/2c52b825-15d8-47b2-ae54-1642761732ca | Starbridge | Senior Backend Software Engineer (Java/Kotlin) - EMEA/LATAM Remote | 4.1/5 | PDF ❌
+- [x] #018 | https://www.tide.co/careers/staff-engineer-backend-6255633003/ | Tide | Staff Backend Engineer (Java/Spring Boot) - Remote | 4.4/5 | PDF ❌
+- [x] #019 | https://euremotejobs.com/job/staff-backend-engineer-developer-productivity/ | Grafana Labs | Staff Backend Engineer - Developer Productivity - Remote | 3.4/5 | PDF ❌
+- [x] #020 | https://euremotejobs.com/job/staff-backend-engineer-grafana-irm-remote-emea-grafana-labs/ | Grafana Labs | Staff Backend Engineer - Grafana IRM - Remote EMEA | 3.5/5 | PDF ❌
+- [x] #021 | https://euremotejobs.com/job/software-engineer-backend-java-connectors/ | Camunda | Software Engineer Backend (Java) - Remote EU | 4.0/5 | PDF ❌
+- [x] #022 | https://euremotejobs.com/job/staff-backend-engineer-remote-europe/ | Nango | Staff Backend Engineer - Remote Europe | 3.8/5 | PDF ❌
+- [x] #023 | https://jobs.allegro.eu/offer/senior-software-engineer-java-kotlin-delivery-experience/ | Allegro | Senior Software Engineer (Java/Kotlin) - Delivery Experience - Warsaw | 3.8/5 | PDF ❌
+- [x] #024 | https://justjoin.it/job-offer/allegro-senior-software-engineer-java-kotlin---a-b-testing-platform-team-warszawa-java | Allegro | Senior Software Engineer (Java/Kotlin) - A/B Testing Platform - Warsaw | 3.7/5 | PDF ❌
+- [x] #025 | https://justjoin.it/job-offer/allegro-team-leader-java-kotlin---hands-on-engineering-lead--warszawa-java-28319281 | Allegro | Team Leader (Java/Kotlin) - Hands-on Engineering Lead - Warsaw | 3.7/5 | PDF ❌
+- [x] #026 | https://justjoin.it/job-offer/jit-team-senior-java-developer-tech-lead-with-kotlin-warszawa-java | Jit Team | Senior Java Developer/Tech Lead (Kotlin) - Warsaw | 3.8/5 | PDF ❌
+- [x] #027 | https://justjoin.it/job-offer/evooq-senior-software-engineer-warszawa-java | Evooq | Senior Software Engineer (Java/Kotlin/Spring Boot) - Warsaw | 3.9/5 | PDF ❌
+- [x] #028 | https://justjoin.it/job-offer/citigroup-java-lead-simpliciti-data-warsaw-java | Citigroup | Java Lead - Simpliciti Data - Warsaw | 3.9/5 | PDF ❌
+- [x] #029 | https://justjoin.it/job-offer/devsdata-llc-full-stack-developer-w-java-and-react-100-remote--warsaw-java | DevsData LLC | Full Stack Developer (Java + React) - 100% Remote | 3.8/5 | PDF ❌
+- [x] #030 | https://www.pracuj.pl/praca/senior-java-developer-application-architect-warszawa,oferta,1004517370 | ITDS Polska | Senior Java Developer Application Architect - Warsaw | 4.0/5 | PDF ❌
+- [x] #031 | https://www.pracuj.pl/praca/senior-fullstack-developer-java-+-angular-warszawa,oferta,1004226490 | ITDS Polska | Senior Fullstack Developer (Java + Angular) - Warsaw | 3.5/5 | PDF ❌
+- [x] #032 | https://www.pracuj.pl/praca/remote-senior-java-backend-developer-warszawa,oferta,1001864385 | Vodeno | Remote Senior Java Backend Developer | 4.1/5 | PDF ❌
+- [x] #033 | https://theprotocol.it/praca/senior-backend-java-developer-m-f-warszawa-aleje-jerozolimskie-100,oferta,dea60000-5e54-7abc-6bff-08dd8ef074f0 | Fiserv Polska | Senior Backend Java Developer - Warsaw | 3.8/5 | PDF ❌
+- [x] #034 | https://theprotocol.it/szczegoly/praca/senior-java-developer-remote-warszawa-towarowa-28,oferta,4b390000-0207-325a-2024-08de655747f2 | Vistra Poland | Senior Java Developer - Remote/Warsaw | 3.6/5 | PDF ❌
+- [x] #035 | https://inhire.io/praca/senior-java-developer-remote-poland-poznan-wierzbiecice--1b-gdansk-grunwaldzka-103-a-warszawa-prosta--61-job-arbeit-87935 | XTB | Senior Java Developer - Remote within Poland/Warsaw | 4.1/5 | PDF ❌
+- [x] #036 | https://inhire.io/praca/engineering-team-leader-java--remote-poland-warszawa-prosta--61-job-arbeit-121235 | XTB | Engineering Team Leader (Java) - Remote Poland/Warsaw | 4.0/5 | PDF ❌
+- [x] #037 | https://apply.workable.com/motork/j/C84D6C6430 | MotorK | Backend Engineer (Java/Spring) - Europe | 3.4/5 | PDF ❌
+- [x] #038 | https://apply.workable.com/celum/j/8011074F00/ | CELUM | Java Backend Engineer - Remote | 3.5/5 | PDF ❌
+- [x] #039 | https://echojobs.io/job/klarna-senior-backend-engineer-java-dy752 | Klarna | Senior Backend Engineer - Java | 4.0/5 | PDF ❌
+- [x] #040 | https://www.revolut.com/careers/position/software-engineer-backend-530d3bfd-bdca-4390-8f8a-bc88ddc1eb51/ | Revolut | Mid/Senior Software Engineer (Java) - Remote | 3.8/5 | PDF ❌
+- [x] #041 | https://wise.jobs/job/senior-software-engineer-ii-backend-java-recommend-in-london-jid-2927 | Wise | Senior Software Engineer II Backend (Java) - London/Hybrid | 3.4/5 | PDF ❌
+- [x] #042 | https://remotive.com/remote/jobs/software-development/staff-backend-engineer-foundations-3801157 | Fanatics | Staff Backend Engineer Foundations (Spring/Java/Kotlin) - Remote | 2.8/5 | PDF ❌
+- [x] #043 | https://remotive.com/remote/jobs/software-development/staff-backend-engineer-4088780 | Zeta Global | Staff Backend Engineer (Java/Go) - Remote | 2.8/5 | PDF ❌
+- [x] #044 | https://remotive.com/remote/jobs/software-development/senior-backend-engineer-3016119 | Netguru | Senior Backend Engineer - EU Remote | 3.7/5 | PDF ❌
+- [x] #045 | https://app.welcometothejungle.com/jobs/Xl64QUH9 | Thought Machine | Senior Back End Engineer - Remote/Europe | 3.2/5 | PDF ❌
+- [x] #051 | https://www.linkedin.com/jobs/view/4387119622/ | Salmon Group Ltd | Java Developer (API) - EU Remote | 3.4/5 | PDF ✅
+- [x] #053 | https://www.linkedin.com/jobs/view/4394633244/ | Sprint and Partners | Backend Engineer (Payments startup) - EU Remote | 4.6/5 | PDF ✅
+- [x] #052 | https://www.linkedin.com/jobs/view/4385437814/ | Turnitin | Principal/Senior Software Engineer Fullstack/Backend - Poland Remote | —/5 | PDF ❌
+- [x] #054 | https://www.linkedin.com/jobs/view/4388086452/ | CKEditor (CKSource) | Principal Product Engineer - Poland Remote | 3.5/5 | PDF ✅
+- [x] #055 | https://jobs.ashbyhq.com/oscilar/90a8856a-2b26-4bac-add6-8eb246f868f3 | Oscilar | Sr./Staff Backend Engineer - Java | 3.6/5 | PDF ✅
+- [x] #056 | https://jobs.ashbyhq.com/oscilar/f0af6a8f-08bd-448d-9b6a-1a10ebe933bf | Oscilar | Sr./Staff Backend Engineer - Java/Kafka | 3.9/5 | PDF ✅
+- [x] #057 | https://jobs.lever.co/miinto/df741263-b39b-4b8b-b1dc-4476e3e1a049 | Miinto | Senior Backend Developer - Java (Remote/Warsaw) | —/5 | PDF ❌
+- [x] #058 | https://job-boards.greenhouse.io/convera/jobs/4559104101 | Convera | Senior Software Engineer - Java/Spring Boot/Microservices Remote | —/5 | PDF ❌
+- [x] #059 | https://jobs.smartrecruiters.com/Visa/743999991624582-senior-software-engineer-java-backend | Visa | Senior Software Engineer - Java Backend Warsaw | 3.2/5 | PDF ✅
+- [x] #060 | https://jobs.smartrecruiters.com/smartrecruiters/744000033939292-senior-software-engineer-backend | SmartRecruiters | Senior Software Engineer Backend - Poland Remote | 3.6/5 | PDF ✅
+- [x] #061 | https://jobs.ashbyhq.com/helpscout/b917ffb5-425d-44cf-9321-651a81c5ecba | Help Scout | Sr. Java/Kotlin Engineer - Search (Remote, $156k-$168k) | —/5 | PDF ❌
+- [x] #062 | https://join.com/companies/kerno/15837258-senior-kotlin-java-backend-engineer-europe | Kerno | Senior Kotlin/Java Backend Engineer - Europe Remote | 3.0/5 | PDF ✅
+- [x] #063 | https://www.pracuj.pl/praca/tech-lead-solution-architect-warszawa-twarda-18,oferta,1003733839 | ALGOTEQUE | Tech Lead / Solution Architect - Warsaw | —/5 | PDF ❌
+- [x] #064 | https://www.pracuj.pl/praca/solution-architect-technical-lead-warszawa,oferta,1001192440 | Roche | Solution Architect - Technical Lead - Warsaw | 2.2/5 | PDF ❌
+- [x] #065 | https://www.pracuj.pl/praca/senior-backend-developer-java-warszawa,oferta,1004468303 | ITDS Polska | Senior Backend Developer (Java) - Warsaw | 3.0/5 | PDF ✅
+- [x] #066 | https://justjoin.it/job-offer/the-software-house-java-solution-architect-warszawa-java | The Software House | Java Solution Architect - Warsaw | 3.1/5 | PDF ✅
+- [x] #067 | https://sumup.com/careers/positions/8222274002?gh_jid=8222274002 | SumUp | Senior Backend Engineer - Fiscalization | 3.9/5 | PDF ✅
+- [x] #068 | https://job-boards.greenhouse.io/grafanalabs/jobs/5853481004 | Grafana Labs | Senior Backend SWE - Alerting (Germany Remote; representative of 5 EU locations) | 2.8/5 | PDF ❌
+- [x] #069 | https://job-boards.greenhouse.io/grafanalabs/jobs/5968641004 | Grafana Labs | Senior SWE - Databases Managed Services (Spain Remote; representative of 3 EU locations) | 2.7/5 | PDF ❌
+- [x] #070 | https://job-boards.greenhouse.io/grafanalabs/jobs/5764241004 | Grafana Labs | Senior SWE - k6 (Germany Remote; representative of 4 EU locations) | 2.3/5 | PDF ❌
+- [x] #071 | https://job-boards.greenhouse.io/grafanalabs/jobs/5801256004 | Grafana Labs | Staff Backend SWE - Adaptive Telemetry (Germany Remote; representative of 4 EU locations) | 2.8/5 | PDF ❌
+- [x] #072 | https://job-boards.greenhouse.io/grafanalabs/jobs/5809261004 | Grafana Labs | Staff SWE - Grafana Cloud Observability K8s Monitoring (Germany Remote; representative of 4 EU locations) | 3.2/5 | PDF ✅
+- [x] #073 | https://job-boards.greenhouse.io/grafanalabs/jobs/5968613004 | Grafana Labs | Staff SWE - Databases Managed Services (Spain Remote; representative of 3 EU locations) | 2.3/5 | PDF ❌
+- [x] #074 | https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726 | Datadog | Partner Solutions Architect (EMEA) | 1.8/5 | PDF ❌
+- [x] #075 | https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer: Data | 2.4/5 | PDF ❌
+- [x] #076 | https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8 | Supabase | SDK Engineer - Kotlin | 2.0/5 | PDF ❌
+- [x] #077 | https://jobs.ashbyhq.com/supabase/8a49c4b3-a48b-4d6a-9c3c-36943fcd0dfb | Supabase | Software Engineer - Supavisor | 2.0/5 | PDF ❌
+- [x] #078 | https://jobs.ashbyhq.com/supabase/64085bde-a5c2-4198-a2e1-d76f5a78f56f | Supabase | Strategic Customer Solutions Architect (EMEA) | 1.9/5 | PDF ❌
+- [x] #079 | https://www.mongodb.com/careers/job/?gh_jid=7557618 | MongoDB | Solutions Architect, German speaker (language req may be blocker) | 1.5/5 | PDF ❌
+- [x] #080 | https://careers.hellofresh.com/global/en/job/7364459?gh_jid=7364459 | HelloFresh | Senior Backend Engineer, Active Journey | 2.0/5 | PDF ❌
+- [x] #081 | https://careers.hellofresh.com/global/en/job/7618894?gh_jid=7618894 | HelloFresh | Senior Backend Engineer, Active Journey Alliance | 3.2/5 | PDF ✅
+- [x] #082 | https://careers.hellofresh.com/global/en/job/7601774?gh_jid=7601774 | HelloFresh | Senior Backend Engineer, Cart | 3.5/5 | PDF ✅
+- [x] #083 | https://careers.hellofresh.com/global/en/job/7641270?gh_jid=7641270 | HelloFresh | Senior Backend Engineer, Data | —/5 | PDF ❌
+- [x] #084 | https://careers.hellofresh.com/global/en/job/7757845?gh_jid=7757845 | HelloFresh | Senior Backend Engineer, Deliveries and Orders | 3.1/5 | PDF ✅
+- [x] #085 | https://careers.hellofresh.com/global/en/job/7774546?gh_jid=7774546 | HelloFresh | Senior Backend Engineer, Finance Tech | —/5 | PDF ❌
+- [x] #086 | https://careers.hellofresh.com/global/en/job/7668433?gh_jid=7668433 | HelloFresh | Senior Backend Engineer, Growth Alliance | 3.1/5 | PDF ✅
+- [x] #087 | https://careers.hellofresh.com/global/en/job/7806851?gh_jid=7806851 | HelloFresh | Senior Backend Engineer, Menu Personalization | 2.0/5 | PDF ❌
+- [x] #088 | https://careers.hellofresh.com/global/en/job/7757846?gh_jid=7757846 | HelloFresh | Senior Backend Engineer, Plans Squad (f/m/x) | 3.2/5 | PDF ✅
+- [x] #089 | https://careers.hellofresh.com/global/en/job/7618910?gh_jid=7618910 | HelloFresh | Staff Backend Engineer, Active Journey Alliance | 4.0/5 | PDF ✅
+- [x] #090 | https://careers.hellofresh.com/global/en/job/7807207?gh_jid=7807207 | HelloFresh | Staff Backend Engineer, Plans Squad (f/m/x) | 4.6/5 | PDF ✅
+- [x] #091 | https://jobs.ashbyhq.com/attio/433cfa12-a43d-435e-9f69-8fb8688d1b10 | Attio | Senior Product Engineer [Backend] | 3.0/5 | PDF ✅
+- [x] #092 | https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9 | Attio | Senior Platform Engineer | 2.6/5 | PDF ❌
+- [x] #093 | https://jobs.ashbyhq.com/attio/12b5faed-50b9-4b7a-80e8-af17b621cbe2 | Attio | Engineering Lead | 2.0/5 | PDF ❌
+- [x] #094 | https://jobs.ashbyhq.com/attio/a7ef676f-ba62-4316-afd6-43e9ff619378 | Attio | Staff Product Engineer | 3.3/5 | PDF ✅
+- [x] #095 | https://job-boards.greenhouse.io/kalepa/jobs/5737333004 | Kalepa | Senior Backend Engineer - Client Integrations - Europe Remote | 2.9/5 | PDF ❌
+- [x] #096 | https://job-boards.greenhouse.io/kalepa/jobs/5755011004 | Kalepa | Senior Backend Engineer - Submission Processing - Europe Remote | 2.2/5 | PDF ❌
+- [x] #097 | https://job-boards.greenhouse.io/kalepa/jobs/5737445004 | Kalepa | Staff Backend Engineer - New Products - Europe Remote | 2.8/5 | PDF ❌
+- [x] #098 | https://job-boards.greenhouse.io/kalepa/jobs/5737411004 | Kalepa | Senior Fullstack Engineer - Core UX - Europe Remote | 1.9/5 | PDF ❌
+- [x] #099 | https://job-boards.greenhouse.io/kalepa/jobs/5796047004 | Kalepa | Tech Lead Manager - Client Integrations - Europe Remote | 2.9/5 | PDF ❌
+- [x] #100 | https://careers.tieto.com/job/software-engineer-java-tietoevry-create-m-f-d-in-warsaw-poland-jid-146 | TietoEVRY | Software Engineer Java - Warsaw (payments domain overlap with RedCompass) | 2.8/5 | PDF ❌
+- [x] #101 | https://careers.tieto.com/job/lead-software-engineer-java-c-wcs-tietoevry-create-m-f-d-in-poznan-poland-jid-1218 | TietoEVRY | Lead Software Engineer Java/C# - Poznań | 1.5/5 | PDF ❌
+- [x] #102 | https://job-boards.greenhouse.io/awin/jobs/7647229003 | Awin | Engineering Manager - Enterprise Integrations - Warsaw (+Berlin/Amsterdam/London/Madrid/Milan/Munich/Iași/Hannover) | 3.4/5 | PDF ✅
+- [x] #103 | https://opportunities.northzone.com/companies/klarna/jobs/42752146-senior-software-engineer-java | Klarna | Senior SWE Java - Warsaw — VERIFY live via jobs.deel.com/job-boards/klarna (mirror shows closed but Warsaw hub is hiring) | 2.9/5 | PDF ❌
+- [x] #104 | https://www.linkedin.com/jobs/view/senior-software-engineer-sports-feed-domain-at-pawatech-4402262620 | pawaTech | Senior SWE - Sports Feed - EEA Remote (iGaming/sportsbook — moral fit check) | 2.2/5 | PDF ❌
+- [x] #105 | https://es.linkedin.com/jobs/view/principal-engineer-backend-at-epassi-4383972147 | Epassi | Principal Engineer Backend - Remote-first EU (confirm Poland eligibility on LinkedIn) | 4.5/5 | PDF ✅
